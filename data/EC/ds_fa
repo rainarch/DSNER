@@ -1,0 +1,24536 @@
+2	O
+5	O
+k	O
+g	O
+大	B-cp
+米	I-cp
+多	O
+少	O
+钱	O
+
+尤	O
+妮	O
+佳	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+贝	B-pp
+亲	I-pp
+防	O
+溢	O
+乳	O
+垫	O
+
+想	O
+买	O
+面	B-cp
+膜	I-cp
+
+手	B-cp
+套	I-cp
+ 	O
+洗	O
+碗	O
+ 	O
+家	O
+务	O
+薄	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+法	O
+兰	O
+琳	O
+卡	O
+套	B-cp
+装	I-cp
+
+咖	B-cp
+啡	I-cp
+奶	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+超	O
+能	O
+植	O
+翠	O
+低	O
+泡	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+依	O
+云	O
+矿	B-cp
+泉	I-cp
+水	I-cp
+喷	B-cp
+雾	I-cp
+多	O
+少	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+机	I-cp
+清	O
+洗	O
+剂	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+小	O
+龙	O
+虾	O
+ 	O
+天	B-pp
+猫	I-pp
+
+我	O
+要	O
+买	O
+冷	O
+酸	O
+灵	O
+牙	B-cp
+膏	I-cp
+
+牙	B-cp
+线	I-cp
+棒	O
+ 	O
+扁	O
+线	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+鸽	B-cp
+子	I-cp
+蛋	O
+
+木	B-cp
+瓜	I-cp
+干	O
+多	O
+少	O
+钱	O
+
+蚊	B-cp
+帐	I-cp
+架	O
+ 	O
+不	O
+锈	O
+钢	O
+ 	O
+支	O
+架	O
+多	O
+少	O
+钱	O
+
+膳	O
+魔	O
+师	O
+保	B-cp
+温	I-cp
+杯	I-cp
+多	O
+少	O
+钱	O
+
+奥	B-pp
+妙	I-pp
+水	O
+清	O
+莲	O
+香	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+多	O
+少	O
+钱	O
+
+苏	O
+宁	O
+易	O
+购	O
+想	O
+买	O
+个	O
+手	B-cp
+机	I-cp
+，	O
+但	O
+一	O
+直	O
+订	O
+单	O
+管	O
+理	O
+
+宝	O
+宝	O
+牙	B-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+苹	O
+果	O
+6	O
+s	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+宝	O
+宝	O
+学	B-cp
+饮	I-cp
+杯	I-cp
+
+我	O
+要	O
+买	O
+莲	O
+子	O
+ 	O
+无	O
+芯	O
+干	B-cp
+货	I-cp
+
+洗	B-cp
+衣	I-cp
+粉	I-cp
+小	O
+包	O
+多	O
+少	O
+钱	O
+
+辣	O
+味	O
+小	B-cp
+吃	I-cp
+零	B-cp
+食	I-cp
+ 	O
+休	B-cp
+闲	I-cp
+食	I-cp
+品	I-cp
+ 	O
+小	O
+包	O
+装	O
+多	O
+少	O
+钱	O
+
+北	O
+京	O
+稻	O
+香	O
+村	O
+特	O
+产	O
+糕	B-cp
+点	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+想	O
+买	O
+祛	O
+痘	O
+补	O
+水	O
+的	O
+面	B-cp
+膜	I-cp
+
+辣	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+郁	O
+美	O
+净	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+多	O
+少	O
+钱	O
+
+菲	O
+比	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+维	B-pp
+达	I-pp
+1	O
+4	O
+0	O
+g	O
+
+水	B-cp
+杯	I-cp
+ 	O
+吸	O
+管	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+日	O
+清	O
+拌	B-cp
+面	I-cp
+
+我	O
+要	O
+买	O
+葵	B-cp
+花	I-cp
+籽	I-cp
+油	I-cp
+
+我	O
+要	O
+买	O
+咖	B-cp
+啡	I-cp
+特	O
+浓	O
+
+我	O
+要	O
+买	O
+手	O
+纸	O
+ 	O
+卫	B-cp
+生	I-cp
+纸	I-cp
+
+我	O
+要	O
+买	O
+内	B-cp
+裤	I-cp
+男	O
+士	O
+
+心	B-pp
+相	I-pp
+印	I-pp
+w	O
+e	O
+多	O
+少	O
+钱	O
+
+婴	O
+儿	O
+花	O
+露	O
+水	O
+喷	B-cp
+雾	I-cp
+多	O
+少	O
+钱	O
+
+干	O
+果	O
+礼	B-cp
+盒	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+奥	B-pp
+利	I-pp
+奥	I-pp
+巧	B-cp
+克	I-cp
+力	I-cp
+棒	O
+
+进	O
+口	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+夹	B-cp
+子	I-cp
+ 	O
+不	O
+锈	O
+钢	O
+
+面	O
+纸	O
+抽	B-cp
+纸	I-cp
+多	O
+少	O
+钱	O
+
+蜂	B-pp
+花	I-pp
+无	O
+硅	O
+油	O
+多	O
+少	O
+钱	O
+
+上	O
+质	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+指	O
+甲	O
+钳	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+心	B-pp
+相	I-pp
+印	I-pp
+ 	O
+抽	B-cp
+纸	I-cp
+多	O
+少	O
+钱	O
+
+东	O
+北	O
+大	B-cp
+米	I-cp
+五	B-cp
+常	I-cp
+大	I-cp
+米	I-cp
+稻	O
+花	O
+香	O
+米	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+希	O
+望	O
+宝	O
+宝	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+
+八	O
+宝	O
+粥	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+沐	B-cp
+浴	I-cp
+露	I-cp
+套	B-cp
+装	I-cp
+女	O
+士	O
+
+我	O
+要	O
+买	O
+进	O
+口	O
+方	B-cp
+便	I-cp
+面	I-cp
+ 	O
+桶	O
+装	O
+
+衬	B-cp
+衫	I-cp
+
+阿	O
+道	O
+夫	O
+滋	O
+润	O
+修	O
+护	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+魅	B-pp
+族	I-pp
+
+蒙	O
+古	O
+熟	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+男	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+薄	B-cp
+饼	I-cp
+干	O
+
+我	O
+要	O
+买	O
+百	B-pp
+醇	I-pp
+格	B-pp
+力	I-pp
+高	O
+
+巧	B-pp
+媳	I-pp
+妇	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+太	O
+渍	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+我	O
+要	O
+买	O
+毛	B-cp
+巾	I-cp
+成	O
+人	O
+
+我	O
+要	O
+买	O
+木	O
+地	B-cp
+板	I-cp
+拖	O
+把	O
+
+我	O
+要	O
+买	O
+贝	B-pp
+亲	I-pp
+纸	B-cp
+尿	I-cp
+裤	I-cp
+
+沐	B-cp
+浴	I-cp
+露	I-cp
+日	O
+本	O
+多	O
+少	O
+钱	O
+
+奶	B-cp
+瓶	I-cp
+收	O
+纳	O
+多	O
+少	O
+钱	O
+
+女	B-cp
+装	I-cp
+！	O
+
+苹	O
+果	O
+7	O
+钢	B-cp
+化	I-cp
+膜	I-cp
+多	O
+少	O
+钱	O
+
+客	O
+厅	O
+吸	B-cp
+顶	I-cp
+灯	I-cp
+
+我	O
+要	O
+买	O
+抽	B-cp
+纸	I-cp
+ 	O
+2	O
+0	O
+0	O
+ 	O
+抽	O
+
+自	O
+然	O
+堂	O
+面	B-cp
+膜	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+爽	B-cp
+肤	I-cp
+水	I-cp
+ 	O
+男	O
+士	O
+收	O
+缩	O
+毛	O
+孔	O
+
+我	O
+要	O
+买	O
+纸	O
+盒	O
+抽	B-cp
+纸	I-cp
+
+磨	O
+砂	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+面	B-cp
+膜	I-cp
+男	O
+
+我	O
+要	O
+买	O
+纸	B-cp
+巾	I-cp
+小	O
+包	O
+ 	O
+迷	O
+你	O
+
+子	B-pp
+初	I-pp
+牙	B-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+鸭	O
+舌	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+多	O
+少	O
+钱	O
+
+早	O
+餐	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+益	O
+力	O
+多	O
+乳	B-cp
+酸	I-cp
+菌	I-cp
+乳	O
+饮	O
+品	O
+多	O
+少	O
+钱	O
+
+婴	B-cp
+儿	I-cp
+电	I-cp
+蚊	I-cp
+香	I-cp
+液	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+尿	B-cp
+不	I-cp
+湿	I-cp
+m	O
+
+昨	O
+天	O
+买	O
+的	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+大	B-cp
+米	I-cp
+到	O
+哪	O
+个	O
+位	O
+置	O
+了	O
+
+天	B-pp
+猫	I-pp
+超	O
+市	O
+纸	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+真	O
+知	O
+棒	O
+水	B-cp
+果	I-cp
+糖	O
+棒	O
+棒	O
+糖	O
+
+立	O
+白	B-cp
+茶	I-cp
+籽	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+三	O
+只	O
+松	O
+鼠	O
+零	B-cp
+食	I-cp
+
+我	O
+要	O
+买	O
+百	O
+威	O
+啤	B-cp
+酒	I-cp
+5	B-gg
+0	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+
+子	B-pp
+初	I-pp
+护	O
+理	O
+垫	O
+多	O
+少	O
+钱	O
+
+金	O
+锣	O
+无	O
+淀	B-cp
+粉	I-cp
+王	O
+中	O
+王	O
+火	O
+腿	O
+肠	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+冰	B-cp
+淇	I-cp
+淋	I-cp
+盒	O
+
+哈	O
+密	O
+瓜	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+买	O
+全	O
+新	O
+手	B-cp
+机	I-cp
+收	O
+到	O
+翻	B-cp
+新	I-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+德	O
+国	O
+进	O
+口	O
+牛	B-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+和	O
+润	O
+酸	B-cp
+奶	I-cp
+
+维	B-pp
+达	I-pp
+ 	O
+厨	O
+房	O
+多	O
+少	O
+钱	O
+
+子	B-pp
+初	I-pp
+护	O
+脐	O
+贴	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+运	B-cp
+动	I-cp
+鞋	I-cp
+
+蜂	B-cp
+蜜	I-cp
+柠	O
+檬	O
+片	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+奶	B-cp
+瓶	I-cp
+夹	O
+
+曼	B-pp
+秀	I-pp
+雷	I-pp
+敦	I-pp
+男	O
+士	O
+多	O
+少	O
+钱	O
+
+小	B-xh
+安	I-xh
+素	I-xh
+多	O
+少	O
+钱	O
+
+好	B-pp
+奇	I-pp
+银	O
+装	O
+m	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+抽	B-cp
+纸	I-cp
+ 	O
+维	B-pp
+达	I-pp
+
+费	O
+雪	O
+ 	O
+学	B-cp
+步	I-cp
+车	I-cp
+多	O
+少	O
+钱	O
+
+书	B-cp
+包	I-cp
+
+我	O
+要	O
+买	O
+伊	B-pp
+利	I-pp
+金	O
+领	O
+冠	O
+3	O
+段	O
+
+我	O
+想	O
+买	O
+小	B-pp
+米	I-pp
+6	O
+
+沐	B-cp
+浴	I-cp
+露	I-cp
+ 	O
+多	B-pp
+芬	I-pp
+多	O
+少	O
+钱	O
+
+强	B-pp
+生	I-pp
+身	B-cp
+体	I-cp
+乳	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+女	O
+套	B-cp
+装	I-cp
+夏	O
+
+蚊	O
+虫	O
+喷	B-cp
+雾	I-cp
+剂	O
+多	O
+少	O
+钱	O
+
+耳	B-cp
+机	I-cp
+头	O
+戴	O
+式	O
+电	B-cp
+脑	I-cp
+带	O
+麦	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+亲	O
+嘴	O
+烧	O
+ 	O
+卫	B-pp
+龙	I-pp
+
+喷	O
+水	B-cp
+壶	I-cp
+浇	O
+花	O
+壶	O
+多	O
+少	O
+钱	O
+
+买	O
+件	O
+衬	B-cp
+衫	I-cp
+
+我	O
+要	O
+买	O
+滴	O
+露	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+ 	O
+海	O
+洋	O
+
+泸	B-pp
+州	I-pp
+老	I-pp
+窖	I-pp
+特	O
+曲	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+凉	B-cp
+鞋	I-cp
+女	O
+
+诺	O
+优	O
+能	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+内	B-cp
+裤	I-cp
+ 	O
+儿	O
+童	O
+
+衣	B-cp
+服	I-cp
+刷	O
+多	O
+少	O
+钱	O
+
+手	B-cp
+机	I-cp
+上	O
+如	O
+何	O
+申	O
+请	O
+退	O
+款	O
+？	O
+
+我	O
+要	O
+买	O
+衣	B-cp
+服	I-cp
+套	B-cp
+装	I-cp
+女	O
+
+我	O
+要	O
+买	O
+费	B-pp
+列	I-pp
+罗	I-pp
+巧	B-cp
+克	I-cp
+力	I-cp
+礼	B-cp
+盒	I-cp
+装	O
+
+雀	B-pp
+巢	I-pp
+能	O
+恩	O
+2	O
+段	O
+多	O
+少	O
+钱	O
+
+大	B-pp
+吃	I-pp
+兄	I-pp
+锅	B-cp
+巴	I-cp
+多	O
+少	O
+钱	O
+
+裱	O
+花	O
+工	B-cp
+具	I-cp
+多	O
+少	O
+钱	O
+
+一	O
+叶	B-cp
+子	I-cp
+洗	B-cp
+面	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+陈	O
+克	O
+明	O
+挂	B-cp
+面	I-cp
+多	O
+少	O
+钱	O
+
+面	B-cp
+包	I-cp
+糠	O
+炸	O
+鸡	O
+裹	O
+粉	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+日	O
+式	O
+餐	B-cp
+具	I-cp
+
+美	B-cp
+瞳	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+蛇	O
+果	O
+苹	O
+果	O
+水	B-cp
+果	I-cp
+ 	O
+新	O
+鲜	O
+
+维	O
+爽	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+多	O
+少	O
+钱	O
+
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+子	O
+弟	O
+薯	B-cp
+片	I-cp
+
+君	B-pp
+乐	I-pp
+宝	I-pp
+
+水	B-cp
+杯	I-cp
+宝	O
+宝	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+婴	O
+儿	O
+ 	O
+奶	B-cp
+粉	I-cp
+
+进	O
+口	O
+ 	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+大	B-pp
+王	I-pp
+ 	O
+l	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+面	B-cp
+条	I-cp
+龙	O
+须	O
+面	O
+
+我	O
+要	O
+买	O
+黑	O
+咖	B-cp
+啡	I-cp
+
+手	B-cp
+电	I-cp
+筒	I-cp
+
+香	B-cp
+皂	I-cp
+ 	O
+男	O
+士	O
+多	O
+少	O
+钱	O
+
+毛	B-cp
+巾	I-cp
+吸	O
+水	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+滑	B-cp
+板	I-cp
+车	I-cp
+
+我	O
+要	O
+买	O
+亨	O
+氏	O
+酱	B-cp
+油	I-cp
+
+我	O
+要	O
+买	O
+蒸	O
+鱼	O
+酱	B-cp
+油	I-cp
+
+我	O
+要	O
+买	O
+低	O
+热	O
+量	O
+零	B-cp
+食	I-cp
+
+我	O
+要	O
+买	O
+婴	O
+儿	O
+矿	B-cp
+泉	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+麦	B-cp
+片	I-cp
+早	O
+餐	O
+ 	O
+冲	O
+饮	O
+ 	O
+小	O
+袋	O
+装	O
+
+控	O
+油	O
+爽	B-cp
+肤	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+移	B-pp
+动	I-pp
+4	B-gg
+G	I-gg
+
+胡	O
+姬	O
+花	O
+古	O
+法	O
+小	O
+榨	O
+花	B-cp
+生	I-cp
+油	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+好	B-pp
+奇	I-pp
+心	O
+钻	O
+装	O
+
+宝	O
+洁	O
+天	B-pp
+猫	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+薄	O
+脆	O
+饼	B-cp
+干	I-cp
+
+抽	B-cp
+纸	I-cp
+ 	O
+大	O
+多	O
+少	O
+钱	O
+
+五	B-cp
+常	I-cp
+大	I-cp
+米	I-cp
+稻	O
+花	O
+香	O
+米	O
+多	O
+少	O
+钱	O
+
+巧	B-cp
+克	I-cp
+力	I-cp
+糖	O
+多	O
+少	O
+钱	O
+
+香	B-cp
+皂	I-cp
+沐	O
+浴	O
+皂	O
+多	O
+少	O
+钱	O
+
+哈	O
+尔	O
+滨	O
+啤	B-cp
+酒	I-cp
+ 	O
+冰	O
+纯	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+小	O
+零	B-cp
+食	I-cp
+ 	O
+休	B-cp
+闲	I-cp
+食	I-cp
+品	I-cp
+
+我	O
+想	O
+买	O
+凉	B-cp
+鞋	I-cp
+女	O
+童	O
+
+我	O
+要	O
+买	O
+妈	B-pp
+咪	I-pp
+宝	I-pp
+贝	I-pp
+纸	B-cp
+尿	I-cp
+裤	I-cp
+男	O
+
+洗	B-cp
+面	I-cp
+奶	I-cp
+ 	O
+女	O
+保	O
+湿	O
+补	O
+水	O
+多	O
+少	O
+钱	O
+
+内	B-cp
+衣	I-cp
+洗	O
+液	O
+多	O
+少	O
+钱	O
+
+香	B-cp
+水	I-cp
+ 	O
+女	O
+士	O
+ 	O
+持	O
+久	O
+ 	O
+淡	O
+香	O
+ 	O
+玫	O
+瑰	O
+香	O
+多	O
+少	O
+钱	O
+
+三	O
+合	O
+一	O
+速	O
+溶	O
+咖	B-cp
+啡	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+
+面	B-cp
+包	I-cp
+糠	O
+多	O
+少	O
+钱	O
+
+大	B-pp
+王	I-pp
+ 	O
+天	O
+使	O
+多	O
+少	O
+钱	O
+
+雀	B-pp
+巢	I-pp
+谷	O
+物	O
+早	O
+餐	O
+多	O
+少	O
+钱	O
+
+卫	O
+生	O
+间	O
+置	B-cp
+物	I-cp
+架	I-cp
+壁	O
+挂	O
+多	O
+少	O
+钱	O
+
+沐	B-cp
+浴	I-cp
+露	I-cp
+舒	O
+肤	O
+佳	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+酸	B-cp
+奶	I-cp
+伊	B-pp
+利	I-pp
+
+冠	O
+益	O
+乳	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+手	B-cp
+帕	I-cp
+纸	I-cp
+巾	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+煮	O
+奶	B-cp
+锅	I-cp
+
+五	B-pp
+芳	I-pp
+斋	I-pp
+肉	O
+粽	O
+多	O
+少	O
+钱	O
+
+曲	O
+奇	O
+饼	B-cp
+干	I-cp
+ 	O
+丹	O
+麦	O
+皇	O
+冠	O
+多	O
+少	O
+钱	O
+
+婴	O
+儿	O
+奶	B-cp
+粉	I-cp
+3	O
+段	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+水	B-cp
+杯	I-cp
+ 	O
+吸	B-cp
+管	I-cp
+杯	I-cp
+
+我	O
+要	O
+买	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+葵	B-cp
+花	I-cp
+籽	I-cp
+油	I-cp
+5	B-gg
+l	I-gg
+
+花	B-pp
+王	I-pp
+纸	B-cp
+尿	I-cp
+裤	I-cp
+x	O
+x	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+饮	O
+料	O
+盒	B-gg
+装	I-gg
+整	O
+箱	O
+
+我	O
+要	O
+买	O
+面	B-cp
+条	I-cp
+儿	O
+童	O
+
+我	O
+要	O
+买	O
+美	O
+源	O
+染	O
+发	O
+剂	O
+日	O
+本	O
+进	O
+口	O
+染	B-cp
+发	I-cp
+膏	I-cp
+
+花	B-cp
+生	I-cp
+油	O
+ 	O
+小	O
+瓶	O
+多	O
+少	O
+钱	O
+
+牛	B-cp
+奶	I-cp
+ 	O
+袋	O
+多	O
+少	O
+钱	O
+
+方	B-cp
+便	I-cp
+面	I-cp
+进	O
+口	O
+多	O
+少	O
+钱	O
+
+饼	B-cp
+干	I-cp
+闲	O
+趣	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+海	B-cp
+盐	I-cp
+调	O
+味	O
+
+我	O
+要	O
+买	O
+康	B-pp
+师	I-pp
+傅	I-pp
+妙	O
+芙	O
+
+棕	O
+子	O
+ 	O
+五	B-pp
+芳	I-pp
+斋	I-pp
+多	O
+少	O
+钱	O
+
+豆	O
+腐	O
+面	B-cp
+膜	I-cp
+多	O
+少	O
+钱	O
+
+智	O
+能	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+小	O
+瓶	O
+
+我	O
+要	O
+买	O
+核	B-cp
+桃	I-cp
+糕	O
+
+我	O
+要	O
+买	O
+牛	B-cp
+奶	I-cp
+巧	B-cp
+克	I-cp
+力	I-cp
+
+我	O
+要	O
+买	O
+垃	B-cp
+圾	I-cp
+袋	I-cp
+ 	O
+大	O
+号	O
+
+洗	B-cp
+面	I-cp
+奶	I-cp
+女	O
+ 	O
+控	O
+油	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+圣	O
+牧	O
+全	O
+程	O
+有	O
+机	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+
+花	O
+露	O
+水	O
+喷	B-cp
+雾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+咖	B-cp
+啡	I-cp
+
+我	O
+要	O
+买	O
+苹	O
+果	O
+6	B-xh
+s	I-xh
+p	I-xh
+l	O
+u	O
+s	O
+
+青	O
+蛙	O
+王	O
+子	O
+牙	B-cp
+刷	I-cp
+多	O
+少	O
+钱	O
+
+洗	O
+衣	O
+皂	O
+内	B-cp
+衣	I-cp
+专	O
+用	O
+多	O
+少	O
+钱	O
+
+洁	O
+柔	O
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+蒙	B-pp
+牛	I-pp
+ 	O
+奶	O
+特	O
+ 	O
+香	O
+草	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+惠	O
+氏	O
+孕	O
+妇	O
+奶	B-cp
+粉	I-cp
+
+美	O
+源	O
+染	O
+发	O
+剂	O
+日	O
+本	O
+进	O
+口	O
+染	B-cp
+发	I-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+菠	O
+萝	O
+面	B-cp
+包	I-cp
+多	O
+少	O
+钱	O
+
+眼	B-cp
+影	I-cp
+刷	O
+多	O
+少	O
+钱	O
+
+贝	B-pp
+亲	I-pp
+ 	O
+奶	B-cp
+瓶	I-cp
+玻	O
+璃	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+宝	O
+宝	O
+水	B-cp
+杯	I-cp
+
+润	B-cp
+唇	I-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+内	B-cp
+衣	I-cp
+收	O
+纳	O
+盒	O
+多	O
+少	O
+钱	O
+
+福	O
+满	O
+多	O
+方	B-cp
+便	I-cp
+面	I-cp
+多	O
+少	O
+钱	O
+
+牛	O
+仔	O
+夹	B-cp
+克	I-cp
+
+短	B-cp
+裤	I-cp
+套	B-cp
+装	I-cp
+
+我	O
+要	O
+买	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+日	O
+本	O
+
+我	O
+要	O
+买	O
+康	B-pp
+师	I-pp
+傅	I-pp
+方	B-cp
+便	I-cp
+面	I-cp
+ 	O
+泡	B-cp
+面	I-cp
+袋	O
+装	O
+
+我	O
+要	O
+买	O
+舒	O
+耐	O
+止	O
+汗	O
+喷	B-cp
+雾	I-cp
+
+泉	B-pp
+林	I-pp
+本	I-pp
+色	I-pp
+抽	B-cp
+纸	I-cp
+2	O
+0	O
+0	O
+抽	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+滋	O
+源	O
+无	O
+硅	O
+油	O
+生	O
+姜	O
+洗	B-cp
+发	I-cp
+水	I-cp
+护	B-cp
+发	I-cp
+素	I-cp
+套	B-cp
+装	I-cp
+
+水	O
+钻	O
+凉	B-cp
+鞋	I-cp
+
+儿	O
+童	O
+牙	B-cp
+膏	I-cp
+可	O
+吞	O
+咽	O
+多	O
+少	O
+钱	O
+
+米	O
+醋	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+多	O
+少	O
+钱	O
+
+固	O
+体	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+嘉	O
+友	O
+饼	B-cp
+干	I-cp
+
+卫	B-cp
+生	I-cp
+纸	I-cp
+丽	O
+邦	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+泉	B-pp
+林	I-pp
+本	I-pp
+色	I-pp
+卷	B-cp
+纸	I-cp
+
+水	O
+密	O
+码	O
+面	B-cp
+膜	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+染	B-cp
+发	I-cp
+膏	I-cp
+
+五	O
+丰	O
+寒	O
+地	O
+东	O
+北	O
+大	B-cp
+米	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+蒙	B-pp
+牛	I-pp
+成	O
+人	O
+奶	B-cp
+粉	I-cp
+
+我	O
+要	O
+买	O
+避	B-cp
+孕	I-cp
+套	I-cp
+颗	O
+粒	O
+装	O
+
+冷	O
+水	B-cp
+壶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+海	O
+天	O
+酱	B-cp
+油	I-cp
+生	O
+抽	O
+
+男	O
+内	B-cp
+裤	I-cp
+平	B-cp
+角	I-cp
+裤	I-cp
+纯	O
+棉	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+奇	O
+趣	O
+蛋	O
+巧	B-cp
+克	I-cp
+力	I-cp
+
+坚	O
+果	O
+礼	B-cp
+盒	I-cp
+多	O
+少	O
+钱	O
+
+一	O
+字	O
+肩	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+
+我	O
+要	O
+买	O
+维	B-pp
+达	I-pp
+婴	O
+儿	O
+湿	B-cp
+巾	I-cp
+
+贝	B-pp
+亲	I-pp
+的	O
+
+欧	O
+乐	O
+b	O
+电	O
+动	O
+牙	B-cp
+刷	I-cp
+头	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+防	B-cp
+晒	I-cp
+霜	I-cp
+水	O
+宝	O
+宝	O
+
+移	B-pp
+动	I-pp
+6	O
+G	O
+
+我	O
+要	O
+买	O
+抽	B-cp
+纸	I-cp
+ 	O
+德	O
+宝	O
+
+蒙	B-pp
+牛	I-pp
+优	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洁	B-pp
+丽	I-pp
+雅	I-pp
+浴	O
+巾	O
+
+我	O
+要	O
+买	O
+极	O
+是	O
+无	O
+硅	O
+油	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+蓝	B-pp
+月	I-pp
+亮	I-pp
+ 	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+我	O
+要	O
+买	O
+伊	B-pp
+利	I-pp
+ 	O
+金	O
+领	O
+冠	O
+
+我	O
+要	O
+买	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+ 	O
+量	O
+少	O
+
+我	O
+要	O
+买	O
+江	O
+中	O
+猴	O
+姑	O
+饼	B-cp
+干	I-cp
+
+我	O
+要	O
+礼	B-cp
+盒	I-cp
+
+好	B-pp
+奇	I-pp
+金	O
+装	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+多	O
+力	O
+葵	B-cp
+花	I-cp
+籽	I-cp
+油	I-cp
+5	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+烤	B-cp
+馍	I-cp
+片	I-cp
+整	O
+箱	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+花	B-pp
+王	I-pp
+纸	B-cp
+尿	I-cp
+裤	I-cp
+m	O
+6	O
+4	O
+
+我	O
+要	O
+买	O
+孕	O
+妇	O
+化	B-cp
+妆	I-cp
+品	I-cp
+
+男	O
+袜	B-cp
+子	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+水	O
+乳	O
+套	B-cp
+装	I-cp
+ 	O
+补	O
+水	O
+保	O
+湿	O
+
+奶	B-cp
+粉	I-cp
+2	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+雅	O
+顺	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+袋	O
+
+我	O
+要	O
+买	O
+雪	O
+糕	O
+冰	B-cp
+淇	I-cp
+淋	I-cp
+
+我	O
+要	O
+买	O
+奶	B-cp
+瓶	I-cp
+p	O
+p	O
+s	O
+u	O
+宽	O
+口	O
+径	O
+带	O
+手	O
+柄	O
+
+婴	O
+儿	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+ 	O
+新	O
+生	O
+儿	O
+专	O
+用	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+贝	B-pp
+亲	I-pp
+ 	O
+勺	O
+
+o	B-pp
+p	I-pp
+p	I-pp
+o	I-pp
+多	O
+少	O
+钱	O
+
+耐	B-pp
+克	I-pp
+气	B-cp
+垫	I-cp
+
+我	O
+要	O
+买	O
+蒲	O
+地	O
+蓝	O
+牙	B-cp
+膏	I-cp
+
+强	B-pp
+生	I-pp
+多	O
+少	O
+钱	O
+
+红	O
+心	O
+木	B-cp
+瓜	I-cp
+多	O
+少	O
+钱	O
+
+这	O
+里	O
+卖	O
+的	O
+最	O
+好	O
+的	O
+迪	B-pp
+奥	I-pp
+口	B-cp
+红	I-cp
+的	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+咖	B-cp
+啡	I-cp
+雀	B-pp
+巢	I-pp
+
+鸡	O
+腿	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+想	O
+买	O
+凉	B-cp
+鞋	I-cp
+
+我	O
+要	O
+买	O
+尿	B-cp
+不	I-cp
+湿	I-cp
+ 	O
+尤	O
+妮	O
+佳	O
+
+我	O
+要	O
+买	O
+养	B-pp
+生	I-pp
+堂	I-pp
+维	O
+生	O
+素	O
+e	O
+
+诺	O
+基	O
+亚	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+咸	O
+干	O
+花	B-cp
+生	I-cp
+
+我	O
+要	O
+买	O
+绿	B-pp
+伞	I-pp
+去	O
+渍	O
+笔	O
+
+恒	B-pp
+大	I-pp
+冰	B-cp
+泉	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+地	B-cp
+板	I-cp
+砖	O
+
+我	O
+要	O
+买	O
+凉	B-cp
+拌	I-cp
+菜	I-cp
+
+丽	O
+芝	O
+士	O
+纳	O
+宝	O
+帝	O
+奶	O
+酪	O
+威	B-cp
+化	I-cp
+饼	I-cp
+干	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+蓝	B-pp
+月	I-pp
+亮	I-pp
+儿	O
+童	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+我	O
+要	O
+买	O
+袋	O
+装	O
+酸	B-cp
+奶	I-cp
+
+男	O
+士	O
+润	B-cp
+肤	I-cp
+霜	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+趣	O
+多	O
+多	O
+饼	B-cp
+干	I-cp
+
+T	B-cp
+恤	I-cp
+
+我	O
+要	O
+买	O
+哈	O
+密	O
+瓜	O
+ 	O
+新	O
+鲜	O
+ 	O
+水	B-cp
+果	I-cp
+
+我	O
+要	O
+买	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+3	O
+5	O
+0	O
+
+盐	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+多	O
+少	O
+钱	O
+
+大	B-pp
+王	I-pp
+天	O
+使	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+l	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+冬	O
+阴	O
+功	O
+方	B-cp
+便	I-cp
+面	I-cp
+
+我	O
+要	O
+买	O
+凉	B-cp
+席	I-cp
+ 	O
+单	O
+人	O
+ 	O
+学	O
+生	O
+
+牛	O
+扎	O
+糖	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+懒	O
+人	O
+沙	B-cp
+发	I-cp
+
+我	O
+要	O
+买	O
+得	B-pp
+宝	I-pp
+手	B-cp
+帕	I-cp
+纸	I-cp
+
+我	O
+要	O
+买	O
+山	O
+楂	O
+片	O
+零	B-cp
+食	I-cp
+
+纸	B-cp
+巾	I-cp
+小	O
+包	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+多	O
+少	O
+钱	O
+
+充	B-cp
+电	I-cp
+宝	I-cp
+多	O
+少	O
+钱	O
+
+拉	O
+面	O
+面	B-cp
+条	I-cp
+多	O
+少	O
+钱	O
+
+c	B-cp
+p	I-cp
+u	I-cp
+
+达	O
+利	O
+园	O
+法	O
+式	O
+软	O
+面	B-cp
+包	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+五	B-cp
+常	I-cp
+大	I-cp
+米	I-cp
+稻	O
+花	O
+香	O
+米	O
+
+大	O
+码	O
+短	B-cp
+裤	I-cp
+
+我	O
+要	O
+买	O
+4	O
+2	O
+0	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+奶	B-cp
+片	I-cp
+ 	O
+高	O
+钙	O
+
+御	O
+泥	O
+坊	O
+面	B-cp
+膜	I-cp
+多	O
+少	O
+钱	O
+
+酱	B-cp
+油	I-cp
+ 	O
+老	O
+抽	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+毛	B-cp
+巾	I-cp
+挂	B-cp
+钩	I-cp
+
+我	O
+要	O
+买	O
+婴	O
+儿	O
+水	B-cp
+杯	I-cp
+
+我	O
+要	O
+买	O
+奶	B-cp
+瓶	I-cp
+手	O
+柄	O
+
+我	O
+要	O
+买	O
+汽	O
+车	O
+香	B-cp
+水	I-cp
+
+魅	B-pp
+族	I-pp
+n	O
+o	O
+t	O
+e	O
+3	O
+
+我	O
+要	O
+买	O
+合	O
+生	O
+元	O
+奶	B-cp
+粉	I-cp
+
+我	O
+要	O
+买	O
+童	O
+车	O
+ 	O
+自	B-cp
+行	I-cp
+车	I-cp
+
+我	O
+要	O
+买	O
+电	O
+饭	O
+煲	O
+5	B-gg
+l	I-gg
+
+我	O
+要	O
+买	O
+洁	O
+阴	O
+湿	B-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+5	B-gg
+l	I-gg
+
+女	O
+性	O
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+香	B-cp
+肠	I-cp
+
+雀	B-pp
+巢	I-pp
+咖	B-cp
+啡	I-cp
+饮	O
+料	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+香	B-cp
+皂	I-cp
+
+欧	B-pp
+莱	I-pp
+雅	I-pp
+ 	O
+洗	O
+发	O
+多	O
+少	O
+钱	O
+
+五	B-pp
+羊	I-pp
+洗	B-cp
+衣	I-cp
+液	I-cp
+多	O
+少	O
+钱	O
+
+豆	B-cp
+浆	I-cp
+机	I-cp
+ 	O
+九	O
+阳	O
+ 	O
+特	O
+价	O
+多	O
+功	O
+能	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+短	B-cp
+裤	I-cp
+
+我	O
+要	O
+买	O
+贝	B-pp
+亲	I-pp
+润	O
+肤	O
+露	O
+
+马	O
+油	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+o	B-pp
+p	I-pp
+p	I-pp
+o	I-pp
+手	B-cp
+机	I-cp
+
+去	O
+角	O
+质	O
+死	O
+皮	O
+全	O
+身	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+祛	O
+痘	O
+面	B-cp
+膜	I-cp
+
+我	O
+要	O
+买	O
+六	O
+个	O
+核	B-cp
+桃	I-cp
+
+我	O
+要	O
+买	O
+大	B-cp
+米	I-cp
+5	O
+k	O
+g	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+2	O
+0	O
+1	O
+6	O
+新	B-cp
+米	I-cp
+
+我	O
+要	O
+买	O
+贝	B-pp
+亲	I-pp
+奶	B-cp
+瓶	I-cp
+套	O
+
+男	O
+凉	B-cp
+鞋	I-cp
+多	O
+少	O
+钱	O
+
+洗	B-cp
+发	I-cp
+水	I-cp
+施	O
+华	O
+寇	O
+多	O
+少	O
+钱	O
+
+月	B-cp
+子	I-cp
+纸	I-cp
+产	O
+妇	O
+专	O
+用	O
+卫	B-cp
+生	I-cp
+纸	I-cp
+多	O
+少	O
+钱	O
+
+肌	O
+美	O
+精	O
+面	B-cp
+膜	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+海	O
+带	O
+丝	O
+ 	O
+干	B-cp
+货	I-cp
+
+我	O
+要	O
+买	O
+百	O
+岁	O
+山	O
+矿	B-cp
+泉	I-cp
+水	I-cp
+5	O
+7	O
+0	O
+m	O
+l	O
+
+巧	B-cp
+克	I-cp
+力	I-cp
+糖	O
+果	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+女	O
+运	B-cp
+动	I-cp
+鞋	I-cp
+
+我	O
+要	O
+买	O
+零	B-cp
+食	I-cp
+礼	O
+包	O
+一	O
+箱	O
+
+特	O
+百	O
+惠	O
+水	B-cp
+杯	I-cp
+5	B-gg
+0	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+婴	B-cp
+儿	I-cp
+推	I-cp
+车	I-cp
+凉	B-cp
+席	I-cp
+垫	O
+通	O
+用	O
+
+我	O
+要	O
+买	O
+气	B-cp
+垫	I-cp
+c	O
+c	O
+霜	O
+
+女	B-cp
+装	I-cp
+连	B-cp
+衣	I-cp
+裙	I-cp
+多	O
+少	O
+钱	O
+
+瓶	O
+装	O
+矿	B-cp
+泉	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+六	B-pp
+神	I-pp
+冰	O
+凉	O
+超	O
+爽	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+多	O
+少	O
+钱	O
+
+美	O
+赞	O
+臣	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+大	O
+毛	B-cp
+巾	I-cp
+
+三	O
+元	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+ 	O
+箱	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+一	O
+次	O
+性	O
+杯	B-cp
+子	I-cp
+
+毛	B-cp
+巾	I-cp
+竹	O
+纤	O
+维	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+秋	O
+然	O
+大	B-cp
+米	I-cp
+
+农	O
+夫	O
+山	O
+泉	O
+天	O
+然	O
+矿	B-cp
+泉	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+液	I-cp
+立	O
+白	O
+多	O
+少	O
+钱	O
+
+苹	O
+果	O
+6	O
+s	O
+手	B-cp
+机	I-cp
+多	O
+少	O
+钱	O
+
+龟	B-cp
+苓	I-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+面	B-cp
+包	I-cp
+粉	O
+ 	O
+烘	O
+焙	O
+原	O
+料	O
+
+卫	B-cp
+生	I-cp
+巾	I-cp
+洁	O
+伶	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+麻	O
+辣	O
+鱼	B-cp
+仔	I-cp
+
+u	O
+盘	O
+ 	O
+3	B-gg
+2	I-gg
+g	I-gg
+多	O
+少	O
+钱	O
+
+美	B-pp
+素	I-pp
+佳	I-pp
+儿	I-pp
+
+我	O
+要	O
+买	O
+早	O
+餐	O
+面	B-cp
+包	I-cp
+整	O
+箱	O
+
+我	O
+要	O
+买	O
+百	O
+雀	O
+羚	O
+ 	O
+面	B-cp
+膜	I-cp
+
+袜	B-cp
+子	I-cp
+ 	O
+女	O
+多	O
+少	O
+钱	O
+
+薯	B-cp
+片	I-cp
+非	O
+油	O
+炸	O
+多	O
+少	O
+钱	O
+
+好	B-pp
+奇	I-pp
+ 	O
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+液	I-cp
+进	O
+口	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+雀	B-pp
+巢	I-pp
+ 	O
+咖	B-cp
+啡	I-cp
+
+菲	O
+比	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+x	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+方	B-cp
+便	I-cp
+面	I-cp
+
+我	O
+昨	O
+天	O
+买	O
+的	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+大	B-cp
+米	I-cp
+到	O
+了	O
+哪	O
+个	O
+地	O
+方	O
+了	O
+
+粗	O
+粮	O
+饼	B-cp
+干	I-cp
+整	O
+箱	O
+多	O
+少	O
+钱	O
+
+花	B-cp
+生	I-cp
+米	O
+ 	O
+椒	O
+盐	O
+多	O
+少	O
+钱	O
+
+我	O
+昨	O
+天	O
+订	O
+购	O
+的	O
+牛	B-cp
+奶	I-cp
+现	O
+在	O
+运	O
+到	O
+哪	O
+里	O
+了	O
+
+天	B-pp
+猫	I-pp
+女	B-cp
+装	I-cp
+套	B-cp
+装	I-cp
+中	O
+老	O
+年	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+肌	O
+美	O
+精	O
+面	B-cp
+膜	I-cp
+
+无	O
+糖	O
+苏	B-cp
+打	I-cp
+饼	I-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+屈	O
+臣	O
+氏	O
+苏	O
+打	O
+水	O
+3	B-gg
+3	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+
+我	O
+要	O
+买	O
+海	O
+河	O
+牛	B-cp
+奶	I-cp
+
+怎	O
+么	O
+还	O
+没	O
+发	O
+货	O
+，	O
+昨	O
+天	O
+就	O
+买	O
+好	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+大	B-cp
+米	I-cp
+了	O
+
+我	O
+要	O
+买	O
+酵	O
+母	O
+面	B-cp
+包	I-cp
+
+我	O
+要	O
+买	O
+餐	B-cp
+具	I-cp
+洗	O
+涤	O
+剂	O
+
+施	O
+华	O
+蔻	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+短	B-cp
+裤	I-cp
+夏	O
+季	O
+多	O
+少	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+液	I-cp
+ 	O
+超	O
+能	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+丝	O
+蕴	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+利	O
+其	O
+尔	O
+吸	B-cp
+管	I-cp
+杯	I-cp
+
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+什	O
+么	O
+时	O
+候	O
+能	O
+到	O
+
+我	O
+要	O
+买	O
+上	O
+好	O
+佳	O
+田	O
+园	O
+薯	B-cp
+片	I-cp
+
+洗	B-cp
+衣	I-cp
+粉	I-cp
+ 	O
+4	O
+k	O
+g	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+蓝	B-pp
+月	I-pp
+亮	I-pp
+洗	B-cp
+衣	I-cp
+液	I-cp
+机	O
+洗	O
+
+我	O
+要	O
+买	O
+油	O
+ 	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+
+特	O
+仑	O
+苏	O
+醇	O
+纤	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+豆	B-cp
+浆	I-cp
+机	I-cp
+ 	O
+九	O
+阳	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+卫	B-cp
+生	I-cp
+纸	I-cp
+盒	O
+
+老	O
+人	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+进	O
+口	B-cp
+红	I-cp
+牛	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+婴	O
+儿	O
+柔	O
+纸	B-cp
+巾	I-cp
+
+V	B-pp
+i	I-pp
+v	I-pp
+o	I-pp
+
+我	O
+要	O
+买	O
+帮	B-pp
+宝	I-pp
+适	I-pp
+特	O
+级	O
+棉	O
+柔	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+
+我	O
+要	O
+买	O
+伊	B-pp
+利	I-pp
+红	O
+谷	O
+
+我	O
+要	O
+买	O
+一	O
+朵	O
+薄	O
+觉	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+
+我	O
+想	O
+买	O
+一	O
+个	O
+手	B-cp
+机	I-cp
+
+甜	O
+点	O
+ 	O
+糕	B-cp
+点	I-cp
+ 	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+单	B-cp
+鞋	I-cp
+
+i	O
+p	O
+h	O
+o	O
+n	O
+e	O
+ 	O
+6	O
+s	O
+ 	O
+3	B-gg
+2	I-gg
+G	I-gg
+
+我	O
+要	O
+买	O
+无	O
+糖	O
+食	O
+品	O
+ 	O
+糕	B-cp
+点	I-cp
+
+拉	B-cp
+拉	I-cp
+裤	I-cp
+ 	O
+x	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+饮	O
+水	B-cp
+杯	I-cp
+
+我	O
+要	O
+买	O
+越	O
+南	O
+进	O
+口	O
+沙	O
+巴	O
+哇	O
+综	O
+合	O
+蔬	O
+菜	O
+水	B-cp
+果	I-cp
+干	O
+
+收	O
+缩	O
+毛	O
+孔	O
+面	B-cp
+膜	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+蜂	B-cp
+蜜	I-cp
+
+我	O
+要	O
+买	O
+l	O
+g	O
+牙	B-cp
+膏	I-cp
+
+水	B-cp
+果	I-cp
+刀	O
+ 	O
+折	O
+叠	O
+多	O
+少	O
+钱	O
+
+宾	O
+堡	O
+面	B-cp
+包	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+泰	O
+国	O
+
+我	O
+要	O
+买	O
+酸	B-cp
+奶	I-cp
+ 	O
+味	O
+全	O
+
+我	O
+要	O
+买	O
+抽	B-cp
+纸	I-cp
+
+我	O
+要	O
+买	O
+雀	B-pp
+巢	I-pp
+能	O
+恩	O
+1	O
+段	O
+
+利	O
+得	O
+垃	B-cp
+圾	I-cp
+袋	I-cp
+多	O
+少	O
+钱	O
+
+三	O
+牛	O
+万	O
+年	O
+青	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+卫	B-cp
+生	I-cp
+巾	I-cp
+安	O
+尔	O
+乐	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+蔬	O
+菜	O
+沙	B-cp
+拉	I-cp
+酱	I-cp
+
+我	O
+要	O
+买	O
+巧	B-cp
+克	I-cp
+力	I-cp
+曲	O
+奇	O
+
+艾	O
+诗	O
+香	B-cp
+皂	I-cp
+多	O
+少	O
+钱	O
+
+佳	O
+洁	O
+士	O
+草	O
+本	O
+水	O
+晶	O
+牙	B-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+金	O
+枪	O
+鱼	O
+罐	B-cp
+头	I-cp
+ 	O
+水	O
+浸	O
+多	O
+少	O
+钱	O
+
+咖	B-cp
+啡	I-cp
+
+我	O
+要	O
+买	O
+康	B-pp
+师	I-pp
+傅	I-pp
+方	B-cp
+便	I-cp
+面	I-cp
+袋	O
+装	O
+
+我	O
+要	O
+买	O
+变	O
+形	O
+金	O
+刚	O
+玩	B-cp
+具	I-cp
+
+我	O
+要	O
+买	O
+尿	B-cp
+不	I-cp
+湿	I-cp
+大	B-pp
+王	I-pp
+
+我	O
+要	O
+买	O
+牛	B-cp
+奶	I-cp
+ 	O
+进	O
+口	O
+ 	O
+1	O
+l	O
+
+项	B-cp
+链	I-cp
+
+我	O
+要	O
+买	O
+纸	B-cp
+巾	I-cp
+维	B-pp
+达	I-pp
+
+君	B-pp
+乐	I-pp
+宝	I-pp
+至	B-xh
+臻	I-xh
+多	O
+少	O
+钱	O
+
+每	O
+日	O
+生	O
+机	O
+苏	B-cp
+打	I-cp
+饼	I-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+康	B-pp
+师	I-pp
+傅	I-pp
+红	O
+茶	O
+多	O
+少	O
+钱	O
+
+小	B-pp
+米	I-pp
+充	B-cp
+电	I-cp
+宝	I-cp
+多	O
+少	O
+钱	O
+
+桃	B-cp
+子	I-cp
+多	O
+少	O
+钱	O
+
+挂	O
+墙	O
+置	B-cp
+物	I-cp
+架	I-cp
+ 	O
+浴	O
+室	O
+多	O
+少	O
+钱	O
+
+辉	O
+山	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+成	O
+长	O
+牛	B-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+妙	B-pp
+洁	I-pp
+抹	O
+布	O
+
+我	O
+要	O
+买	O
+行	O
+李	O
+箱	O
+收	B-cp
+纳	I-cp
+袋	I-cp
+衣	O
+物	O
+整	O
+理	O
+袋	O
+
+我	O
+要	O
+买	O
+夏	O
+季	O
+包	B-cp
+包	I-cp
+
+伊	B-pp
+利	I-pp
+舒	O
+化	O
+高	O
+钙	O
+奶	O
+多	O
+少	O
+钱	O
+
+进	O
+口	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+v	B-pp
+i	I-pp
+v	I-pp
+o	I-pp
+x	O
+9	O
+手	B-cp
+机	I-cp
+壳	I-cp
+多	O
+少	O
+钱	O
+
+排	O
+风	B-cp
+扇	I-cp
+多	O
+少	O
+钱	O
+
+曼	B-pp
+秀	I-pp
+雷	I-pp
+敦	I-pp
+洗	B-cp
+面	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+z	O
+a	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+白	B-cp
+酒	I-cp
+特	O
+价	O
+多	O
+少	O
+钱	O
+
+黑	O
+人	O
+牙	B-cp
+刷	I-cp
+柔	O
+丝	O
+深	O
+洁	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+女	O
+
+纸	B-cp
+巾	I-cp
+批	O
+发	O
+多	O
+少	O
+钱	O
+
+平	B-cp
+角	I-cp
+裤	I-cp
+ 	O
+男	O
+多	O
+少	O
+钱	O
+
+看	O
+看	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+
+我	O
+要	O
+买	O
+贝	B-pp
+亲	I-pp
+婴	O
+儿	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+我	O
+要	O
+买	O
+清	O
+风	O
+原	O
+木	O
+纯	O
+品	O
+抽	B-cp
+纸	I-cp
+3	B-gg
+层	I-gg
+金	O
+装	O
+
+显	O
+瘦	O
+的	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+
+我	O
+要	O
+买	O
+优	O
+形	O
+鸡	B-cp
+胸	I-cp
+肉	I-cp
+
+我	O
+要	O
+买	O
+餐	O
+巾	O
+纸	O
+维	B-pp
+达	I-pp
+
+中	O
+老	O
+年	O
+女	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+风	B-cp
+扇	I-cp
+
+我	O
+要	O
+买	O
+化	O
+妆	O
+工	B-cp
+具	I-cp
+
+裤	B-cp
+子	I-cp
+衣	O
+架	O
+多	O
+少	O
+钱	O
+
+雀	B-pp
+巢	I-pp
+学	O
+生	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+笔	B-cp
+记	I-cp
+本	I-cp
+子	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+进	O
+口	O
+儿	O
+童	O
+牙	B-cp
+刷	I-cp
+
+我	O
+要	O
+买	O
+农	O
+夫	O
+山	O
+泉	O
+天	O
+然	O
+矿	B-cp
+泉	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+绿	B-pp
+伞	I-pp
+洗	B-cp
+衣	I-cp
+机	I-cp
+槽	O
+清	O
+洁	O
+剂	O
+
+我	O
+要	O
+买	O
+原	O
+浆	O
+啤	B-cp
+酒	I-cp
+
+良	B-pp
+品	I-pp
+铺	I-pp
+子	I-pp
+鸭	O
+舌	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+力	O
+士	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+我	O
+要	O
+买	O
+帮	B-pp
+宝	I-pp
+适	I-pp
+ 	O
+x	B-gg
+l	I-gg
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+1	O
+l	O
+
+我	O
+要	O
+买	O
+垃	B-cp
+圾	I-cp
+袋	I-cp
+大	O
+号	O
+8	O
+0	O
+ 	O
+1	O
+0	O
+0	O
+
+我	O
+要	O
+买	O
+盒	B-gg
+装	I-gg
+洗	B-cp
+衣	I-cp
+粉	I-cp
+
+我	O
+昨	O
+天	O
+拍	O
+的	O
+那	O
+个	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+大	B-cp
+米	I-cp
+怎	O
+么	O
+还	O
+没	O
+到	O
+
+我	O
+要	O
+买	O
+椰	O
+奶	O
+盒	B-gg
+装	I-gg
+
+我	O
+要	O
+买	O
+积	B-cp
+木	I-cp
+拼	B-cp
+装	I-cp
+玩	I-cp
+具	I-cp
+
+我	O
+要	O
+买	O
+鸭	O
+掌	O
+ 	O
+零	B-cp
+食	I-cp
+
+我	O
+要	O
+买	O
+燕	O
+塘	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+
+牙	B-cp
+刷	I-cp
+ 	O
+软	O
+毛	O
+成	O
+人	O
+多	O
+少	O
+钱	O
+
+红	O
+色	O
+苹	O
+果	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+防	B-cp
+晒	I-cp
+霜	I-cp
+
+新	O
+生	O
+儿	O
+奶	B-cp
+粉	I-cp
+一	O
+段	O
+多	O
+少	O
+钱	O
+
+昨	O
+天	O
+买	O
+的	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+大	B-cp
+米	I-cp
+今	O
+天	O
+能	O
+到	O
+吗	O
+
+天	B-pp
+猫	I-pp
+生	B-cp
+鲜	I-cp
+超	O
+市	O
+华	O
+南	O
+水	B-cp
+果	I-cp
+多	O
+少	O
+钱	O
+
+日	O
+本	O
+巧	B-cp
+克	I-cp
+力	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+陈	O
+克	O
+明	O
+儿	O
+童	O
+面	B-cp
+条	I-cp
+
+洗	O
+漱	O
+用	O
+品	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+T	B-cp
+恤	I-cp
+韩	O
+版	O
+
+去	O
+头	O
+屑	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+护	B-cp
+发	I-cp
+素	I-cp
+免	O
+洗	O
+
+乐	O
+扣	O
+保	B-cp
+温	I-cp
+杯	I-cp
+多	O
+少	O
+钱	O
+
+告	O
+诉	O
+我	O
+昨	O
+天	O
+购	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+的	O
+物	O
+流	O
+情	O
+况	O
+
+好	O
+丽	O
+友	O
+巧	B-cp
+克	I-cp
+力	I-cp
+派	O
+多	O
+少	O
+钱	O
+
+安	O
+安	O
+金	O
+纯	O
+橄	O
+榄	O
+油	O
+去	O
+屑	O
+柔	O
+顺	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+一	O
+岁	O
+宝	O
+宝	O
+零	B-cp
+食	I-cp
+
+m	O
+o	O
+o	O
+n	O
+y	O
+x	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+裹	B-cp
+胸	I-cp
+
+我	O
+要	O
+买	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+非	O
+转	O
+基	O
+因	O
+调	O
+和	O
+油	O
+ 	O
+食	O
+用	O
+油	O
+ 	O
+5	B-gg
+l	I-gg
+
+资	O
+生	O
+堂	O
+洗	O
+护	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+如	B-xh
+实	I-xh
+
+我	O
+要	O
+买	O
+牙	B-cp
+膏	I-cp
+ 	O
+旅	O
+行	O
+
+我	O
+要	O
+买	O
+湿	O
+纸	B-cp
+巾	I-cp
+ 	O
+成	O
+人	O
+
+纸	B-cp
+巾	I-cp
+ 	O
+维	B-pp
+达	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+饼	B-cp
+干	I-cp
+整	O
+箱	O
+批	O
+发	O
+
+五	O
+常	O
+有	O
+机	O
+稻	O
+花	O
+香	O
+大	B-cp
+米	I-cp
+5	O
+k	O
+g	O
+多	O
+少	O
+钱	O
+
+猕	B-cp
+猴	I-cp
+桃	I-cp
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+沙	B-cp
+拉	I-cp
+薯	I-cp
+条	I-cp
+
+短	B-cp
+袖	I-cp
+
+我	O
+要	O
+买	O
+卷	B-cp
+纸	I-cp
+1	O
+8	O
+0	O
+克	O
+
+贝	B-pp
+亲	I-pp
+
+芒	B-cp
+果	I-cp
+
+雪	O
+饼	O
+仙	B-cp
+贝	I-cp
+多	O
+少	O
+钱	O
+
+沐	B-cp
+浴	I-cp
+露	I-cp
+ 	O
+持	O
+久	O
+留	O
+香	O
+多	O
+少	O
+钱	O
+
+统	O
+一	O
+老	O
+坛	O
+酸	O
+菜	O
+方	B-cp
+便	I-cp
+面	I-cp
+多	O
+少	O
+钱	O
+
+糕	B-cp
+点	I-cp
+ 	O
+点	O
+心	O
+ 	O
+零	B-cp
+食	I-cp
+整	O
+箱	O
+多	O
+少	O
+钱	O
+
+纳	O
+爱	O
+斯	O
+伢	O
+牙	O
+乐	O
+儿	O
+童	O
+牙	B-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+运	O
+动	O
+套	B-cp
+装	I-cp
+
+我	O
+要	O
+买	O
+中	O
+老	O
+年	O
+人	O
+奶	B-cp
+粉	I-cp
+高	O
+钙	O
+
+沙	B-pp
+宣	I-pp
+洗	B-cp
+发	I-cp
+水	I-cp
+7	O
+5	O
+0	O
+m	O
+l	O
+多	O
+少	O
+钱	O
+
+休	O
+闲	O
+零	B-cp
+食	I-cp
+ 	O
+辣	O
+多	O
+少	O
+钱	O
+
+热	B-cp
+水	I-cp
+器	I-cp
+ 	O
+电	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+妙	B-pp
+洁	I-pp
+手	B-cp
+套	I-cp
+
+波	O
+斯	O
+猫	O
+抽	B-cp
+纸	I-cp
+多	O
+少	O
+钱	O
+
+蒙	B-pp
+牛	I-pp
+核	B-cp
+桃	I-cp
+奶	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+酸	B-cp
+奶	I-cp
+机	O
+
+我	O
+要	O
+买	O
+康	B-pp
+师	I-pp
+傅	I-pp
+奶	O
+茶	O
+
+衣	B-cp
+服	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+嘉	O
+士	O
+利	O
+果	O
+乐	O
+果	O
+香	O
+夹	O
+心	O
+饼	B-cp
+干	I-cp
+
+我	O
+要	O
+买	O
+蛋	O
+糕	O
+模	B-cp
+具	I-cp
+ 	O
+8	B-gg
+寸	I-gg
+
+燕	O
+麦	B-cp
+片	I-cp
+ 	O
+即	O
+食	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+奥	B-pp
+妙	I-pp
+洗	B-cp
+衣	I-cp
+液	I-cp
+ 	O
+除	O
+菌	O
+除	O
+螨	O
+ 	O
+源	O
+自	O
+天	O
+然	O
+酵	O
+素	O
+
+电	B-cp
+压	I-cp
+力	I-cp
+锅	I-cp
+双	O
+胆	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+青	O
+援	O
+饼	B-cp
+干	I-cp
+
+纯	B-cp
+牛	I-cp
+奶	I-cp
+ 	O
+箱	O
+2	O
+4	O
+ 	O
+2	O
+5	O
+0	O
+m	O
+l	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+苹	O
+果	O
+7	B-xh
+p	I-xh
+l	O
+u	O
+s	O
+钢	B-cp
+化	I-cp
+膜	I-cp
+
+同	B-cp
+学	I-cp
+录	I-cp
+多	O
+少	O
+钱	O
+
+牛	B-cp
+奶	I-cp
+ 	O
+三	O
+元	O
+多	O
+少	O
+钱	O
+
+奥	B-pp
+利	I-pp
+奥	I-pp
+礼	B-cp
+盒	I-cp
+多	O
+少	O
+钱	O
+
+百	O
+雀	O
+羚	O
+ 	O
+爽	B-cp
+肤	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+洗	O
+护	O
+套	B-cp
+装	I-cp
+旅	O
+行	O
+装	O
+多	O
+少	O
+钱	O
+
+我	O
+想	O
+要	O
+的	O
+是	O
+皮	B-cp
+衣	I-cp
+
+买	O
+电	B-cp
+风	I-cp
+扇	I-cp
+
+泰	O
+国	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+漂	O
+柔	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+睡	B-cp
+衣	I-cp
+男	O
+夏	O
+
+蒙	B-pp
+牛	I-pp
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+贝	B-pp
+亲	I-pp
+宽	O
+口	O
+径	O
+奶	B-cp
+嘴	I-cp
+
+我	O
+要	O
+买	O
+沙	B-cp
+发	I-cp
+套	B-cp
+装	I-cp
+
+天	B-pp
+猫	I-pp
+超	O
+市	O
+水	B-cp
+果	I-cp
+罐	B-cp
+头	I-cp
+多	O
+少	O
+钱	O
+
+冰	B-cp
+箱	I-cp
+ 	O
+家	O
+用	O
+ 	O
+小	O
+型	O
+多	O
+少	O
+钱	O
+
+徐	O
+福	O
+记	O
+巧	B-cp
+克	I-cp
+力	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+进	O
+口	O
+威	B-cp
+化	I-cp
+
+宝	O
+宝	O
+洗	O
+脸	O
+小	O
+毛	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+想	O
+买	O
+游	B-cp
+戏	I-cp
+本	I-cp
+
+雅	O
+漾	O
+喷	B-cp
+雾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+奶	B-cp
+粉	I-cp
+4	O
+段	O
+
+我	O
+要	O
+买	O
+日	O
+康	O
+婴	O
+儿	O
+指	B-cp
+甲	I-cp
+剪	I-cp
+
+我	O
+要	O
+买	O
+高	O
+腰	O
+内	B-cp
+裤	I-cp
+女	O
+
+我	O
+要	O
+买	O
+舒	O
+耐	O
+爽	O
+身	O
+香	O
+体	O
+喷	B-cp
+雾	I-cp
+
+小	B-cp
+面	I-cp
+筋	I-cp
+多	O
+少	O
+钱	O
+
+好	B-pp
+奇	I-pp
+银	O
+装	O
+ 	O
+x	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+舒	O
+肤	O
+佳	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+1	O
+ 	O
+5	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+男	O
+士	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+保	O
+湿	O
+补	O
+水	O
+
+我	O
+要	O
+买	O
+手	B-cp
+机	I-cp
+魅	B-pp
+族	I-pp
+
+我	O
+要	O
+买	O
+好	B-pp
+奇	I-pp
+金	O
+装	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+
+晨	B-pp
+光	I-pp
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+一	O
+次	O
+性	O
+短	B-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+乳	B-cp
+酸	I-cp
+菌	I-cp
+饮	O
+料	O
+
+我	O
+要	O
+买	O
+保	O
+湿	O
+喷	B-cp
+雾	I-cp
+
+我	O
+要	O
+买	O
+纸	B-cp
+巾	I-cp
+卷	B-cp
+纸	I-cp
+
+咖	B-cp
+啡	I-cp
+奶	O
+油	O
+球	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+恐	O
+龙	O
+玩	B-cp
+具	I-cp
+
+我	O
+要	O
+买	O
+避	B-cp
+孕	I-cp
+套	I-cp
+ 	O
+带	O
+刺	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+女	O
+深	O
+层	O
+清	O
+洁	O
+
+u	O
+c	O
+c	O
+挂	O
+耳	O
+咖	B-cp
+啡	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+完	O
+美	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+欧	B-pp
+德	I-pp
+堡	I-pp
+脱	O
+脂	O
+
+我	O
+要	O
+买	O
+尿	B-cp
+不	I-cp
+湿	I-cp
+ 	O
+大	B-pp
+王	I-pp
+
+我	O
+要	O
+买	O
+多	B-pp
+芬	I-pp
+精	O
+华	O
+护	B-cp
+发	I-cp
+素	I-cp
+
+茶	O
+花	O
+水	B-cp
+杯	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+巧	B-pp
+媳	I-pp
+妇	I-pp
+酱	B-cp
+油	I-cp
+
+冷	O
+酸	O
+灵	O
+牙	B-cp
+刷	I-cp
+多	O
+少	O
+钱	O
+
+O	B-pp
+P	I-pp
+P	I-pp
+O	I-pp
+
+儿	O
+童	O
+钱	B-cp
+包	I-cp
+
+我	O
+要	O
+买	O
+电	B-cp
+蚊	I-cp
+香	I-cp
+液	I-cp
+无	O
+味	O
+
+单	B-cp
+鞋	I-cp
+凉	B-cp
+鞋	I-cp
+
+我	O
+要	O
+买	O
+白	O
+咖	B-cp
+啡	I-cp
+马	O
+来	O
+西	O
+亚	O
+
+面	B-cp
+膜	I-cp
+贴	O
+
+补	O
+水	O
+面	B-cp
+膜	I-cp
+
+我	O
+要	O
+买	O
+牙	B-cp
+刷	I-cp
+ 	O
+狮	O
+王	O
+
+我	O
+要	O
+买	O
+冰	O
+红	O
+茶	O
+盒	B-gg
+装	I-gg
+
+透	O
+气	O
+运	B-cp
+动	I-cp
+鞋	I-cp
+
+酱	B-cp
+油	I-cp
+老	O
+抽	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+台	O
+式	O
+香	B-cp
+肠	I-cp
+
+纸	B-cp
+尿	I-cp
+裤	I-cp
+s	O
+号	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+滋	O
+源	O
+护	B-cp
+发	I-cp
+素	I-cp
+
+我	O
+要	O
+买	O
+奶	B-cp
+粉	I-cp
+全	O
+脂	O
+
+洁	O
+厕	O
+精	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+伊	O
+卡	O
+璐	O
+无	O
+硅	O
+油	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+芝	O
+麻	O
+薄	O
+脆	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+矿	B-cp
+泉	I-cp
+水	I-cp
+1	O
+ 	O
+5	B-gg
+l	I-gg
+
+我	O
+要	O
+买	O
+旅	O
+行	O
+收	B-cp
+纳	I-cp
+袋	I-cp
+洗	O
+漱	O
+包	O
+
+我	O
+要	O
+买	O
+早	O
+晚	O
+牙	B-cp
+膏	I-cp
+
+我	O
+要	O
+买	O
+豆	O
+腐	O
+面	B-cp
+膜	I-cp
+
+我	O
+要	O
+买	O
+巴	O
+黎	O
+欧	B-pp
+莱	I-pp
+雅	I-pp
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+资	O
+生	O
+堂	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+高	O
+洁	O
+丝	O
+迷	O
+你	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+护	O
+翼	O
+多	O
+少	O
+钱	O
+
+二	O
+阳	O
+锅	B-cp
+巴	I-cp
+多	O
+少	O
+钱	O
+
+o	B-pp
+p	I-pp
+p	I-pp
+o	I-pp
+耳	B-cp
+机	I-cp
+多	O
+少	O
+钱	O
+
+幼	O
+儿	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+咖	B-cp
+啡	I-cp
+ 	O
+罐	O
+装	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+稻	O
+米	O
+油	O
+5	B-gg
+l	I-gg
+
+零	B-cp
+食	I-cp
+大	O
+礼	O
+包	O
+组	O
+合	O
+多	O
+少	O
+钱	O
+
+谷	O
+粒	O
+多	O
+红	O
+谷	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+苏	O
+泊	O
+尔	O
+电	B-cp
+压	I-cp
+力	I-cp
+锅	I-cp
+
+水	O
+蜜	O
+桃	O
+ 	O
+新	O
+鲜	O
+ 	O
+水	B-cp
+果	I-cp
+多	O
+少	O
+钱	O
+
+芝	O
+麻	O
+糊	O
+ 	O
+黑	O
+芝	O
+麻	O
+核	B-cp
+桃	I-cp
+多	O
+少	O
+钱	O
+
+魅	O
+蓝	O
+n	O
+o	O
+t	O
+e	B-xh
+5	I-xh
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+德	O
+国	O
+香	B-cp
+肠	I-cp
+
+红	O
+色	O
+小	O
+象	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+多	O
+少	O
+钱	O
+
+晾	O
+衣	O
+架	O
+夹	B-cp
+子	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+内	B-cp
+衣	I-cp
+皂	O
+液	O
+
+我	O
+要	O
+买	O
+酸	B-cp
+奶	I-cp
+粉	O
+
+我	O
+要	O
+买	O
+棒	B-cp
+棒	I-cp
+奶	I-cp
+酪	I-cp
+
+护	O
+舒	O
+宝	O
+进	O
+口	O
+液	O
+体	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+粽	B-cp
+子	I-cp
+多	O
+少	O
+钱	O
+
+味	B-pp
+事	I-pp
+达	I-pp
+味	B-cp
+极	I-cp
+鲜	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+婴	B-cp
+儿	I-cp
+学	I-cp
+步	I-cp
+车	I-cp
+
+不	O
+是	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+水	B-cp
+果	I-cp
+燕	O
+麦	B-cp
+片	I-cp
+
+豪	O
+士	O
+口	O
+袋	O
+面	B-cp
+包	I-cp
+菠	O
+萝	O
+夹	O
+心	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+苹	O
+果	O
+水	B-cp
+果	I-cp
+ 	O
+新	O
+鲜	O
+富	O
+士	O
+
+两	O
+面	O
+针	O
+牙	B-cp
+膏	I-cp
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+多	O
+少	O
+钱	O
+
+清	O
+洁	O
+面	B-cp
+膜	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+运	O
+动	O
+水	B-cp
+杯	I-cp
+
+珀	O
+莱	O
+雅	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+猕	B-cp
+猴	I-cp
+桃	I-cp
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+
+我	O
+要	O
+买	O
+5	O
+k	O
+g	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+油	O
+粘	O
+米	O
+
+海	O
+信	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+尿	B-cp
+不	I-cp
+湿	I-cp
+好	B-pp
+奇	I-pp
+
+我	O
+要	O
+买	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+女	O
+ 	O
+保	O
+湿	O
+ 	O
+美	O
+白	O
+
+清	O
+凉	O
+薄	O
+荷	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+海	O
+飞	O
+丝	O
+5	B-gg
+0	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+榨	O
+菜	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+腐	B-cp
+乳	I-cp
+汁	O
+
+我	O
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+大	O
+概	O
+几	O
+天	O
+能	O
+到	O
+
+水	O
+之	O
+密	O
+语	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+冰	B-cp
+淇	I-cp
+淋	I-cp
+盒	B-gg
+装	I-gg
+多	O
+少	O
+钱	O
+
+容	O
+声	O
+冰	B-cp
+箱	I-cp
+多	O
+少	O
+钱	O
+
+爱	B-pp
+他	I-pp
+美	I-pp
+白	O
+金	O
+版	O
+3	O
+段	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+君	B-pp
+乐	I-pp
+宝	I-pp
+奶	B-cp
+粉	I-cp
+2	O
+段	O
+
+水	B-cp
+果	I-cp
+篮	O
+子	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+海	B-cp
+盐	I-cp
+食	O
+用	O
+
+小	B-pp
+米	I-pp
+,	O
+我	O
+想	O
+买	O
+小	B-pp
+米	I-pp
+6	O
+
+饼	B-cp
+干	I-cp
+3	O
+ 	O
+2	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+力	O
+士	O
+
+水	B-cp
+果	I-cp
+泥	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+牛	B-cp
+奶	I-cp
+百	O
+利	O
+包	O
+
+厕	O
+纸	O
+卫	B-cp
+生	I-cp
+纸	I-cp
+平	O
+板	O
+多	O
+少	O
+钱	O
+
+服	B-cp
+装	I-cp
+袋	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+香	B-cp
+水	I-cp
+男	O
+
+我	O
+能	O
+卖	O
+手	B-cp
+机	I-cp
+吗	O
+
+女	O
+童	O
+内	B-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+锅	B-cp
+巴	I-cp
+ 	O
+糯	O
+米	O
+多	O
+少	O
+钱	O
+
+牛	B-cp
+奶	I-cp
+杯	I-cp
+玻	O
+璃	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+纸	B-cp
+巾	I-cp
+抽	B-cp
+纸	I-cp
+整	O
+箱	O
+
+我	O
+要	O
+买	O
+非	O
+转	O
+基	O
+因	O
+食	O
+用	O
+油	O
+5	B-gg
+l	I-gg
+
+安	B-pp
+琪	I-pp
+酵	O
+母	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+龙	O
+牌	O
+酱	B-cp
+油	I-cp
+
+我	O
+要	O
+买	O
+爽	O
+身	O
+喷	B-cp
+雾	I-cp
+
+我	O
+要	O
+买	O
+洗	O
+水	B-cp
+果	I-cp
+洗	O
+洁	O
+精	O
+
+我	O
+要	O
+买	O
+笨	B-cp
+笨	I-cp
+狗	I-cp
+ 	O
+夹	O
+心	O
+米	O
+果	O
+
+儿	O
+童	O
+面	B-cp
+条	I-cp
+面	B-cp
+条	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+小	O
+头	O
+软	O
+毛	O
+牙	B-cp
+刷	I-cp
+成	O
+人	O
+
+鸡	B-cp
+胸	I-cp
+肉	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+威	O
+露	O
+士	O
+
+我	O
+要	O
+买	O
+多	B-pp
+芬	I-pp
+香	B-cp
+皂	I-cp
+
+卧	O
+龙	O
+锅	B-cp
+巴	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+湿	O
+纸	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+卫	B-cp
+生	I-cp
+纸	I-cp
+ 	O
+卷	B-cp
+纸	I-cp
+ 	O
+无	O
+芯	O
+多	O
+少	O
+钱	O
+
+昨	O
+天	O
+的	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+大	B-cp
+米	I-cp
+到	O
+什	O
+么	O
+地	O
+方	O
+了	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+女	O
+士	O
+飘	O
+柔	O
+
+水	B-cp
+果	I-cp
+叉	O
+多	O
+少	O
+钱	O
+
+冰	O
+糕	O
+雪	O
+糕	O
+模	B-cp
+具	I-cp
+多	O
+少	O
+钱	O
+
+肉	O
+干	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+花	B-cp
+生	I-cp
+油	O
+ 	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+
+孕	O
+妇	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+妈	O
+妈	O
+壹	O
+选	O
+内	B-cp
+衣	I-cp
+
+我	O
+要	O
+买	O
+特	O
+浓	O
+牛	B-cp
+奶	I-cp
+
+卫	B-cp
+生	I-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+液	I-cp
+旅	O
+行	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+收	O
+纳	O
+架	O
+置	B-cp
+物	I-cp
+架	I-cp
+
+百	O
+草	O
+味	O
+零	B-cp
+食	I-cp
+大	O
+礼	O
+包	O
+多	O
+少	O
+钱	O
+
+悠	B-xh
+蜜	I-xh
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+宝	O
+宝	O
+吸	B-cp
+管	I-cp
+杯	I-cp
+
+澳	O
+洲	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+吹	B-cp
+风	I-cp
+机	I-cp
+家	O
+用	O
+大	O
+功	O
+率	O
+冷	O
+热	O
+风	O
+负	O
+离	O
+子	O
+静	O
+音	O
+多	O
+少	O
+钱	O
+
+一	O
+次	O
+性	O
+手	B-cp
+套	I-cp
+ 	O
+餐	O
+饮	O
+多	O
+少	O
+钱	O
+
+低	O
+糖	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+麦	O
+丽	O
+素	O
+巧	B-cp
+克	I-cp
+力	I-cp
+
+我	O
+要	O
+买	O
+伊	B-pp
+利	I-pp
+脱	O
+脂	O
+
+护	B-cp
+肤	I-cp
+品	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+老	O
+北	O
+京	O
+酸	B-cp
+奶	I-cp
+
+妈	B-pp
+咪	I-pp
+宝	I-pp
+贝	I-pp
+拉	B-cp
+拉	I-cp
+裤	I-cp
+l	O
+多	O
+少	O
+钱	O
+
+丘	B-pp
+比	I-pp
+沙	B-cp
+拉	I-cp
+酱	I-cp
+香	O
+甜	O
+味	O
+多	O
+少	O
+钱	O
+
+面	B-cp
+霜	I-cp
+ 	O
+男	O
+士	O
+多	O
+少	O
+钱	O
+
+钢	B-cp
+化	I-cp
+膜	I-cp
+
+我	O
+要	O
+买	O
+纯	O
+巧	B-cp
+克	I-cp
+力	I-cp
+
+潘	B-pp
+婷	I-pp
+乳	O
+液	O
+修	O
+护	O
+多	O
+少	O
+钱	O
+
+康	B-pp
+师	I-pp
+傅	I-pp
+泡	B-cp
+面	I-cp
+多	O
+少	O
+钱	O
+
+晾	O
+衣	O
+夹	B-cp
+子	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+手	B-cp
+帕	I-cp
+纸	I-cp
+ 	O
+心	B-pp
+相	I-pp
+印	I-pp
+
+好	B-pp
+奇	I-pp
+铂	B-xh
+金	I-xh
+装	I-xh
+s	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+澳	O
+洲	O
+麦	B-cp
+片	I-cp
+
+三	O
+只	O
+松	O
+鼠	O
+腰	B-cp
+果	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+风	B-cp
+扇	I-cp
+宿	O
+舍	O
+
+洗	B-cp
+面	I-cp
+奶	I-cp
+女	O
+ 	O
+控	O
+油	O
+ 	O
+美	O
+白	O
+多	O
+少	O
+钱	O
+
+三	O
+只	O
+松	O
+鼠	O
+礼	B-cp
+盒	I-cp
+多	O
+少	O
+钱	O
+
+巧	B-cp
+克	I-cp
+力	I-cp
+酱	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+乳	B-cp
+酸	I-cp
+菌	I-cp
+养	B-pp
+乐	I-pp
+多	I-pp
+
+华	B-pp
+为	I-pp
+p	O
+9	O
+数	O
+据	O
+线	O
+多	O
+少	O
+钱	O
+
+雀	B-pp
+巢	I-pp
+果	O
+多	O
+少	O
+钱	O
+
+鞋	B-cp
+子	I-cp
+，	O
+夏	O
+天	O
+
+我	O
+要	O
+买	O
+杯	B-cp
+子	I-cp
+刷	O
+牙	O
+
+奶	B-cp
+粉	I-cp
+ 	O
+儿	O
+童	O
+多	O
+少	O
+钱	O
+
+小	B-pp
+米	I-pp
+，	O
+华	B-pp
+为	I-pp
+
+拉	B-cp
+拉	I-cp
+裤	I-cp
+女	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+进	O
+口	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+薄	O
+荷	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+西	O
+麦	O
+麦	B-cp
+片	I-cp
+
+我	O
+要	O
+买	O
+纸	B-cp
+巾	I-cp
+抽	B-cp
+纸	I-cp
+
+澳	O
+洲	O
+爱	B-pp
+他	I-pp
+美	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+怡	B-pp
+丽	I-pp
+
+我	O
+要	O
+买	O
+电	O
+动	O
+吸	B-cp
+奶	I-cp
+器	I-cp
+
+我	O
+要	O
+买	O
+杀	O
+蟑	O
+螂	O
+喷	B-cp
+雾	I-cp
+剂	O
+
+爱	O
+得	O
+利	O
+奶	B-cp
+瓶	I-cp
+玻	O
+璃	O
+多	O
+少	O
+钱	O
+
+湿	B-cp
+巾	I-cp
+心	B-pp
+相	I-pp
+印	I-pp
+多	O
+少	O
+钱	O
+
+鸭	O
+舌	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+酸	B-cp
+奶	I-cp
+桶	O
+装	O
+多	O
+少	O
+钱	O
+
+吃	O
+的	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+液	I-cp
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+家	O
+乐	O
+氏	O
+麦	B-cp
+片	I-cp
+
+宝	O
+宝	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+ 	O
+海	O
+飞	O
+丝	O
+
+美	B-pp
+图	I-pp
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+眼	B-cp
+霜	I-cp
+ 	O
+保	O
+湿	O
+ 	O
+补	O
+水	O
+
+我	O
+要	O
+买	O
+t	O
+c	O
+蔓	O
+越	O
+莓	O
+曲	O
+奇	O
+饼	B-cp
+干	I-cp
+手	O
+提	O
+兔	O
+子	O
+铁	O
+礼	B-cp
+盒	I-cp
+
+迪	B-pp
+奥	I-pp
+口	B-cp
+红	I-cp
+的	O
+价	O
+格	O
+是	O
+
+我	O
+要	O
+买	O
+衣	B-cp
+服	I-cp
+消	O
+毒	O
+液	O
+
+儿	O
+童	O
+理	B-cp
+发	I-cp
+器	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+喷	B-cp
+壶	I-cp
+
+我	O
+要	O
+买	O
+力	O
+士	O
+洗	O
+护	O
+套	B-cp
+装	I-cp
+
+水	B-cp
+壶	I-cp
+ 	O
+玻	O
+璃	O
+ 	O
+凉	O
+水	B-cp
+壶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+泰	O
+国	O
+咖	B-cp
+啡	I-cp
+
+防	O
+辐	O
+射	O
+服	O
+孕	B-cp
+妇	I-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+相	O
+宜	O
+本	O
+草	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+
+滑	B-cp
+板	I-cp
+车	I-cp
+ 	O
+儿	O
+童	O
+ 	O
+四	O
+轮	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+咸	O
+亨	O
+腐	B-cp
+乳	I-cp
+
+我	O
+要	O
+买	O
+康	B-pp
+师	I-pp
+傅	I-pp
+白	O
+胡	O
+椒	O
+方	B-cp
+便	I-cp
+面	I-cp
+
+我	O
+要	O
+买	O
+雀	B-pp
+巢	I-pp
+脆	O
+脆	O
+鲨	O
+巧	B-cp
+克	I-cp
+力	I-cp
+味	O
+夹	O
+心	O
+威	B-cp
+化	I-cp
+
+我	O
+要	O
+买	O
+苏	O
+泊	O
+尔	O
+奶	B-cp
+锅	I-cp
+
+小	O
+白	O
+熊	O
+奶	B-cp
+瓶	I-cp
+多	O
+少	O
+钱	O
+
+木	B-cp
+瓜	I-cp
+水	B-cp
+果	I-cp
+新	O
+鲜	O
+多	O
+少	O
+钱	O
+
+伊	B-pp
+利	I-pp
+红	O
+枣	O
+多	O
+少	O
+钱	O
+
+手	B-cp
+机	I-cp
+的	O
+在	O
+哪	O
+看	O
+
+我	O
+要	O
+买	O
+星	O
+球	O
+杯	O
+巧	B-cp
+克	I-cp
+力	I-cp
+
+茶	O
+树	O
+菇	O
+干	B-cp
+货	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+卫	B-cp
+生	I-cp
+纸	I-cp
+丽	O
+邦	O
+
+我	O
+要	O
+买	O
+纸	B-cp
+巾	I-cp
+卷	O
+
+我	O
+要	O
+买	O
+饼	B-cp
+干	I-cp
+
+女	B-cp
+装	I-cp
+啊	O
+
+去	O
+油	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+衣	I-cp
+粉	I-cp
+薰	O
+衣	O
+草	O
+
+哪	O
+个	O
+我	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+到	O
+郑	O
+州	O
+了	O
+吗	O
+？	O
+昨	O
+天	O
+买	O
+的	O
+
+我	O
+要	O
+买	O
+三	B-cp
+件	I-cp
+套	I-cp
+ 	O
+床	O
+上	O
+ 	O
+用	O
+品	O
+ 	O
+单	O
+人	O
+
+牛	B-cp
+仔	I-cp
+裤	I-cp
+
+芦	O
+荟	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+子	B-pp
+初	I-pp
+婴	B-cp
+儿	I-cp
+洗	I-cp
+衣	I-cp
+皂	I-cp
+
+我	O
+要	O
+买	O
+u	O
+盘	O
+ 	O
+6	O
+4	B-gg
+g	I-gg
+
+小	O
+面	B-cp
+包	I-cp
+蛋	O
+糕	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+毛	B-cp
+巾	I-cp
+纯	O
+棉	O
+
+良	B-pp
+品	I-pp
+铺	I-pp
+子	I-pp
+卤	O
+香	O
+鹌	O
+鹑	O
+蛋	O
+多	O
+少	O
+钱	O
+
+金	B-pp
+龙	I-pp
+鱼	I-pp
+ 	O
+米	O
+多	O
+少	O
+钱	O
+
+收	O
+纳	O
+盒	O
+ 	O
+整	O
+理	O
+盒	O
+ 	O
+衣	B-cp
+服	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+性	O
+玩	B-cp
+具	I-cp
+
+我	O
+要	O
+买	O
+杯	B-cp
+子	I-cp
+女	O
+
+我	O
+要	O
+买	O
+零	B-cp
+食	I-cp
+大	O
+礼	O
+包	O
+儿	O
+童	O
+
+我	O
+要	O
+买	O
+恒	B-pp
+大	I-pp
+兴	O
+安	O
+
+我	O
+要	O
+买	O
+氨	O
+基	O
+酸	B-cp
+奶	I-cp
+粉	O
+
+我	O
+要	O
+买	O
+筷	B-cp
+子	I-cp
+ 	O
+木	O
+
+面	B-cp
+膜	I-cp
+膜	O
+法	O
+世	O
+家	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+夏	O
+长	O
+款	O
+
+儿	O
+童	O
+袜	B-cp
+子	I-cp
+多	O
+少	O
+钱	O
+
+早	O
+餐	O
+面	B-cp
+包	I-cp
+蒸	O
+蛋	O
+糕	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+水	B-cp
+果	I-cp
+刀	O
+不	O
+锈	O
+钢	O
+
+粉	B-cp
+扑	I-cp
+多	O
+少	O
+钱	O
+
+祛	O
+痘	O
+面	B-cp
+膜	I-cp
+
+我	O
+要	O
+买	O
+软	O
+包	O
+抽	B-cp
+纸	I-cp
+
+我	O
+要	O
+买	O
+运	B-cp
+动	I-cp
+鞋	I-cp
+男	O
+
+玫	B-pp
+琳	I-pp
+凯	I-pp
+防	B-cp
+晒	I-cp
+霜	I-cp
+多	O
+少	O
+钱	O
+
+R	B-xh
+9	I-xh
+
+小	O
+牙	B-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+孕	B-cp
+妇	I-cp
+装	I-cp
+
+旅	O
+行	O
+装	O
+护	B-cp
+肤	I-cp
+品	I-cp
+小	B-pp
+样	I-pp
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+男	O
+士	O
+内	B-cp
+裤	I-cp
+
+德	B-pp
+芙	I-pp
+抹	O
+茶	O
+巧	B-cp
+克	I-cp
+力	I-cp
+多	O
+少	O
+钱	O
+
+毛	B-cp
+巾	I-cp
+浴	O
+巾	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+欢	O
+乐	O
+颂	O
+麦	B-cp
+片	I-cp
+多	O
+少	O
+钱	O
+
+拇	O
+指	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+德	O
+国	O
+进	O
+口	O
+酸	B-cp
+奶	I-cp
+ 	O
+德	O
+亚	O
+
+雀	B-pp
+巢	I-pp
+咖	B-cp
+啡	I-cp
+原	O
+味	O
+多	O
+少	O
+钱	O
+
+o	B-pp
+p	I-pp
+p	I-pp
+o	I-pp
+手	B-cp
+机	I-cp
+壳	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+储	O
+物	O
+架	O
+ 	O
+置	B-cp
+物	I-cp
+架	I-cp
+
+我	O
+要	O
+买	O
+健	O
+能	O
+酸	B-cp
+奶	I-cp
+
+袋	O
+装	O
+方	B-cp
+便	I-cp
+面	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+本	O
+子	O
+ 	O
+笔	B-cp
+记	I-cp
+本	I-cp
+
+我	O
+要	O
+买	O
+西	O
+湖	O
+啤	B-cp
+酒	I-cp
+
+核	B-cp
+桃	I-cp
+肉	O
+多	O
+少	O
+钱	O
+
+泡	O
+椒	O
+方	B-cp
+便	I-cp
+面	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+今	O
+麦	O
+郎	O
+方	B-cp
+便	I-cp
+面	I-cp
+
+我	O
+要	O
+买	O
+全	O
+自	O
+动	O
+洗	B-cp
+衣	I-cp
+机	I-cp
+ 	O
+家	O
+用	O
+
+我	O
+要	O
+买	O
+工	O
+业	O
+风	B-cp
+扇	I-cp
+
+康	B-pp
+师	I-pp
+傅	I-pp
+方	B-cp
+便	I-cp
+面	I-cp
+箱	O
+多	O
+少	O
+钱	O
+
+君	B-pp
+乐	I-pp
+宝	I-pp
+多	O
+少	O
+钱	O
+
+纸	B-cp
+巾	I-cp
+卷	B-cp
+纸	I-cp
+整	O
+箱	O
+多	O
+少	O
+钱	O
+
+相	O
+宜	O
+本	O
+草	O
+爽	B-cp
+肤	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+金	O
+威	O
+啤	B-cp
+酒	I-cp
+
+n	O
+u	O
+k	O
+奶	B-cp
+嘴	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+婴	O
+儿	O
+尿	B-cp
+不	I-cp
+湿	I-cp
+
+我	O
+要	O
+买	O
+脆	O
+脆	O
+鲨	O
+巧	B-cp
+克	I-cp
+力	I-cp
+威	B-cp
+化	I-cp
+
+我	O
+要	O
+买	O
+避	B-cp
+孕	I-cp
+套	I-cp
+ 	O
+持	O
+久	O
+
+麒	O
+麟	O
+啤	B-cp
+酒	I-cp
+多	O
+少	O
+钱	O
+
+海	O
+鲜	O
+干	B-cp
+货	I-cp
+多	O
+少	O
+钱	O
+
+衣	B-cp
+服	I-cp
+套	O
+多	O
+少	O
+钱	O
+
+买	O
+手	B-cp
+机	I-cp
+
+爱	O
+得	O
+利	O
+奶	B-cp
+瓶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+黄	O
+油	O
+面	B-cp
+包	I-cp
+
+我	O
+要	O
+买	O
+洁	O
+柔	O
+ 	O
+抽	B-cp
+纸	I-cp
+
+我	O
+要	O
+买	O
+手	B-cp
+表	I-cp
+
+我	O
+要	O
+买	O
+正	O
+畸	O
+牙	B-cp
+刷	I-cp
+
+我	O
+要	O
+买	O
+水	B-cp
+果	I-cp
+篮	O
+子	O
+
+我	O
+要	O
+买	O
+安	O
+尔	O
+乐	O
+尿	B-cp
+不	I-cp
+湿	I-cp
+
+进	O
+口	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+乐	B-cp
+而	I-cp
+雅	I-cp
+卫	B-cp
+生	I-cp
+巾	I-cp
+进	O
+口	O
+
+我	O
+要	O
+买	O
+好	O
+爸	O
+爸	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+女	O
+款	O
+外	B-cp
+套	I-cp
+
+我	O
+要	O
+买	O
+六	B-pp
+神	I-pp
+嗨	O
+夏	O
+
+寿	O
+司	O
+工	B-cp
+具	I-cp
+多	O
+少	O
+钱	O
+
+一	O
+次	O
+性	O
+内	B-cp
+裤	I-cp
+ 	O
+男	O
+多	O
+少	O
+钱	O
+
+餐	O
+巾	O
+纸	O
+ 	O
+抽	B-cp
+纸	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+泡	B-cp
+面	I-cp
+进	O
+口	O
+
+我	O
+要	O
+买	O
+饼	B-cp
+干	I-cp
+芝	O
+士	O
+
+我	O
+要	O
+买	O
+盐	B-pp
+津	I-pp
+铺	I-pp
+子	I-pp
+零	B-cp
+食	I-cp
+
+小	O
+香	O
+风	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+
+我	O
+要	O
+买	O
+姜	O
+力	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+抽	B-cp
+纸	I-cp
+中	O
+幅	O
+
+玉	O
+米	O
+片	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+宝	O
+宝	O
+勺	B-cp
+子	I-cp
+多	O
+少	O
+钱	O
+
+躺	O
+椅	O
+折	O
+叠	O
+椅	O
+办	B-cp
+公	I-cp
+室	I-cp
+午	O
+休	O
+午	O
+睡	O
+床	O
+多	O
+少	O
+钱	O
+
+毛	O
+孔	O
+粗	O
+大	O
+，	O
+出	O
+油	O
+选	O
+什	O
+么	O
+面	B-cp
+膜	I-cp
+好	O
+
+帮	B-pp
+宝	I-pp
+适	I-pp
+尿	B-cp
+不	I-cp
+湿	I-cp
+多	O
+少	O
+钱	O
+
+水	B-cp
+果	I-cp
+刨	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+旅	O
+行	O
+牙	B-cp
+刷	I-cp
+盒	O
+洗	O
+漱	O
+杯	O
+套	B-cp
+装	I-cp
+
+我	O
+要	O
+买	O
+苹	O
+果	O
+充	B-cp
+电	I-cp
+器	I-cp
+头	O
+
+理	B-cp
+发	I-cp
+器	I-cp
+ 	O
+婴	O
+儿	O
+多	O
+少	O
+钱	O
+
+内	B-cp
+衣	I-cp
+收	O
+纳	O
+多	O
+少	O
+钱	O
+
+清	O
+风	O
+纸	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+拌	B-cp
+面	I-cp
+方	B-cp
+便	I-cp
+面	I-cp
+
+最	O
+近	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+啊	O
+
+五	B-cp
+常	I-cp
+大	I-cp
+米	I-cp
+多	O
+少	O
+钱	O
+
+蔬	O
+菜	O
+水	B-cp
+果	I-cp
+多	O
+少	O
+钱	O
+
+请	O
+问	O
+迪	B-pp
+奥	I-pp
+的	O
+口	B-cp
+红	I-cp
+现	O
+在	O
+多	O
+少	O
+钱	O
+
+百	O
+草	O
+味	O
+芒	B-cp
+果	I-cp
+干	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+黄	O
+飞	O
+鸿	O
+花	B-cp
+生	I-cp
+
+阔	O
+腿	O
+牛	B-cp
+仔	I-cp
+裤	I-cp
+
+好	B-pp
+奇	I-pp
+ 	O
+x	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+生	B-cp
+鲜	I-cp
+超	O
+市	O
+6	O
+6	O
+减	O
+3	O
+0	O
+多	O
+少	O
+钱	O
+
+衣	B-cp
+服	I-cp
+男	O
+多	O
+少	O
+钱	O
+
+原	O
+味	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+鸭	O
+腿	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+恐	O
+龙	O
+玩	B-cp
+具	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+冠	O
+达	O
+面	B-cp
+包	I-cp
+
+我	O
+要	O
+买	O
+大	B-cp
+米	I-cp
+ 	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+
+手	B-cp
+机	I-cp
+淘	O
+宝	O
+怎	O
+么	O
+看	O
+自	O
+己	O
+的	O
+好	O
+评	O
+率	O
+
+五	O
+常	O
+有	O
+机	O
+大	B-cp
+米	I-cp
+多	O
+少	O
+钱	O
+
+沐	B-cp
+浴	I-cp
+露	I-cp
+六	B-pp
+神	I-pp
+多	O
+少	O
+钱	O
+
+油	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+多	O
+少	O
+钱	O
+
+锤	O
+子	O
+手	B-cp
+机	I-cp
+
+水	B-cp
+杯	I-cp
+不	O
+锈	O
+钢	O
+多	O
+少	O
+钱	O
+
+儿	O
+童	O
+ 	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+福	B-pp
+临	I-pp
+门	I-pp
+长	O
+粒	O
+香	O
+多	O
+少	O
+钱	O
+
+洗	O
+液	O
+女	O
+士	O
+私	B-cp
+处	I-cp
+护	I-cp
+理	I-cp
+多	O
+少	O
+钱	O
+
+睡	O
+眠	O
+式	O
+面	B-cp
+膜	I-cp
+
+黑	O
+人	O
+牙	B-cp
+膏	I-cp
+双	O
+重	O
+薄	O
+荷	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洁	O
+柔	O
+抽	B-cp
+纸	I-cp
+整	O
+箱	O
+
+衣	O
+架	O
+挂	B-cp
+钩	I-cp
+多	O
+少	O
+钱	O
+
+机	B-cp
+械	I-cp
+键	I-cp
+盘	I-cp
+
+我	O
+要	O
+买	O
+韩	O
+后	O
+面	B-cp
+膜	I-cp
+
+我	O
+要	O
+买	O
+雀	B-pp
+巢	I-pp
+咖	B-cp
+啡	I-cp
+伴	O
+侣	O
+
+我	O
+要	O
+买	O
+小	B-pp
+米	I-pp
+n	O
+o	O
+t	O
+e	O
+2	O
+
+牛	B-cp
+奶	I-cp
+最	O
+近	O
+涨	O
+价	O
+了	O
+吗	O
+
+天	B-pp
+猫	I-pp
+女	O
+裤	O
+多	O
+少	O
+钱	O
+
+女	O
+士	O
+凉	B-cp
+鞋	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+办	O
+公	O
+零	B-cp
+食	I-cp
+
+我	O
+要	O
+买	O
+电	B-cp
+蚊	I-cp
+香	I-cp
+液	I-cp
+
+夏	O
+季	O
+新	O
+款	O
+女	B-cp
+装	I-cp
+
+我	O
+要	O
+买	O
+电	B-cp
+风	I-cp
+扇	I-cp
+迷	O
+你	O
+
+我	O
+要	O
+买	O
+蒙	B-pp
+牛	I-pp
+低	O
+脂	O
+
+我	O
+要	O
+买	O
+鲁	O
+花	O
+菜	B-cp
+籽	I-cp
+油	I-cp
+5	B-gg
+l	I-gg
+
+花	B-pp
+王	I-pp
+ 	O
+n	O
+b	O
+多	O
+少	O
+钱	O
+
+舒	O
+蕾	O
+洗	O
+发	O
+露	O
+家	O
+庭	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+帮	B-pp
+宝	I-pp
+适	I-pp
+l	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+餐	B-cp
+具	I-cp
+套	B-cp
+装	I-cp
+
+显	O
+瘦	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+
+卫	B-cp
+生	I-cp
+巾	I-cp
+ 	O
+护	O
+舒	O
+宝	O
+多	O
+少	O
+钱	O
+
+奶	B-cp
+粉	I-cp
+新	O
+生	O
+儿	O
+多	O
+少	O
+钱	O
+
+泡	B-cp
+椒	I-cp
+凤	I-cp
+爪	I-cp
+小	O
+包	O
+装	O
+多	O
+少	O
+钱	O
+
+雀	B-pp
+巢	I-pp
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+p	O
+i	O
+g	O
+e	O
+o	O
+n	O
+贝	B-pp
+亲	I-pp
+桃	B-cp
+子	I-cp
+水	O
+多	O
+少	O
+钱	O
+
+美	O
+味	O
+鲜	O
+酱	B-cp
+油	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+手	B-cp
+机	I-cp
+v	B-pp
+i	I-pp
+v	I-pp
+o	I-pp
+
+我	O
+要	O
+买	O
+短	B-cp
+袖	I-cp
+衫	I-cp
+
+我	O
+要	O
+买	O
+香	B-cp
+皂	I-cp
+多	B-pp
+芬	I-pp
+
+牛	B-cp
+奶	I-cp
+ 	O
+进	O
+口	O
+多	O
+少	O
+钱	O
+
+光	B-pp
+明	I-pp
+发	O
+酵	O
+乳	O
+多	O
+少	O
+钱	O
+
+花	O
+花	O
+牛	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+寿	O
+司	O
+沙	B-cp
+拉	I-cp
+酱	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+广	O
+式	O
+腊	B-cp
+肠	I-cp
+腊	B-cp
+肉	I-cp
+香	B-cp
+肠	I-cp
+广	O
+东	O
+
+我	O
+要	O
+买	O
+方	B-cp
+便	I-cp
+面	I-cp
+海	O
+鲜	O
+
+我	O
+要	O
+买	O
+宝	O
+洁	O
+天	B-pp
+猫	I-pp
+
+我	O
+要	O
+买	O
+粉	B-cp
+碎	I-cp
+机	I-cp
+
+滴	O
+露	O
+健	O
+康	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+多	O
+少	O
+钱	O
+
+高	O
+度	O
+啤	B-cp
+酒	I-cp
+多	O
+少	O
+钱	O
+
+梅	B-pp
+林	I-pp
+午	O
+餐	O
+肉	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+德	O
+运	O
+脱	O
+脂	O
+奶	B-cp
+粉	I-cp
+
+我	O
+要	O
+买	O
+子	B-pp
+初	I-pp
+马	O
+桶	O
+垫	O
+
+我	O
+要	O
+买	O
+米	O
+娅	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+
+金	B-pp
+龙	I-pp
+鱼	I-pp
+花	B-cp
+生	I-cp
+油	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+饼	B-cp
+干	I-cp
+苏	O
+打	O
+夹	O
+心	O
+
+方	B-cp
+便	I-cp
+面	I-cp
+ 	O
+整	O
+箱	O
+泡	B-cp
+面	I-cp
+袋	O
+装	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+维	B-pp
+达	I-pp
+1	O
+8	O
+0	O
+0	O
+
+我	O
+要	O
+买	O
+置	B-cp
+物	I-cp
+架	I-cp
+
+饺	B-cp
+子	I-cp
+面	O
+粉	O
+多	O
+少	O
+钱	O
+
+手	B-cp
+机	I-cp
+5	B-xh
+s	I-xh
+
+我	O
+要	O
+买	O
+天	B-pp
+猫	I-pp
+女	B-cp
+装	I-cp
+夏	O
+装	O
+连	O
+体	O
+裤	O
+
+奶	B-cp
+嘴	I-cp
+多	O
+少	O
+钱	O
+
+云	B-cp
+吞	I-cp
+多	O
+少	O
+钱	O
+
+礼	O
+包	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+六	B-pp
+神	I-pp
+洗	O
+手	O
+液	O
+
+金	O
+沙	O
+河	O
+面	B-cp
+条	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+蒙	B-pp
+牛	I-pp
+真	O
+果	O
+粒	O
+2	O
+4	O
+
+o	B-pp
+p	I-pp
+p	I-pp
+o	I-pp
+
+我	O
+要	O
+买	O
+特	O
+百	O
+惠	O
+水	B-cp
+杯	I-cp
+ 	O
+4	B-gg
+3	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+
+我	O
+要	O
+买	O
+削	B-cp
+皮	I-cp
+刀	I-cp
+
+我	O
+要	O
+买	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+水	B-cp
+果	I-cp
+
+有	O
+礼	B-cp
+盒	I-cp
+的	O
+
+抽	B-cp
+纸	I-cp
+巾	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+t	B-cp
+恤	I-cp
+女	O
+
+我	O
+要	O
+买	O
+车	O
+载	O
+充	B-cp
+电	I-cp
+器	I-cp
+
+有	O
+电	O
+话	O
+手	B-cp
+表	I-cp
+吗	O
+？	O
+
+手	B-cp
+机	I-cp
+保	O
+护	O
+套	O
+多	O
+少	O
+钱	O
+
+苹	O
+果	O
+手	B-cp
+机	I-cp
+5	B-xh
+s	I-xh
+
+宝	O
+氏	O
+麦	B-cp
+片	I-cp
+多	O
+少	O
+钱	O
+
+日	O
+本	O
+进	O
+口	O
+ 	O
+花	B-pp
+王	I-pp
+洗	B-cp
+衣	I-cp
+液	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+奇	B-pp
+强	I-pp
+内	B-cp
+衣	I-cp
+皂	O
+
+灯	B-cp
+笼	I-cp
+裤	O
+
+厨	O
+房	O
+水	B-cp
+槽	I-cp
+水	O
+池	O
+过	O
+滤	O
+网	O
+多	O
+少	O
+钱	O
+
+口	B-cp
+红	I-cp
+
+我	O
+要	O
+买	O
+男	O
+士	O
+短	B-cp
+袖	I-cp
+
+我	O
+要	O
+买	O
+水	B-cp
+杯	I-cp
+吸	O
+管	O
+
+台	O
+式	O
+电	B-cp
+脑	I-cp
+多	O
+少	O
+钱	O
+
+公	O
+牛	O
+插	B-cp
+座	I-cp
+转	I-cp
+换	I-cp
+器	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+芝	O
+士	O
+夹	O
+心	O
+饼	B-cp
+干	I-cp
+
+我	O
+要	O
+买	O
+牙	B-cp
+膏	I-cp
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+
+碧	B-pp
+浪	I-pp
+凝	O
+珠	O
+多	O
+少	O
+钱	O
+
+双	O
+低	O
+菜	B-cp
+籽	I-cp
+油	I-cp
+多	O
+少	O
+钱	O
+
+纯	O
+麦	B-cp
+片	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+面	B-cp
+包	I-cp
+无	O
+糖	O
+
+鞋	B-cp
+子	I-cp
+呢	O
+
+多	B-pp
+芬	I-pp
+洗	B-cp
+发	I-cp
+水	I-cp
+7	O
+0	O
+0	O
+m	O
+l	O
+多	O
+少	O
+钱	O
+
+中	O
+老	O
+年	O
+女	B-cp
+装	I-cp
+
+O	B-pp
+P	I-pp
+P	I-pp
+O	I-pp
+A	B-xh
+5	I-xh
+7	I-xh
+
+我	O
+要	O
+买	O
+冰	B-cp
+箱	I-cp
+收	O
+纳	O
+
+零	B-cp
+食	I-cp
+ 	O
+溜	O
+溜	O
+梅	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+奶	B-cp
+瓶	I-cp
+架	O
+
+内	B-cp
+衣	I-cp
+ 	O
+皂	O
+多	O
+少	O
+钱	O
+
+桶	O
+装	O
+泡	B-cp
+面	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+巧	B-cp
+克	I-cp
+力	I-cp
+蛋	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+食	O
+品	O
+ 	O
+零	B-cp
+食	I-cp
+大	O
+礼	O
+包	O
+
+我	O
+要	O
+买	O
+帆	B-cp
+布	I-cp
+鞋	I-cp
+
+手	B-cp
+机	I-cp
+内	O
+存	O
+3	B-gg
+2	I-gg
+g	I-gg
+卡	O
+多	O
+少	O
+钱	O
+
+湿	B-cp
+巾	I-cp
+ 	O
+婴	O
+儿	O
+ 	O
+口	O
+手	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+麦	B-cp
+片	I-cp
+早	O
+餐	O
+ 	O
+冲	O
+饮	O
+无	O
+糖	O
+
+我	O
+要	O
+买	O
+抑	O
+汗	O
+喷	B-cp
+雾	I-cp
+
+牛	B-cp
+奶	I-cp
+ 	O
+枕	O
+多	O
+少	O
+钱	O
+
+护	B-cp
+垫	I-cp
+安	O
+尔	O
+乐	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+旺	O
+仔	O
+牛	B-cp
+奶	I-cp
+糖	I-cp
+
+去	O
+黑	O
+头	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+ 	O
+欧	B-pp
+莱	I-pp
+雅	I-pp
+
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+明	O
+天	O
+是	O
+不	O
+是	O
+就	O
+能	O
+收	O
+到	O
+了	O
+
+宠	O
+物	O
+玩	B-cp
+具	I-cp
+
+婴	O
+儿	O
+干	O
+湿	O
+两	O
+用	O
+纯	O
+棉	B-cp
+柔	I-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+牛	B-cp
+奶	I-cp
+ 	O
+三	O
+元	O
+
+我	O
+要	O
+买	O
+花	O
+世	O
+界	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+洗	B-cp
+衣	I-cp
+粉	I-cp
+ 	O
+奥	B-pp
+妙	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+蒙	B-pp
+牛	I-pp
+谷	O
+粒	O
+早	O
+餐	O
+牛	B-cp
+奶	I-cp
+
+帮	B-pp
+宝	I-pp
+适	I-pp
+m	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+田	O
+园	O
+薯	B-cp
+片	I-cp
+
+买	O
+笔	B-cp
+记	I-cp
+本	I-cp
+
+我	O
+要	O
+买	O
+面	B-cp
+包	I-cp
+糠	O
+炸	O
+猪	O
+排	O
+
+沐	B-cp
+浴	I-cp
+露	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+毛	B-cp
+巾	I-cp
+吸	O
+水	O
+
+我	O
+就	O
+是	O
+想	O
+买	O
+这	O
+衣	B-cp
+服	I-cp
+
+我	O
+要	O
+买	O
+牛	B-cp
+奶	I-cp
+糖	I-cp
+
+香	O
+芝	O
+薄	B-cp
+片	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+宝	O
+宝	O
+ 	O
+湿	B-cp
+巾	I-cp
+
+三	O
+只	O
+松	O
+鼠	O
+坚	O
+果	O
+礼	B-cp
+盒	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+泰	O
+迪	O
+熊	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+
+我	O
+要	O
+买	O
+峰	O
+花	O
+护	B-cp
+发	I-cp
+素	I-cp
+
+我	O
+要	O
+买	O
+洗	O
+杯	B-cp
+子	I-cp
+
+我	O
+要	O
+买	O
+内	B-cp
+裤	I-cp
+专	O
+用	O
+
+我	O
+要	O
+买	O
+竹	O
+纤	O
+维	O
+毛	B-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+陶	O
+瓷	O
+水	B-cp
+果	I-cp
+刀	O
+
+m	O
+o	O
+o	O
+n	O
+y	O
+ 	O
+x	B-gg
+l	I-gg
+3	O
+8	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+牛	B-cp
+奶	I-cp
+ 	O
+蒙	B-pp
+牛	I-pp
+
+香	O
+港	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+制	O
+冰	O
+模	B-cp
+具	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+进	O
+口	O
+ 	O
+牙	B-cp
+膏	I-cp
+
+牙	B-cp
+刷	I-cp
+ 	O
+高	O
+露	O
+洁	O
+多	O
+少	O
+钱	O
+
+泡	B-cp
+面	I-cp
+箱	O
+多	O
+少	O
+钱	O
+
+小	O
+清	O
+新	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+
+儿	O
+童	O
+奶	B-cp
+粉	I-cp
+8	O
+ 	O
+1	O
+0	O
+岁	O
+多	O
+少	O
+钱	O
+
+五	B-pp
+羊	I-pp
+婴	O
+儿	O
+抑	O
+菌	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+味	B-cp
+极	I-cp
+鲜	I-cp
+生	O
+抽	O
+
+越	O
+南	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+水	O
+密	O
+码	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+伊	B-pp
+利	I-pp
+香	O
+蕉	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+千	O
+纤	O
+草	O
+丝	O
+瓜	O
+水	O
+5	B-gg
+0	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+爽	B-cp
+肤	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+雀	B-pp
+巢	I-pp
+咖	B-cp
+啡	I-cp
+原	O
+味	O
+
+香	B-cp
+皂	I-cp
+六	B-pp
+神	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+泡	B-cp
+面	I-cp
+箱	O
+
+我	O
+要	O
+买	O
+芭	O
+比	O
+娃	B-cp
+娃	I-cp
+玩	B-cp
+具	I-cp
+套	B-cp
+装	I-cp
+
+我	O
+要	O
+买	O
+卫	O
+宝	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+牙	B-cp
+膏	I-cp
+按	O
+压	O
+多	O
+少	O
+钱	O
+
+味	B-cp
+极	I-cp
+鲜	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+稻	O
+香	O
+村	O
+糕	B-cp
+点	I-cp
+
+我	O
+要	O
+买	O
+凉	B-cp
+席	I-cp
+冰	O
+丝	O
+席	O
+
+沐	B-cp
+浴	I-cp
+露	I-cp
+女	O
+ 	O
+保	O
+湿	O
+ 	O
+美	O
+白	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+豪	O
+士	O
+口	O
+袋	O
+面	B-cp
+包	I-cp
+菠	O
+萝	O
+夹	O
+心	O
+
+我	O
+要	O
+买	O
+奶	B-cp
+粉	I-cp
+ 	O
+成	O
+人	O
+脱	O
+脂	O
+
+想	O
+买	O
+粽	B-cp
+子	I-cp
+
+我	O
+要	O
+买	O
+美	B-pp
+素	I-pp
+佳	I-pp
+儿	I-pp
+4	O
+
+产	O
+妇	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+3	O
+m	O
+挂	B-cp
+钩	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+蚊	O
+香	O
+盘	O
+ 	O
+榄	B-pp
+菊	I-pp
+
+曲	O
+奇	O
+饼	B-cp
+干	I-cp
+ 	O
+礼	B-cp
+盒	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+5	O
+5	O
+5	O
+
+我	O
+要	O
+买	O
+衣	B-cp
+服	I-cp
+收	B-cp
+纳	I-cp
+袋	I-cp
+
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+发	O
+货	O
+了	O
+么	O
+
+帮	B-pp
+宝	I-pp
+适	I-pp
+ 	O
+超	O
+薄	O
+ 	O
+干	O
+爽	O
+ 	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+花	B-pp
+王	I-pp
+ 	O
+l	O
+
+面	B-cp
+包	I-cp
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+天	O
+使	O
+尿	B-cp
+不	I-cp
+湿	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+五	B-pp
+羊	I-pp
+纸	B-cp
+尿	I-cp
+裤	I-cp
+s	O
+
+清	O
+风	O
+抽	B-cp
+纸	I-cp
+整	O
+箱	O
+多	O
+少	O
+钱	O
+
+洗	B-cp
+发	I-cp
+水	I-cp
+大	O
+瓶	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+牙	B-cp
+膏	I-cp
+ 	O
+薄	O
+荷	O
+
+肥	O
+皂	O
+内	B-cp
+衣	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+帮	B-pp
+宝	I-pp
+适	I-pp
+拉	B-cp
+拉	I-cp
+裤	I-cp
+x	B-gg
+l	I-gg
+
+食	O
+用	O
+油	O
+ 	O
+菜	B-cp
+籽	I-cp
+油	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+3	O
+m	O
+双	B-cp
+面	I-cp
+胶	I-cp
+
+我	O
+要	O
+买	O
+花	B-cp
+生	I-cp
+油	O
+ 	O
+小	O
+瓶	O
+
+菜	B-cp
+籽	I-cp
+油	I-cp
+ 	O
+非	O
+转	O
+基	O
+因	O
+ 	O
+压	O
+榨	O
+ 	O
+食	O
+用	O
+油	O
+多	O
+少	O
+钱	O
+
+保	O
+湿	O
+口	B-cp
+红	I-cp
+
+我	O
+要	O
+买	O
+文	B-cp
+胸	I-cp
+洗	O
+衣	O
+袋	O
+
+我	O
+要	O
+买	O
+巧	B-cp
+克	I-cp
+力	I-cp
+卷	O
+
+纸	B-cp
+巾	I-cp
+2	O
+层	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+天	B-pp
+猫	I-pp
+魔	O
+盒	O
+
+零	B-cp
+食	I-cp
+面	B-cp
+包	I-cp
+多	O
+少	O
+钱	O
+
+莫	O
+斯	O
+利	O
+安	O
+酸	B-cp
+奶	I-cp
+2	O
+0	O
+0	O
+g	O
+ 	O
+1	O
+2	O
+盒	O
+多	O
+少	O
+钱	O
+
+欧	B-pp
+莱	I-pp
+雅	I-pp
+ 	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+想	O
+购	O
+买	O
+一	O
+款	O
+大	O
+容	O
+量	O
+的	O
+手	B-cp
+机	I-cp
+
+可	O
+挂	O
+式	O
+除	B-cp
+湿	I-cp
+袋	I-cp
+多	O
+少	O
+钱	O
+
+纳	O
+宝	O
+帝	O
+奶	O
+酪	O
+威	B-cp
+化	I-cp
+饼	I-cp
+干	O
+多	O
+少	O
+钱	O
+
+4	O
+0	O
+0	O
+0	O
+毫	O
+安	O
+以	O
+上	O
+的	O
+手	B-cp
+机	I-cp
+
+冰	B-cp
+箱	I-cp
+ 	O
+小	O
+型	O
+ 	O
+家	O
+用	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+水	B-cp
+果	I-cp
+茶	O
+
+我	O
+要	O
+买	O
+雪	B-pp
+花	I-pp
+啤	B-cp
+酒	I-cp
+勇	O
+闯	O
+天	O
+涯	O
+
+休	O
+闲	O
+运	B-cp
+动	I-cp
+鞋	I-cp
+
+六	B-pp
+神	I-pp
+花	O
+露	O
+水	O
+驱	O
+蚊	O
+多	O
+少	O
+钱	O
+
+黑	O
+色	O
+长	B-cp
+裙	I-cp
+夏	O
+ 	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+ 	O
+长	O
+款	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+牙	B-cp
+膏	I-cp
+6	O
+ 	O
+1	O
+2	O
+岁	O
+ 	O
+换	O
+牙	O
+期	O
+防	O
+蛀	O
+牙	O
+
+冰	B-cp
+柜	I-cp
+
+我	O
+要	O
+买	O
+心	B-pp
+相	I-pp
+印	I-pp
+厨	O
+房	O
+
+大	B-cp
+米	I-cp
+ 	O
+五	O
+常	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+滚	O
+筒	O
+洗	B-cp
+衣	I-cp
+机	I-cp
+清	O
+洗	O
+剂	O
+杀	O
+菌	O
+消	O
+毒	O
+
+哈	O
+尔	O
+滨	O
+白	O
+啤	B-cp
+酒	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+5	O
+5	O
+5	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+
+洗	B-cp
+面	I-cp
+奶	I-cp
+曼	B-pp
+秀	I-pp
+雷	I-pp
+敦	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+早	O
+餐	O
+麦	B-cp
+片	I-cp
+
+我	O
+要	O
+买	O
+香	B-cp
+肠	I-cp
+
+我	O
+买	O
+了	O
+手	B-cp
+机	I-cp
+说	O
+好	O
+今	O
+天	O
+发	O
+货	O
+。	O
+我	O
+周	O
+五	O
+送	O
+孩	O
+子	O
+生	O
+日	O
+礼	O
+物	O
+呢	O
+
+我	O
+要	O
+买	O
+蜂	B-pp
+花	I-pp
+檀	O
+香	B-cp
+皂	I-cp
+
+女	O
+神	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+嘉	O
+友	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+六	O
+必	O
+治	O
+牙	B-cp
+膏	I-cp
+
+我	O
+要	O
+买	O
+香	B-cp
+皂	I-cp
+力	O
+士	O
+
+照	O
+相	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+安	O
+雨	O
+乐	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+
+凉	B-cp
+鞋	I-cp
+男	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+飞	B-pp
+利	I-pp
+浦	I-pp
+新	O
+安	O
+怡	O
+
+充	O
+气	O
+玩	B-cp
+具	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+电	B-cp
+风	I-cp
+扇	I-cp
+静	O
+音	O
+
+草	O
+本	O
+牙	B-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+可	O
+伶	O
+可	O
+俐	O
+吸	O
+油	B-cp
+纸	I-cp
+
+吊	B-cp
+带	I-cp
+连	I-cp
+衣	I-cp
+裙	I-cp
+
+安	O
+慕	O
+希	O
+酸	B-cp
+奶	I-cp
+1	O
+6	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+德	O
+国	O
+ 	O
+啤	B-cp
+酒	I-cp
+
+独	O
+立	O
+包	O
+装	O
+小	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+内	B-cp
+衣	I-cp
+
+我	O
+要	O
+买	O
+旺	O
+仔	O
+牛	B-cp
+奶	I-cp
+1	O
+2	O
+5	O
+m	O
+l	O
+
+脱	B-cp
+脂	I-cp
+牛	I-cp
+奶	I-cp
+2	O
+5	O
+0	O
+m	O
+l	O
+多	O
+少	O
+钱	O
+
+麻	O
+烦	O
+问	O
+一	O
+下	O
+这	O
+个	O
+迪	B-pp
+奥	I-pp
+口	B-cp
+红	I-cp
+的	O
+价	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+液	I-cp
+ 	O
+机	O
+洗	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+全	O
+脂	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+1	O
+l	O
+
+可	B-pp
+爱	I-pp
+多	I-pp
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+薄	O
+荷	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+礼	O
+包	O
+ 	O
+组	O
+合	O
+ 	O
+礼	B-cp
+盒	I-cp
+装	O
+多	O
+少	O
+钱	O
+
+美	O
+白	O
+身	B-cp
+体	I-cp
+乳	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+巧	B-cp
+克	I-cp
+力	I-cp
+碎	O
+了	O
+
+尤	O
+妮	O
+佳	O
+ 	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+伊	B-pp
+利	I-pp
+
+大	B-cp
+米	I-cp
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+ 	O
+新	B-cp
+米	I-cp
+多	O
+少	O
+钱	O
+
+修	O
+眉	O
+刀	O
+ 	O
+女	O
+用	O
+ 	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+儿	O
+童	O
+刷	B-cp
+牙	I-cp
+杯	I-cp
+子	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+内	B-cp
+裤	I-cp
+女	O
+三	O
+角	O
+裤	O
+
+中	B-cp
+老	I-cp
+年	I-cp
+奶	I-cp
+粉	I-cp
+ 	O
+罐	O
+装	O
+多	O
+少	O
+钱	O
+
+乐	B-pp
+事	I-pp
+逗	O
+乐	O
+薯	O
+多	O
+少	O
+钱	O
+
+君	B-pp
+乐	I-pp
+宝	I-pp
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+方	B-cp
+便	I-cp
+面	I-cp
+汤	B-pp
+达	I-pp
+人	I-pp
+多	O
+少	O
+钱	O
+
+婴	O
+儿	O
+洗	O
+发	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+二	O
+合	O
+一	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+全	O
+职	O
+牛	B-cp
+奶	I-cp
+
+二	O
+手	O
+冰	B-cp
+箱	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+控	O
+油	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+男	O
+
+我	O
+要	O
+买	O
+蓝	B-pp
+月	I-pp
+亮	I-pp
+婴	O
+儿	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+清	O
+风	O
+卷	B-cp
+纸	I-cp
+整	O
+箱	O
+多	O
+少	O
+钱	O
+
+水	B-cp
+果	I-cp
+ 	O
+三	O
+华	O
+李	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+书	B-cp
+包	I-cp
+ 	O
+小	O
+学	O
+生	O
+男	O
+
+我	O
+要	O
+买	O
+保	O
+鲜	O
+袋	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+
+我	O
+要	O
+买	O
+男	O
+童	B-cp
+鞋	I-cp
+
+c	O
+o	O
+c	O
+o	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+牙	B-cp
+刷	I-cp
+软	O
+毛	O
+ 	O
+成	O
+人	O
+ 	O
+家	O
+庭	O
+装	O
+多	O
+少	O
+钱	O
+
+酸	B-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+润	B-cp
+肤	I-cp
+霜	I-cp
+ 	O
+男	O
+
+我	O
+想	O
+知	O
+道	O
+我	O
+要	O
+花	O
+多	O
+少	O
+钱	O
+才	O
+能	O
+买	O
+到	O
+那	O
+个	O
+迪	B-pp
+奥	I-pp
+口	B-cp
+红	I-cp
+可	O
+不	O
+可	O
+以	O
+呀	O
+
+我	O
+要	O
+买	O
+雀	B-pp
+巢	I-pp
+脆	O
+脆	O
+鲨	O
+抹	O
+茶	O
+
+饼	B-cp
+干	I-cp
+ 	O
+丽	O
+芝	O
+士	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+湿	B-cp
+巾	I-cp
+小	O
+包	O
+
+我	O
+要	O
+买	O
+清	O
+扬	O
+洗	B-cp
+发	I-cp
+水	I-cp
+4	O
+0	O
+0	O
+
+我	O
+要	O
+买	O
+狮	O
+王	O
+月	O
+子	O
+牙	B-cp
+刷	I-cp
+
+我	O
+要	O
+买	O
+味	O
+达	O
+美	O
+味	B-cp
+极	I-cp
+鲜	I-cp
+酱	B-cp
+油	I-cp
+
+我	O
+要	O
+买	O
+部	O
+分	O
+脱	B-cp
+脂	I-cp
+牛	I-cp
+奶	I-cp
+
+蒜	O
+香	B-cp
+肠	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+舒	O
+肤	O
+佳	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+2	O
+0	O
+0	O
+m	O
+l	O
+
+我	O
+要	O
+买	O
+点	O
+心	O
+ 	O
+糕	B-cp
+点	I-cp
+
+我	O
+要	O
+买	O
+李	B-pp
+锦	I-pp
+记	I-pp
+凉	O
+拌	O
+汁	O
+
+电	B-cp
+蚊	I-cp
+香	I-cp
+液	I-cp
+无	O
+味	O
+多	O
+少	O
+钱	O
+
+大	O
+容	O
+量	O
+水	B-cp
+杯	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+绿	B-pp
+伞	I-pp
+手	O
+洗	O
+内	B-cp
+衣	I-cp
+
+我	O
+要	O
+买	O
+乐	B-pp
+事	I-pp
+薯	B-cp
+片	I-cp
+4	O
+0	O
+g	O
+
+花	B-pp
+王	I-pp
+尿	B-cp
+不	I-cp
+湿	I-cp
+多	O
+少	O
+钱	O
+
+昨	O
+天	O
+我	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+何	O
+时	O
+可	O
+以	O
+签	O
+收	O
+
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+有	O
+没	O
+有	O
+收	O
+到	O
+
+我	O
+要	O
+买	O
+拇	O
+指	O
+饼	B-cp
+干	I-cp
+
+我	O
+要	O
+买	O
+湿	O
+纸	B-cp
+巾	I-cp
+婴	O
+儿	O
+宝	O
+宝	O
+专	O
+用	O
+手	O
+口	O
+湿	B-cp
+巾	I-cp
+纸	O
+小	O
+包	O
+
+乐	O
+视	O
+薯	B-cp
+片	I-cp
+多	O
+少	O
+钱	O
+
+黑	O
+人	O
+牙	B-cp
+膏	I-cp
+专	O
+研	O
+亮	O
+白	O
+多	O
+少	O
+钱	O
+
+夏	O
+天	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+
+超	O
+威	O
+贝	O
+贝	O
+健	O
+电	B-cp
+蚊	I-cp
+香	I-cp
+液	I-cp
+多	O
+少	O
+钱	O
+
+o	O
+r	O
+a	O
+2	O
+牙	B-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+天	B-pp
+猫	I-pp
+6	O
+1	O
+8	O
+多	O
+少	O
+钱	O
+
+德	B-pp
+芙	I-pp
+ 	O
+巧	B-cp
+克	I-cp
+力	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+光	B-pp
+明	I-pp
+
+家	O
+具	O
+脚	B-cp
+垫	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+初	O
+心	O
+酸	B-cp
+奶	I-cp
+
+贝	B-pp
+亲	I-pp
+勺	B-cp
+子	I-cp
+多	O
+少	O
+钱	O
+
+卫	B-cp
+生	I-cp
+巾	I-cp
+护	B-cp
+垫	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+心	B-pp
+相	I-pp
+印	I-pp
+婴	O
+儿	O
+
+伊	B-pp
+利	I-pp
+ 	O
+味	O
+可	O
+滋	O
+咖	B-cp
+啡	I-cp
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+蜂	B-pp
+花	I-pp
+
+达	O
+利	O
+园	O
+花	B-cp
+生	I-cp
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+凉	O
+拌	B-cp
+面	I-cp
+速	O
+食	O
+面	O
+多	O
+少	O
+钱	O
+
+番	O
+茄	O
+罐	B-cp
+头	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+可	O
+比	O
+克	O
+咖	B-cp
+啡	I-cp
+
+我	O
+要	O
+买	O
+婴	O
+儿	O
+辅	O
+食	O
+碗	O
+宝	O
+宝	O
+餐	B-cp
+具	I-cp
+套	B-cp
+装	I-cp
+
+耳	B-cp
+机	I-cp
+挂	O
+耳	O
+式	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+君	B-pp
+乐	I-pp
+宝	I-pp
+白	O
+金	O
+装	O
+
+我	O
+要	O
+买	O
+洗	O
+水	B-cp
+果	I-cp
+盆	O
+
+护	B-cp
+发	I-cp
+素	I-cp
+海	O
+飞	O
+丝	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+2	O
+0	O
+0	O
+
+防	B-cp
+晒	I-cp
+霜	I-cp
+男	O
+多	O
+少	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+液	I-cp
+补	O
+充	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+内	B-cp
+衣	I-cp
+收	O
+纳	O
+
+我	O
+要	O
+买	O
+辣	O
+零	B-cp
+食	I-cp
+
+我	O
+要	O
+买	O
+文	B-cp
+胸	I-cp
+袋	O
+洗	O
+内	B-cp
+衣	I-cp
+专	O
+用	O
+洗	O
+衣	O
+袋	O
+网	O
+袋	O
+
+我	O
+要	O
+买	O
+牙	B-cp
+膏	I-cp
+云	O
+南	O
+白	O
+
+我	O
+要	O
+买	O
+进	O
+口	O
+奶	B-cp
+粉	I-cp
+婴	O
+幼	O
+儿	O
+
+电	O
+蚊	O
+香	O
+片	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+水	O
+密	O
+码	O
+补	O
+水	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+子	B-pp
+初	I-pp
+湿	B-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+水	B-cp
+果	I-cp
+干	O
+混	O
+合	O
+
+我	O
+要	O
+买	O
+方	B-cp
+便	I-cp
+面	I-cp
+ 	O
+非	O
+油	O
+炸	O
+
+洗	B-cp
+衣	I-cp
+液	I-cp
+ 	O
+立	O
+白	O
+多	O
+少	O
+钱	O
+
+光	B-pp
+明	I-pp
+优	O
++	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	O
+手	O
+液	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+
+水	O
+之	O
+密	O
+语	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+e	O
+d	O
+o	O
+杯	B-cp
+子	I-cp
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+女	O
+士	O
+
+裤	B-cp
+子	I-cp
+男	O
+多	O
+少	O
+钱	O
+
+红	B-cp
+豆	I-cp
+沙	O
+馅	O
+多	O
+少	O
+钱	O
+
+迪	B-pp
+奥	I-pp
+口	B-cp
+红	I-cp
+
+我	O
+要	O
+买	O
+金	O
+枪	O
+鱼	O
+罐	B-cp
+头	I-cp
+ 	O
+水	O
+浸	O
+
+蒙	B-pp
+牛	I-pp
+酸	O
+酸	B-cp
+乳	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+方	B-cp
+便	I-cp
+面	I-cp
+ 	O
+拌	B-cp
+面	I-cp
+
+香	O
+体	O
+喷	B-cp
+雾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+良	B-pp
+品	I-pp
+铺	I-pp
+子	I-pp
+薯	O
+条	O
+
+蚊	B-cp
+帐	I-cp
+1	O
+ 	O
+5	O
+多	O
+少	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+机	I-cp
+套	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+妈	B-pp
+咪	I-pp
+宝	I-pp
+贝	I-pp
+纸	B-cp
+尿	I-cp
+裤	I-cp
+女	O
+x	B-gg
+l	I-gg
+
+我	O
+要	O
+买	O
+产	O
+妇	O
+卫	B-cp
+生	I-cp
+纸	I-cp
+
+我	O
+要	O
+买	O
+黑	O
+豆	O
+核	B-cp
+桃	I-cp
+黑	O
+芝	O
+麻	O
+粉	O
+
+查	O
+询	O
+昨	O
+天	O
+买	O
+的	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+大	B-cp
+米	I-cp
+物	O
+流	O
+信	O
+息	O
+
+黑	O
+人	O
+牙	B-cp
+膏	I-cp
+茶	O
+倍	O
+健	O
+多	O
+少	O
+钱	O
+
+早	O
+餐	O
+麦	B-cp
+片	I-cp
+坚	O
+果	O
+谷	O
+物	O
+ 	O
+进	O
+口	O
+多	O
+少	O
+钱	O
+
+健	O
+达	O
+巧	B-cp
+克	I-cp
+力	I-cp
+多	O
+少	O
+钱	O
+
+眉	B-cp
+笔	I-cp
+ 	O
+防	O
+水	O
+ 	O
+防	O
+汗	O
+ 	O
+不	O
+脱	O
+色	O
+ 	O
+持	O
+久	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+金	O
+枪	O
+鱼	O
+罐	B-cp
+头	I-cp
+
+我	O
+要	O
+买	O
+休	O
+闲	O
+运	O
+动	O
+套	B-cp
+装	I-cp
+女	O
+夏	O
+9	O
+5	O
+棉	O
+
+太	O
+平	O
+梳	O
+打	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+达	O
+利	O
+园	O
+法	O
+式	O
+小	O
+面	B-cp
+包	I-cp
+
+我	O
+要	O
+买	O
+欧	B-pp
+莱	I-pp
+雅	I-pp
+茶	O
+树	O
+
+e	O
+洁	O
+垃	B-cp
+圾	I-cp
+袋	I-cp
+多	O
+少	O
+钱	O
+
+佳	O
+期	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+辣	O
+方	B-cp
+便	I-cp
+面	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+宝	O
+宝	O
+湿	B-cp
+巾	I-cp
+ 	O
+婴	O
+儿	O
+湿	O
+纸	B-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+恒	B-pp
+顺	I-pp
+陈	O
+醋	O
+
+我	O
+要	O
+买	O
+肥	O
+皂	O
+ 	O
+奥	B-pp
+妙	I-pp
+
+我	O
+要	O
+买	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+女	O
+ 	O
+持	O
+久	O
+留	O
+香	O
+
+我	O
+要	O
+买	O
+女	O
+士	O
+短	B-cp
+裤	I-cp
+
+我	O
+要	O
+买	O
+地	B-cp
+板	I-cp
+精	O
+油	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+衣	I-cp
+粉	I-cp
+大	O
+包	O
+
+孕	B-cp
+妇	I-cp
+装	I-cp
+
+小	B-pp
+米	I-pp
+6	O
+
+我	O
+要	O
+买	O
+苏	O
+打	O
+水	O
+碱	O
+性	O
+天	O
+然	O
+饮	B-cp
+用	I-cp
+水	I-cp
+
+越	O
+南	O
+特	O
+产	O
+进	O
+口	O
+食	O
+品	O
+ 	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	O
+脸	O
+香	B-cp
+皂	I-cp
+
+我	O
+要	O
+买	O
+男	O
+士	O
+短	B-cp
+袖	I-cp
+t	B-cp
+恤	I-cp
+
+牙	B-cp
+膏	I-cp
+高	O
+露	O
+洁	O
+多	O
+少	O
+钱	O
+
+草	O
+莓	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+奶	B-cp
+瓶	I-cp
+晾	O
+干	O
+架	O
+多	O
+少	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+粉	I-cp
+ 	O
+超	O
+能	O
+多	O
+少	O
+钱	O
+
+儿	O
+童	O
+牙	B-cp
+刷	I-cp
+多	O
+少	O
+钱	O
+
+口	B-cp
+红	I-cp
+唇	B-cp
+膏	I-cp
+
+纸	B-cp
+巾	I-cp
+ 	O
+清	O
+风	O
+多	O
+少	O
+钱	O
+
+菜	B-cp
+籽	I-cp
+油	I-cp
+非	O
+转	O
+基	O
+因	O
+ 	O
+压	O
+榨	O
+5	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+给	O
+我	O
+看	O
+看	O
+我	O
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+快	O
+到	O
+了	O
+吧	O
+
+我	O
+要	O
+买	O
+小	O
+龙	O
+虾	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+
+我	O
+要	O
+买	O
+一	O
+次	O
+性	O
+牙	B-cp
+刷	I-cp
+
+花	B-pp
+王	I-pp
+妙	O
+而	O
+舒	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+威	B-cp
+化	I-cp
+饼	I-cp
+干	O
+ 	O
+进	O
+口	O
+
+我	O
+要	O
+买	O
+多	O
+味	O
+花	B-cp
+生	I-cp
+
+我	O
+要	O
+买	O
+孕	O
+妇	O
+零	B-cp
+食	I-cp
+大	O
+礼	O
+包	O
+
+牙	B-cp
+刷	I-cp
+杯	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+美	O
+丽	O
+雅	O
+垃	B-cp
+圾	I-cp
+袋	I-cp
+
+我	O
+要	O
+买	O
+清	O
+风	O
+无	O
+芯	O
+卷	B-cp
+纸	I-cp
+
+我	O
+要	O
+买	O
+老	O
+年	O
+人	O
+牛	B-cp
+奶	I-cp
+
+宝	O
+宝	O
+袜	B-cp
+子	I-cp
+多	O
+少	O
+钱	O
+
+牛	B-cp
+奶	I-cp
+锅	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+女	B-cp
+装	I-cp
+衣	B-cp
+服	I-cp
+
+我	O
+要	O
+买	O
+辉	O
+山	O
+奶	B-cp
+粉	I-cp
+
+我	O
+要	O
+买	O
+核	B-cp
+桃	I-cp
+酸	B-cp
+奶	I-cp
+
+棉	O
+麻	O
+ 	O
+女	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+爱	B-pp
+他	I-pp
+美	I-pp
+1	O
+段	O
+
+我	O
+要	O
+买	O
+护	B-cp
+肤	I-cp
+品	I-cp
+套	B-cp
+装	I-cp
+
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+伊	B-pp
+利	I-pp
+酸	O
+酸	B-cp
+乳	I-cp
+
+矿	B-cp
+泉	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+乐	O
+天	O
+巧	B-cp
+克	I-cp
+力	I-cp
+派	O
+多	O
+少	O
+钱	O
+
+三	O
+七	O
+牙	B-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+茱	O
+蒂	O
+丝	O
+饼	B-cp
+干	I-cp
+
+薯	B-cp
+片	I-cp
+大	O
+礼	O
+包	O
+多	O
+少	O
+钱	O
+
+上	B-cp
+衣	I-cp
+夏	O
+
+我	O
+要	O
+买	O
+菊	O
+花	O
+茶	O
+盒	B-gg
+装	I-gg
+
+我	O
+要	O
+买	O
+衣	B-cp
+服	I-cp
+收	O
+纳	O
+
+美	B-pp
+素	I-pp
+佳	I-pp
+儿	I-pp
+1	O
+段	O
+多	O
+少	O
+钱	O
+
+欧	B-pp
+莱	I-pp
+雅	I-pp
+
+我	O
+要	O
+买	O
+袜	B-cp
+子	I-cp
+男	O
+
+c	O
+o	O
+c	O
+o	O
+v	O
+e	O
+l	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+天	O
+润	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+进	O
+口	O
+牛	B-cp
+奶	I-cp
+
+飘	O
+柔	O
+焗	O
+油	O
+护	B-cp
+发	I-cp
+素	I-cp
+多	O
+少	O
+钱	O
+
+游	O
+戏	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+精	O
+油	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+我	O
+要	O
+买	O
+咖	B-cp
+啡	I-cp
+壶	O
+
+纸	O
+尿	O
+片	O
+x	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+咖	B-cp
+啡	I-cp
+豆	I-cp
+原	O
+装	O
+进	O
+口	O
+多	O
+少	O
+钱	O
+
+儿	O
+童	O
+酸	B-cp
+奶	I-cp
+发	O
+酵	O
+菌	O
+多	O
+少	O
+钱	O
+
+夏	O
+季	O
+套	B-cp
+装	I-cp
+女	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+欧	O
+亚	O
+牛	B-cp
+奶	I-cp
+
+妙	B-pp
+洁	I-pp
+保	O
+鲜	O
+膜	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+婴	O
+儿	O
+餐	B-cp
+具	I-cp
+
+拉	O
+芳	O
+护	B-cp
+发	I-cp
+素	I-cp
+多	O
+少	O
+钱	O
+
+贝	O
+德	O
+玛	O
+卸	O
+妆	O
+水	O
+5	B-gg
+0	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+蓝	O
+水	O
+多	O
+少	O
+钱	O
+
+酱	B-cp
+油	I-cp
+ 	O
+海	O
+天	O
+多	O
+少	O
+钱	O
+
+纯	O
+甄	O
+酸	O
+牛	B-cp
+奶	I-cp
+2	O
+0	O
+0	O
+g	O
+ 	O
+1	O
+2	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+抹	O
+茶	O
+巧	B-cp
+克	I-cp
+力	I-cp
+
+清	O
+洁	O
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+韩	O
+国	O
+咖	B-cp
+啡	I-cp
+1	O
+0	O
+0	O
+条	O
+装	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+宝	O
+宝	O
+理	B-cp
+发	I-cp
+器	I-cp
+
+一	O
+次	O
+性	O
+袜	B-cp
+子	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+白	B-cp
+酒	I-cp
+杯	O
+
+天	B-pp
+猫	I-pp
+女	B-cp
+装	I-cp
+女	O
+裙	O
+多	O
+少	O
+钱	O
+
+芦	O
+荟	O
+面	B-cp
+膜	I-cp
+多	O
+少	O
+钱	O
+
+宽	O
+松	O
+上	B-cp
+衣	I-cp
+
+这	O
+个	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+大	B-pp
+白	I-pp
+兔	I-pp
+奶	O
+糖	O
+多	O
+少	O
+钱	O
+
+化	B-cp
+妆	I-cp
+水	I-cp
+
+冰	O
+棍	O
+雪	O
+糕	O
+模	B-cp
+具	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+风	B-cp
+扇	I-cp
+迷	O
+你	O
+随	O
+身	O
+
+我	O
+要	O
+买	O
+光	B-pp
+明	I-pp
+优	O
+
+我	O
+要	O
+买	O
+婴	O
+儿	O
+洗	O
+发	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+我	O
+要	O
+买	O
+乐	B-pp
+高	I-pp
+玩	B-cp
+具	I-cp
+城	O
+市	O
+系	O
+列	O
+
+我	O
+要	O
+买	O
+味	O
+全	O
+燕	O
+麦	O
+牛	B-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+淘	O
+豆	O
+手	O
+撕	O
+面	B-cp
+包	I-cp
+
+我	O
+要	O
+买	O
+费	B-pp
+列	I-pp
+罗	I-pp
+榛	O
+果	O
+威	B-cp
+化	I-cp
+巧	B-cp
+克	I-cp
+力	I-cp
+
+小	B-pp
+米	I-pp
+4	O
+x	O
+
+我	O
+要	O
+买	O
+立	O
+白	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+罐	B-cp
+头	I-cp
+鱼	O
+多	O
+少	O
+钱	O
+
+进	O
+口	O
+奶	B-cp
+粉	I-cp
+婴	O
+幼	O
+儿	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+有	O
+机	O
+大	B-cp
+米	I-cp
+
+淘	O
+米	O
+水	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+去	O
+黑	O
+头	O
+面	B-cp
+膜	I-cp
+撕	O
+拉	O
+式	O
+吸	O
+粉	O
+刺	O
+男	O
+士	O
+
+我	O
+要	O
+买	O
+进	O
+口	O
+饼	B-cp
+干	I-cp
+
+我	O
+要	O
+买	O
+自	B-cp
+行	I-cp
+车	I-cp
+打	O
+气	O
+筒	O
+
+冠	O
+生	O
+园	O
+方	B-cp
+便	I-cp
+面	I-cp
+多	O
+少	O
+钱	O
+
+低	O
+糖	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+帆	B-cp
+布	I-cp
+鞋	I-cp
+多	O
+少	O
+钱	O
+
+炼	O
+乳	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+x	O
+o	O
+洋	B-cp
+酒	I-cp
+多	O
+少	O
+钱	O
+
+小	O
+白	O
+兔	O
+牙	B-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+产	O
+后	O
+收	B-cp
+腹	I-cp
+带	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+电	B-cp
+风	I-cp
+扇	I-cp
+
+我	O
+要	O
+买	O
+长	O
+卷	O
+卫	B-cp
+生	I-cp
+纸	I-cp
+
+金	B-pp
+龙	I-pp
+鱼	I-pp
+ 	O
+乳	O
+玉	O
+皇	O
+妃	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+三	O
+明	O
+治	O
+面	B-cp
+包	I-cp
+
+九	O
+阳	O
+电	O
+热	O
+水	B-cp
+壶	I-cp
+多	O
+少	O
+钱	O
+
+彩	B-cp
+椒	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+手	B-cp
+帕	I-cp
+纸	I-cp
+洁	O
+柔	O
+
+生	B-cp
+鲜	I-cp
+鱼	O
+多	O
+少	O
+钱	O
+
+狮	O
+王	O
+牙	B-cp
+膏	I-cp
+进	O
+口	O
+日	O
+本	O
+多	O
+少	O
+钱	O
+
+福	O
+佳	O
+白	O
+啤	B-cp
+酒	I-cp
+3	B-gg
+3	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+阿	O
+尔	O
+山	O
+矿	B-cp
+泉	I-cp
+水	I-cp
+
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+要	O
+几	O
+天	O
+才	O
+能	O
+到	O
+，	O
+现	O
+在	O
+到	O
+哪	O
+里	O
+了	O
+
+连	B-cp
+衣	I-cp
+裙	I-cp
+长	B-cp
+裙	I-cp
+
+欧	O
+乐	O
+b	O
+电	O
+动	O
+牙	B-cp
+刷	I-cp
+多	O
+少	O
+钱	O
+
+小	O
+核	B-cp
+桃	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+安	B-pp
+琪	I-pp
+面	B-cp
+包	I-cp
+糠	O
+
+牙	B-cp
+膏	I-cp
+旅	O
+行	O
+装	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+毛	B-cp
+巾	I-cp
+ 	O
+洁	B-pp
+丽	I-pp
+雅	I-pp
+
+前	O
+置	O
+指	O
+纹	O
+的	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+零	B-cp
+食	I-cp
+
+我	O
+想	O
+买	O
+个	O
+手	B-cp
+机	I-cp
+ 	O
+有	O
+没	O
+有	O
+便	O
+宜	O
+点	O
+的	O
+。	O
+
+强	B-pp
+生	I-pp
+美	O
+肌	O
+多	O
+少	O
+钱	O
+
+想	O
+买	O
+新	O
+手	B-cp
+机	I-cp
+
+我	O
+昨	O
+天	O
+的	O
+牛	B-cp
+奶	I-cp
+的	O
+物	O
+流	O
+到	O
+哪	O
+个	O
+站	O
+点	O
+了	O
+
+拉	B-cp
+拉	I-cp
+裤	I-cp
+x	B-gg
+l	I-gg
+男	O
+多	O
+少	O
+钱	O
+
+海	O
+鲜	O
+酱	B-cp
+油	I-cp
+多	O
+少	O
+钱	O
+
+黄	O
+瓜	O
+味	O
+薯	B-cp
+片	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+露	O
+得	O
+清	O
+
+嘉	B-pp
+顿	I-pp
+威	B-cp
+化	I-cp
+饼	I-cp
+干	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+小	O
+风	B-cp
+扇	I-cp
+ 	O
+随	O
+身	O
+
+橡	O
+胶	O
+手	B-cp
+套	I-cp
+ 	O
+洗	O
+碗	O
+洗	O
+衣	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+大	O
+容	O
+量	O
+水	B-cp
+杯	I-cp
+
+威	O
+露	O
+士	O
+十	O
+八	O
+本	O
+草	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+多	O
+少	O
+钱	O
+
+山	B-cp
+楂	I-cp
+卷	I-cp
+果	B-cp
+丹	I-cp
+皮	I-cp
+多	O
+少	O
+钱	O
+
+天	B-pp
+猫	I-pp
+女	B-cp
+装	I-cp
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+山	O
+水	O
+啤	B-cp
+酒	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+燕	O
+麦	O
+巧	B-cp
+克	I-cp
+力	I-cp
+棒	O
+
+小	B-pp
+米	I-pp
+粥	O
+杂	O
+粮	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+核	B-cp
+桃	I-cp
+粉	O
+
+伊	B-pp
+利	I-pp
+金	O
+装	O
+多	O
+少	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+液	I-cp
+汰	O
+渍	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+狮	O
+王	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+我	O
+要	O
+买	O
+大	B-pp
+王	I-pp
+维	O
+e	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+s	O
+
+我	O
+要	O
+买	O
+学	O
+生	O
+奶	B-cp
+粉	I-cp
+ 	O
+青	O
+少	O
+年	O
+
+我	O
+要	O
+买	O
+畅	O
+优	O
+酸	B-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+平	B-cp
+板	I-cp
+拖	I-cp
+把	I-cp
+头	O
+替	O
+换	O
+布	O
+拖	O
+布	O
+
+我	O
+要	O
+买	O
+冰	B-cp
+箱	I-cp
+除	I-cp
+味	I-cp
+剂	O
+
+卫	B-cp
+生	I-cp
+巾	I-cp
+ 	O
+韩	O
+国	O
+多	O
+少	O
+钱	O
+
+咖	B-cp
+啡	I-cp
+进	O
+口	O
+多	O
+少	O
+钱	O
+
+湿	B-cp
+巾	I-cp
+独	O
+立	O
+包	O
+装	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+沙	B-cp
+发	I-cp
+坐	O
+垫	O
+
+钱	B-cp
+包	I-cp
+
+宝	O
+宝	O
+裤	B-cp
+子	I-cp
+
+奶	B-cp
+瓶	I-cp
+清	O
+洁	O
+剂	O
+多	O
+少	O
+钱	O
+
+贝	B-pp
+亲	I-pp
+漱	O
+口	O
+水	O
+多	O
+少	O
+钱	O
+
+帮	O
+我	O
+查	O
+一	O
+下	O
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+快	O
+递	O
+详	O
+情	O
+
+那	O
+些	O
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+开	O
+始	O
+运	O
+输	O
+了	O
+吗	O
+？	O
+
+我	O
+要	O
+买	O
+全	O
+麦	O
+饼	B-cp
+干	I-cp
+粗	O
+粮	O
+
+防	O
+蚊	O
+液	O
+ 	O
+喷	B-cp
+雾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+吸	O
+水	O
+毛	B-cp
+巾	I-cp
+
+奥	B-pp
+妙	I-pp
+除	O
+菌	O
+除	O
+螨	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+多	O
+少	O
+钱	O
+
+婴	O
+儿	O
+润	B-cp
+肤	I-cp
+霜	I-cp
+多	O
+少	O
+钱	O
+
+洗	B-cp
+发	I-cp
+水	I-cp
+ 	O
+男	O
+士	O
+多	O
+少	O
+钱	O
+
+蚊	B-cp
+帐	I-cp
+ 	O
+学	O
+生	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+抽	B-cp
+纸	I-cp
+小	O
+幅	O
+
+酒	O
+精	O
+喷	B-cp
+雾	I-cp
+瓶	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+迪	O
+士	O
+尼	O
+饼	B-cp
+干	I-cp
+
+生	B-cp
+鲜	I-cp
+肉	O
+类	O
+多	O
+少	O
+钱	O
+
+我	O
+买	O
+的	O
+手	B-cp
+机	I-cp
+到	O
+现	O
+在	O
+还	O
+没	O
+有	O
+发	O
+货	O
+，	O
+我	O
+能	O
+退	O
+款	O
+否	O
+
+运	O
+动	O
+套	B-cp
+装	I-cp
+男	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+紧	O
+致	O
+抗	O
+皱	O
+面	B-cp
+膜	I-cp
+
+上	O
+海	O
+香	B-cp
+皂	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+清	O
+风	O
+纸	B-cp
+巾	I-cp
+卷	B-cp
+纸	I-cp
+
+韩	O
+后	O
+补	O
+水	O
+面	B-cp
+膜	I-cp
+
+我	O
+要	O
+买	O
+贝	B-pp
+亲	I-pp
+痱	O
+子	O
+
+脱	B-cp
+脂	I-cp
+牛	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+薏	O
+米	O
+红	B-cp
+豆	I-cp
+粥	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+猴	O
+头	O
+菇	O
+饼	B-cp
+干	I-cp
+ 	O
+江	O
+中	O
+
+我	O
+要	O
+买	O
+蒙	B-pp
+牛	I-pp
+纯	B-cp
+牛	I-cp
+奶	I-cp
+2	O
+5	O
+0	O
+m	O
+l	O
+
+我	O
+要	O
+买	O
+免	O
+洗	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+水	B-cp
+果	I-cp
+沙	B-cp
+拉	I-cp
+酱	I-cp
+
+我	O
+要	O
+买	O
+费	B-pp
+列	I-pp
+罗	I-pp
+巧	B-cp
+克	I-cp
+力	I-cp
+4	O
+8	O
+粒	O
+
+鳕	B-cp
+鱼	I-cp
+块	I-cp
+多	O
+少	O
+钱	O
+
+施	O
+华	O
+蔻	O
+洗	B-cp
+发	I-cp
+水	I-cp
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+维	O
+他	O
+芒	B-cp
+果	I-cp
+
+伊	B-pp
+利	I-pp
+q	O
+q	O
+星	O
+儿	O
+童	O
+成	O
+长	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+花	B-cp
+生	I-cp
+酱	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+雀	B-pp
+巢	I-pp
+金	O
+装	O
+米	O
+粉	O
+
+休	O
+闲	O
+短	B-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+不	O
+锈	O
+钢	O
+盆	O
+ 	O
+洗	O
+菜	B-cp
+盆	I-cp
+ 	O
+和	O
+面	O
+盆	O
+
+我	O
+要	O
+买	O
+玫	B-pp
+琳	I-pp
+凯	I-pp
+面	B-cp
+膜	I-cp
+
+我	O
+要	O
+买	O
+内	B-cp
+衣	I-cp
+洗	O
+衣	O
+袋	O
+
+我	O
+要	O
+买	O
+爸	O
+爸	O
+的	O
+选	O
+择	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+
+我	O
+要	O
+买	O
+小	O
+熊	O
+饼	B-cp
+干	I-cp
+
+安	B-cp
+全	I-cp
+座	I-cp
+椅	I-cp
+
+我	O
+要	O
+买	O
+方	B-cp
+便	I-cp
+面	I-cp
+ 	O
+桶	O
+装	O
+
+啤	B-cp
+酒	I-cp
+3	B-gg
+3	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+牙	B-cp
+刷	I-cp
+ 	O
+软	O
+毛	O
+ 	O
+小	O
+头	O
+
+我	O
+要	O
+买	O
+鸡	B-cp
+蛋	I-cp
+面	I-cp
+条	O
+
+百	O
+搭	O
+裤	B-cp
+子	I-cp
+
+水	B-cp
+杯	I-cp
+ 	O
+塑	O
+料	O
+男	O
+生	O
+多	O
+少	O
+钱	O
+
+买	O
+巧	B-cp
+克	I-cp
+力	I-cp
+
+好	O
+吃	O
+点	O
+香	O
+脆	O
+杏	O
+仁	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+鹰	O
+唛	O
+花	B-cp
+生	I-cp
+油	O
+多	O
+少	O
+钱	O
+
+这	O
+是	O
+昨	O
+天	O
+购	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+吗	O
+？	O
+到	O
+货	O
+了	O
+吗	O
+
+斜	B-cp
+挎	I-cp
+包	I-cp
+
+三	O
+只	O
+松	O
+鼠	O
+锅	B-cp
+巴	I-cp
+多	O
+少	O
+钱	O
+
+进	O
+口	O
+面	B-cp
+膜	I-cp
+多	O
+少	O
+钱	O
+
+百	O
+年	O
+润	O
+发	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+球	O
+玩	B-cp
+具	I-cp
+多	O
+少	O
+钱	O
+
+纸	B-cp
+尿	I-cp
+裤	I-cp
+超	O
+薄	O
+多	O
+少	O
+钱	O
+
+稻	O
+花	O
+香	O
+大	B-cp
+米	I-cp
+多	O
+少	O
+钱	O
+
+方	B-cp
+巾	I-cp
+纯	O
+棉	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+电	B-cp
+脑	I-cp
+
+我	O
+要	O
+买	O
+低	O
+脂	O
+面	B-cp
+包	I-cp
+
+夏	O
+季	O
+长	B-cp
+裙	I-cp
+
+杜	O
+蕾	O
+斯	O
+避	B-cp
+孕	I-cp
+套	I-cp
+凸	O
+点	O
+螺	O
+纹	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+垃	B-cp
+圾	I-cp
+袋	I-cp
+
+我	O
+要	O
+买	O
+日	O
+本	O
+牙	B-cp
+膏	I-cp
+
+我	O
+要	O
+买	O
+中	O
+年	O
+女	B-cp
+装	I-cp
+
+垃	B-cp
+圾	I-cp
+袋	I-cp
+ 	O
+中	O
+号	O
+4	O
+5	O
+ 	O
+5	O
+5	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+i	O
+l	O
+l	O
+y	O
+咖	B-cp
+啡	I-cp
+粉	O
+
+我	O
+要	O
+买	O
+雪	B-pp
+花	I-pp
+粉	O
+
+乐	B-pp
+事	I-pp
+芝	O
+士	O
+多	O
+少	O
+钱	O
+
+头	O
+发	O
+定	O
+型	O
+喷	B-cp
+雾	I-cp
+多	O
+少	O
+钱	O
+
+海	O
+藻	O
+面	B-cp
+膜	I-cp
+
+特	O
+仑	O
+苏	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+2	O
+5	O
+0	O
+m	O
+l	O
+ 	O
+1	O
+2	O
+盒	O
+多	O
+少	O
+钱	O
+
+巧	B-cp
+克	I-cp
+力	I-cp
+圈	O
+多	O
+少	O
+钱	O
+
+冰	B-cp
+箱	I-cp
+清	O
+洁	O
+剂	O
+多	O
+少	O
+钱	O
+
+婴	O
+儿	O
+湿	B-cp
+巾	I-cp
+8	O
+0	O
+片	O
+多	O
+少	O
+钱	O
+
+李	O
+施	O
+德	O
+林	O
+漱	O
+口	O
+水	O
+5	B-gg
+0	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+舒	O
+肤	O
+佳	O
+香	B-cp
+皂	I-cp
+
+我	O
+要	O
+买	O
+润	B-pp
+膏	I-pp
+洗	B-cp
+发	I-cp
+水	I-cp
+ 	O
+韩	O
+国	O
+进	O
+口	O
+
+我	O
+要	O
+买	O
+产	O
+褥	O
+期	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+拌	B-cp
+面	I-cp
+酱	O
+料	O
+
+奥	O
+古	O
+特	O
+啤	B-cp
+酒	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+蒙	B-pp
+牛	I-pp
+红	O
+谷	O
+
+凉	O
+水	B-cp
+壶	I-cp
+陶	O
+瓷	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+奶	B-cp
+粉	I-cp
+
+我	O
+要	O
+买	O
+泡	B-cp
+面	I-cp
+合	O
+味	O
+道	O
+
+我	O
+要	O
+买	O
+女	O
+性	O
+私	B-cp
+处	I-cp
+护	I-cp
+理	I-cp
+卫	O
+生	O
+湿	B-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+乐	B-pp
+事	I-pp
+真	O
+脆	O
+薯	O
+条	O
+
+我	O
+要	O
+买	O
+湿	O
+纸	B-cp
+巾	I-cp
+ 	O
+婴	O
+儿	O
+专	O
+用	O
+
+郁	O
+仙	O
+兰	O
+活	B-pp
+泉	I-pp
+面	B-cp
+膜	I-cp
+
+水	B-cp
+壶	I-cp
+
+贝	B-pp
+亲	I-pp
+牙	B-cp
+刷	I-cp
+多	O
+少	O
+钱	O
+
+盘	O
+子	O
+餐	B-cp
+具	I-cp
+ 	O
+创	O
+意	O
+多	O
+少	O
+钱	O
+
+德	O
+亚	O
+全	B-cp
+脂	I-cp
+牛	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+魔	B-cp
+方	I-cp
+
+蚊	B-cp
+帐	I-cp
+支	O
+架	O
+杆	O
+子	O
+ 	O
+不	O
+锈	O
+钢	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+华	O
+润	O
+五	O
+丰	O
+大	B-cp
+米	I-cp
+
+面	B-cp
+膜	I-cp
+男	O
+士	O
+多	O
+少	O
+钱	O
+
+味	B-pp
+事	I-pp
+达	I-pp
+酱	B-cp
+油	I-cp
+多	O
+少	O
+钱	O
+
+畅	O
+优	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+蒙	B-pp
+牛	I-pp
+黑	O
+谷	O
+谷	O
+粒	O
+早	O
+餐	O
+牛	B-cp
+奶	I-cp
+饮	O
+品	O
+2	O
+5	O
+0	O
+m	O
+l	O
+ 	O
+1	O
+2	O
+盒	O
+多	O
+少	O
+钱	O
+
+谷	O
+粒	O
+多	O
+燕	O
+麦	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+挂	B-cp
+钩	I-cp
+ 	O
+厨	O
+房	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+黑	O
+啤	B-cp
+酒	I-cp
+ 	O
+德	O
+国	O
+进	O
+口	O
+
+我	O
+要	O
+买	O
+小	O
+头	O
+牙	B-cp
+刷	I-cp
+
+方	O
+广	O
+面	B-cp
+条	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+菲	O
+比	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+l	O
+
+我	O
+要	O
+买	O
+游	O
+泳	O
+尿	B-cp
+不	I-cp
+湿	I-cp
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+5	B-gg
+0	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+
+格	B-pp
+力	I-pp
+遥	O
+控	O
+冷	B-cp
+风	I-cp
+扇	I-cp
+ 	O
+空	O
+调	O
+扇	O
+多	O
+少	O
+钱	O
+
+牙	B-cp
+膏	I-cp
+ 	O
+舒	O
+克	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+动	O
+物	O
+饼	B-cp
+干	I-cp
+
+北	O
+京	O
+特	O
+产	O
+小	B-cp
+吃	I-cp
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+苹	O
+果	O
+5	B-xh
+s	I-xh
+
+我	O
+要	O
+买	O
+背	O
+心	O
+垃	B-cp
+圾	I-cp
+袋	I-cp
+
+我	O
+要	O
+买	O
+爱	O
+敬	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+抹	O
+茶	O
+饼	B-cp
+干	I-cp
+
+我	O
+要	O
+买	O
+独	O
+立	O
+包	O
+装	O
+饼	B-cp
+干	I-cp
+
+婴	O
+儿	O
+抽	B-cp
+纸	I-cp
+整	O
+箱	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+女	O
+士	O
+施	O
+华	O
+蔻	O
+
+我	O
+要	O
+买	O
+大	B-pp
+王	I-pp
+ 	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+
+青	O
+蛙	O
+牙	B-cp
+刷	I-cp
+ 	O
+软	O
+毛	O
+成	O
+人	O
+多	O
+少	O
+钱	O
+
+短	B-cp
+裤	I-cp
+ 	O
+大	O
+码	O
+
+我	O
+要	O
+买	O
+啤	B-cp
+酒	I-cp
+
+干	O
+拌	B-cp
+面	I-cp
+方	B-cp
+便	I-cp
+面	I-cp
+多	O
+少	O
+钱	O
+
+想	O
+买	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+
+百	O
+香	O
+果	O
+水	B-cp
+果	I-cp
+新	O
+鲜	O
+多	O
+少	O
+钱	O
+
+理	O
+发	O
+工	B-cp
+具	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+零	B-cp
+食	I-cp
+大	O
+礼	O
+包	O
+送	O
+女	O
+友	O
+一	O
+箱	O
+整	O
+箱	O
+
+健	B-pp
+力	I-pp
+宝	I-pp
+饮	O
+料	O
+多	O
+少	O
+钱	O
+
+五	O
+谷	O
+杂	O
+粮	O
+ 	O
+豆	B-cp
+类	I-cp
+多	O
+少	O
+钱	O
+
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+香	B-cp
+皂	I-cp
+ 	O
+舒	O
+肤	O
+佳	O
+
+我	O
+要	O
+买	O
+好	B-pp
+奇	I-pp
+铂	B-xh
+金	I-xh
+装	I-xh
+
+去	O
+痘	O
+印	O
+的	O
+面	B-cp
+膜	I-cp
+有	O
+哪	O
+些	O
+
+我	O
+要	O
+买	O
+内	B-cp
+衣	I-cp
+皂	O
+女	O
+士	O
+
+昨	O
+天	O
+的	O
+买	O
+的	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+到	O
+了	O
+没	O
+有	O
+?	O
+
+我	O
+要	O
+买	O
+速	O
+溶	O
+咖	B-cp
+啡	I-cp
+
+洗	B-cp
+发	I-cp
+水	I-cp
+1	O
+0	O
+0	O
+m	O
+l	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+拉	B-cp
+杆	I-cp
+箱	I-cp
+万	O
+向	O
+轮	O
+2	O
+0	O
+寸	O
+
+儿	O
+童	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+安	O
+雨	O
+乐	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+调	B-cp
+味	I-cp
+料	I-cp
+盒	O
+多	O
+少	O
+钱	O
+
+护	B-cp
+发	I-cp
+素	I-cp
+力	O
+士	O
+多	O
+少	O
+钱	O
+
+核	B-cp
+桃	I-cp
+包	O
+多	O
+少	O
+钱	O
+
+爽	B-cp
+肤	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+牙	B-cp
+签	I-cp
+盒	I-cp
+ 	O
+便	O
+携	O
+
+洗	B-cp
+发	I-cp
+水	I-cp
+ 	O
+日	O
+本	O
+多	O
+少	O
+钱	O
+
+进	O
+口	O
+牛	B-cp
+奶	I-cp
+2	O
+0	O
+0	O
+m	O
+l	O
+多	O
+少	O
+钱	O
+
+v	B-pp
+i	I-pp
+v	I-pp
+o	I-pp
+Y	O
+2	O
+7	O
+手	B-cp
+机	I-cp
+壳	I-cp
+
+清	O
+扬	O
+洗	B-cp
+发	I-cp
+水	I-cp
+5	B-gg
+0	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+什	O
+么	O
+手	B-cp
+机	I-cp
+比	O
+较	O
+好	O
+
+太	O
+贵	O
+要	O
+5	B-xh
+S	I-xh
+
+我	O
+要	O
+买	O
+纸	O
+维	B-pp
+达	I-pp
+
+我	O
+要	O
+买	O
+粽	B-cp
+子	I-cp
+
+我	O
+要	O
+买	O
+C	B-cp
+P	I-cp
+U	I-cp
+
+我	O
+要	O
+买	O
+女	O
+士	O
+内	B-cp
+衣	I-cp
+内	B-cp
+裤	I-cp
+洗	O
+衣	O
+皂	O
+
+我	O
+要	O
+买	O
+福	B-pp
+临	I-pp
+门	I-pp
+玉	O
+米	O
+油	O
+5	B-gg
+l	I-gg
+
+我	O
+要	O
+买	O
+北	O
+大	O
+荒	O
+大	B-cp
+米	I-cp
+
+气	B-cp
+垫	I-cp
+c	O
+c	O
+
+我	O
+要	O
+买	O
+眼	O
+镜	O
+湿	B-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+安	O
+佳	O
+脱	O
+脂	O
+奶	B-cp
+粉	I-cp
+
+我	O
+要	O
+买	O
+丹	O
+麦	O
+曲	O
+奇	O
+饼	B-cp
+干	I-cp
+
+伊	B-pp
+利	I-pp
+真	O
+果	O
+粒	O
+多	O
+少	O
+钱	O
+
+莲	O
+雾	O
+水	B-cp
+果	I-cp
+多	O
+少	O
+钱	O
+
+最	O
+近	O
+的	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+抽	B-cp
+纸	I-cp
+2	O
+层	O
+
+太	O
+子	O
+乐	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+婴	O
+幼	O
+儿	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+爱	B-pp
+茉	I-pp
+莉	I-pp
+
+我	O
+要	O
+买	O
+德	B-pp
+芙	I-pp
+小	O
+巧	O
+粒	O
+
+凉	B-cp
+鞋	I-cp
+
+商	O
+场	O
+迪	B-pp
+奥	I-pp
+口	B-cp
+红	I-cp
+价	O
+格	O
+是	O
+多	O
+少	O
+呀	O
+？	O
+
+买	O
+个	O
+苹	O
+果	O
+手	B-cp
+机	I-cp
+不	O
+知	O
+道	O
+怎	O
+样	O
+激	O
+活	O
+
+我	O
+要	O
+买	O
+晾	O
+衣	O
+夹	B-cp
+子	I-cp
+
+我	O
+要	O
+买	O
+班	O
+布	O
+卫	B-cp
+生	I-cp
+纸	I-cp
+
+衣	O
+柜	O
+除	B-cp
+湿	I-cp
+袋	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+畅	O
+轻	O
+酸	B-cp
+奶	I-cp
+
+大	B-pp
+吃	I-pp
+兄	I-pp
+多	O
+少	O
+钱	O
+
+奶	B-cp
+嘴	I-cp
+ 	O
+贝	B-pp
+亲	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+喵	B-pp
+先	I-pp
+生	I-pp
+
+康	B-pp
+师	I-pp
+傅	I-pp
+面	O
+多	O
+少	O
+钱	O
+
+曼	B-pp
+秀	I-pp
+雷	I-pp
+敦	I-pp
+薄	O
+荷	O
+膏	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+清	O
+风	O
+卷	B-cp
+纸	I-cp
+
+劲	B-pp
+仔	I-pp
+小	O
+鱼	O
+多	O
+少	O
+钱	O
+
+牛	B-cp
+奶	I-cp
+价	O
+格	O
+涨	O
+价	O
+了	O
+吗	O
+
+请	O
+帮	O
+我	O
+看	O
+看	O
+昨	O
+天	O
+我	O
+购	O
+买	O
+的	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+大	B-cp
+米	I-cp
+到	O
+货	O
+了	O
+吗	O
+
+洗	B-cp
+衣	I-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+巧	B-cp
+克	I-cp
+力	I-cp
+蛋	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+猫	O
+罐	B-cp
+头	I-cp
+
+我	O
+要	O
+买	O
+热	O
+水	B-cp
+壶	I-cp
+保	O
+温	O
+瓶	O
+
+不	O
+锈	O
+钢	O
+水	B-cp
+壶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+枪	B-pp
+手	I-pp
+电	B-cp
+蚊	I-cp
+香	I-cp
+液	I-cp
+
+宝	O
+宝	O
+凉	B-cp
+鞋	I-cp
+
+我	O
+要	O
+买	O
+花	B-cp
+生	I-cp
+仁	O
+
+养	B-pp
+乐	I-pp
+多	I-pp
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+特	O
+价	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+有	O
+欲	O
+仙	O
+泉	O
+活	B-pp
+泉	I-pp
+面	B-cp
+膜	I-cp
+吗	O
+
+苹	O
+果	O
+6	O
+s	O
+手	B-cp
+机	I-cp
+壳	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+大	O
+龙	O
+虾	O
+ 	O
+鲜	B-pp
+活	I-pp
+ 	O
+活	O
+虾	O
+
+内	B-cp
+衣	I-cp
+皂	O
+杀	O
+菌	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+紫	O
+米	O
+夹	O
+心	O
+面	B-cp
+包	I-cp
+
+我	O
+要	O
+买	O
+调	B-cp
+味	I-cp
+料	I-cp
+瓶	O
+
+我	O
+要	O
+买	O
+霸	O
+王	O
+护	B-cp
+发	I-cp
+素	I-cp
+
+我	O
+要	O
+买	O
+花	B-pp
+王	I-pp
+ 	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+我	O
+要	O
+买	O
+酵	B-cp
+母	I-cp
+粉	I-cp
+ 	O
+馒	O
+头	O
+包	O
+子	O
+
+我	O
+要	O
+买	O
+云	O
+南	O
+特	O
+产	O
+小	B-cp
+吃	I-cp
+零	B-cp
+食	I-cp
+
+我	O
+要	O
+买	O
+流	B-cp
+沙	I-cp
+包	I-cp
+
+乐	O
+家	O
+扁	O
+桃	B-cp
+仁	I-cp
+巧	B-cp
+克	I-cp
+力	I-cp
+糖	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+百	B-xh
+钻	I-xh
+
+手	B-cp
+机	I-cp
+架	O
+多	O
+少	O
+钱	O
+
+李	B-pp
+锦	I-pp
+记	I-pp
+酱	B-cp
+油	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+零	B-cp
+食	I-cp
+饼	B-cp
+干	I-cp
+
+我	O
+要	O
+买	O
+迷	O
+你	O
+风	B-cp
+扇	I-cp
+可	O
+充	O
+电	O
+u	O
+s	O
+b	O
+小	O
+风	B-cp
+扇	I-cp
+
+我	O
+要	O
+买	O
+心	B-pp
+相	I-pp
+印	I-pp
+抽	B-cp
+纸	I-cp
+婴	O
+儿	O
+专	O
+用	O
+纸	B-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+衣	O
+物	O
+收	B-cp
+纳	I-cp
+袋	I-cp
+
+我	O
+要	O
+买	O
+二	O
+手	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+维	O
+维	O
+豆	B-cp
+奶	I-cp
+粉	I-cp
+
+我	O
+想	O
+买	O
+苹	O
+果	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+杰	O
+士	O
+邦	O
+ 	O
+z	O
+e	O
+r	O
+o	O
+零	O
+感	O
+超	O
+薄	O
+避	B-cp
+孕	I-cp
+套	I-cp
+
+我	O
+要	O
+买	O
+抽	B-cp
+纸	I-cp
+本	O
+色	O
+
+我	O
+要	O
+买	O
+蜂	B-cp
+蜜	I-cp
+
+我	O
+要	O
+买	O
+竹	O
+席	O
+凉	B-cp
+席	I-cp
+
+T	B-cp
+恤	I-cp
+衫	O
+
+我	O
+要	O
+买	O
+心	O
+心	B-pp
+相	I-pp
+印	I-pp
+婴	O
+儿	O
+
+我	O
+要	O
+买	O
+华	B-pp
+为	I-pp
+手	B-cp
+机	I-cp
+畅	O
+玩	O
+6	O
+x	O
+
+我	O
+要	O
+买	O
+榴	O
+莲	O
+饼	B-cp
+干	I-cp
+
+我	O
+要	O
+买	O
+德	O
+国	O
+k	O
+n	O
+o	O
+p	O
+p	O
+e	O
+r	O
+s	O
+牛	B-cp
+奶	I-cp
+榛	O
+子	O
+巧	B-cp
+克	I-cp
+力	I-cp
+威	B-cp
+化	I-cp
+饼	I-cp
+干	O
+
+我	O
+要	O
+买	O
+小	B-pp
+米	I-pp
+粥	O
+
+厨	O
+具	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+欧	B-pp
+莱	I-pp
+雅	I-pp
+洗	B-cp
+发	I-cp
+水	I-cp
+无	O
+硅	O
+油	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+咖	B-cp
+啡	I-cp
+速	O
+溶	O
+g	O
+7	O
+
+就	O
+是	O
+昨	O
+天	O
+我	O
+拍	O
+的	O
+的	O
+那	O
+个	O
+牛	B-cp
+奶	I-cp
+发	O
+货	O
+了	O
+吗	O
+
+我	O
+要	O
+买	O
+良	B-pp
+品	I-pp
+铺	I-pp
+子	I-pp
+夏	O
+威	O
+夷	O
+果	O
+
+我	O
+要	O
+买	O
+夏	O
+季	O
+女	O
+套	B-cp
+装	I-cp
+
+o	B-pp
+p	I-pp
+p	I-pp
+o	I-pp
+r	B-xh
+9	I-xh
+手	B-cp
+机	I-cp
+壳	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+沐	O
+浴	O
+套	B-cp
+装	I-cp
+
+我	O
+要	O
+买	O
+妙	B-pp
+洁	I-pp
+拖	O
+把	O
+
+我	O
+要	O
+买	O
+面	B-cp
+包	I-cp
+酱	O
+
+大	B-cp
+果	I-cp
+粒	I-cp
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+女	O
+式	O
+内	B-cp
+裤	I-cp
+ 	O
+纯	O
+棉	O
+多	O
+少	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+液	I-cp
+蓝	B-pp
+月	I-pp
+亮	I-pp
+多	O
+少	O
+钱	O
+
+五	B-pp
+羊	I-pp
+婴	O
+儿	O
+手	O
+口	O
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+啤	B-cp
+酒	I-cp
+整	O
+箱	O
+2	O
+4	O
+罐	O
+5	O
+0	O
+0	O
+多	O
+少	O
+钱	O
+
+婴	O
+儿	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+女	B-cp
+包	I-cp
+包	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+薯	B-cp
+片	I-cp
+可	O
+比	O
+克	O
+
+我	O
+要	O
+买	O
+好	O
+孩	O
+子	O
+婴	O
+儿	O
+衣	B-cp
+服	I-cp
+
+我	O
+要	O
+买	O
+进	O
+口	O
+零	B-cp
+食	I-cp
+
+我	O
+要	O
+买	O
+伊	B-pp
+利	I-pp
+红	B-cp
+豆	I-cp
+
+我	O
+要	O
+买	O
+旺	O
+仔	O
+牛	B-cp
+奶	I-cp
+特	O
+浓	O
+
+洁	O
+厕	O
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+杯	B-cp
+子	I-cp
+ 	O
+陶	O
+瓷	O
+
+调	B-cp
+味	I-cp
+料	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+千	O
+禾	O
+头	O
+道	O
+原	O
+香	O
+酱	B-cp
+油	I-cp
+
+苹	O
+果	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+西	O
+红	O
+柿	O
+鸡	B-cp
+蛋	I-cp
+面	I-cp
+
+我	O
+要	O
+买	O
+牛	B-cp
+奶	I-cp
+盒	B-gg
+装	I-gg
+
+酒	O
+鬼	O
+花	B-cp
+生	I-cp
+米	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+挂	O
+墙	O
+置	B-cp
+物	I-cp
+架	I-cp
+ 	O
+浴	O
+室	O
+
+衬	B-cp
+衫	I-cp
+连	B-cp
+衣	I-cp
+裙	I-cp
+
+眼	O
+镜	O
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+御	O
+宝	O
+羊	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+水	B-cp
+杯	I-cp
+ 	O
+便	O
+携	O
+
+好	B-pp
+奇	I-pp
+铂	O
+金	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+纸	B-cp
+巾	I-cp
+2	O
+层	O
+
+我	O
+要	O
+买	O
+乒	O
+乓	O
+球	O
+拍	O
+套	B-cp
+装	I-cp
+
+泡	B-cp
+面	I-cp
+伴	O
+侣	O
+多	O
+少	O
+钱	O
+
+我	O
+想	O
+知	O
+道	O
+迪	B-pp
+奥	I-pp
+口	B-cp
+红	I-cp
+的	O
+价	O
+格	O
+
+我	O
+要	O
+买	O
+婴	B-cp
+儿	I-cp
+袜	I-cp
+子	I-cp
+夏	O
+
+小	O
+毛	B-cp
+巾	I-cp
+ 	O
+方	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+杂	O
+粮	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+核	B-cp
+桃	I-cp
+味	O
+瓜	O
+子	O
+
+飞	O
+天	O
+5	O
+3	O
+度	O
+5	B-gg
+0	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+柠	O
+檬	O
+蜂	B-cp
+蜜	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+婴	B-cp
+儿	I-cp
+推	I-cp
+车	I-cp
+
+我	O
+要	O
+买	O
+紫	B-cp
+苏	I-cp
+
+我	O
+要	O
+买	O
+鸡	O
+精	O
+调	B-cp
+味	I-cp
+料	I-cp
+
+牙	B-cp
+膏	I-cp
+ 	O
+旅	O
+行	O
+多	O
+少	O
+钱	O
+
+短	B-cp
+裤	I-cp
+宽	O
+松	O
+
+水	B-cp
+果	I-cp
+ 	O
+麦	B-cp
+片	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+欧	B-pp
+莱	I-pp
+雅	I-pp
+ 	O
+男	O
+士	O
+
+我	O
+要	O
+买	O
+斑	O
+布	O
+卷	B-cp
+纸	I-cp
+
+我	O
+要	O
+买	O
+生	O
+腰	B-cp
+果	I-cp
+
+妈	B-pp
+咪	I-pp
+宝	I-pp
+贝	I-pp
+拉	B-cp
+拉	I-cp
+裤	I-cp
+l	O
+女	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+创	O
+意	O
+水	B-cp
+杯	I-cp
+
+无	O
+硅	O
+油	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+舒	O
+耐	O
+走	B-cp
+珠	I-cp
+多	O
+少	O
+钱	O
+
+面	B-cp
+条	I-cp
+ 	O
+儿	O
+童	O
+多	O
+少	O
+钱	O
+
+安	O
+尔	O
+乐	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+积	B-cp
+木	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+睡	B-cp
+衣	I-cp
+男	O
+纯	O
+棉	O
+
+卫	B-cp
+生	I-cp
+纸	I-cp
+卷	B-cp
+纸	I-cp
+无	O
+芯	O
+家	O
+用	O
+多	O
+少	O
+钱	O
+
+米	O
+兜	O
+熊	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+运	O
+动	O
+内	B-cp
+衣	I-cp
+
+我	O
+要	O
+买	O
+水	B-cp
+果	I-cp
+榴	O
+莲	O
+
+铁	O
+盒	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+滋	O
+源	O
+
+a	O
+2	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+蒙	B-pp
+牛	I-pp
+香	O
+蕉	O
+牛	B-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+纸	B-cp
+巾	I-cp
+小	O
+包	O
+洁	O
+柔	O
+
+大	B-cp
+米	I-cp
+2	B-gg
+k	I-gg
+g	I-gg
+多	O
+少	O
+钱	O
+
+i	O
+p	O
+h	O
+o	O
+n	O
+e	O
+7	O
+手	B-cp
+机	I-cp
+壳	I-cp
+多	O
+少	O
+钱	O
+
+伊	B-pp
+利	I-pp
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+酸	B-cp
+奶	I-cp
+安	B-pp
+幕	I-pp
+希	I-pp
+
+洗	B-cp
+发	I-cp
+水	I-cp
+ 	O
+资	O
+生	O
+堂	O
+多	O
+少	O
+钱	O
+
+夹	B-cp
+子	I-cp
+ 	O
+不	O
+锈	O
+钢	O
+多	O
+少	O
+钱	O
+
+金	B-pp
+龙	I-pp
+鱼	I-pp
+葵	B-cp
+花	I-cp
+籽	I-cp
+油	I-cp
+5	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+酸	B-cp
+奶	I-cp
+饮	O
+品	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	O
+发	O
+套	B-cp
+装	I-cp
+
+梅	B-cp
+菜	I-cp
+扣	O
+肉	O
+饼	O
+多	O
+少	O
+钱	O
+
+花	O
+多	O
+少	O
+钱	O
+才	O
+能	O
+买	O
+到	O
+一	O
+只	O
+迪	B-pp
+奥	I-pp
+的	O
+口	B-cp
+红	I-cp
+
+一	O
+次	O
+性	O
+毛	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+贝	B-pp
+亲	I-pp
+标	O
+准	O
+口	O
+径	O
+奶	B-cp
+嘴	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+牛	O
+栏	O
+奶	B-cp
+粉	I-cp
+1	O
+段	O
+诺	B-pp
+贝	I-pp
+能	I-pp
+
+迪	B-pp
+奥	I-pp
+专	O
+柜	O
+，	O
+口	B-cp
+红	I-cp
+多	O
+钱	O
+一	O
+支	O
+
+天	B-pp
+猫	I-pp
+生	B-cp
+鲜	I-cp
+超	O
+市	O
+多	O
+少	O
+钱	O
+
+餐	O
+巾	O
+纸	O
+ 	O
+抽	B-cp
+纸	I-cp
+ 	O
+2	O
+0	O
+0	O
+抽	O
+ 	O
+家	O
+庭	O
+装	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+内	B-cp
+裤	I-cp
+ 	O
+男	O
+士	O
+ 	O
+纯	O
+棉	O
+ 	O
+四	O
+角	O
+
+不	O
+是	O
+买	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+好	B-pp
+奇	I-pp
+银	O
+装	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+
+我	O
+要	O
+买	O
+手	B-cp
+机	I-cp
+ 	O
+上	O
+大	O
+学	O
+用	O
+的	O
+
+我	O
+要	O
+买	O
+尤	O
+妮	O
+佳	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+
+我	O
+要	O
+买	O
+工	B-cp
+具	I-cp
+套	B-cp
+装	I-cp
+
+净	O
+水	B-cp
+壶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+爽	B-cp
+肤	I-cp
+水	I-cp
+女	O
+
+酸	B-cp
+奶	I-cp
+发	O
+酵	O
+菌	O
+粉	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+冰	B-cp
+泉	I-cp
+豆	O
+浆	O
+
+我	O
+要	O
+买	O
+喷	B-cp
+壶	I-cp
+浇	O
+花	O
+
+垃	B-cp
+圾	I-cp
+袋	I-cp
+ 	O
+加	O
+厚	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+ 	O
+无	O
+硅	O
+
+伊	B-pp
+利	I-pp
+优	O
+酸	B-cp
+乳	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+瑞	O
+典	O
+进	O
+口	O
+i	O
+c	O
+a	O
+麦	B-cp
+片	I-cp
+
+方	B-cp
+便	I-cp
+面	I-cp
+桶	O
+多	O
+少	O
+钱	O
+
+尤	O
+妮	O
+佳	O
+x	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+勺	B-cp
+子	I-cp
+婴	O
+儿	O
+多	O
+少	O
+钱	O
+
+安	O
+慕	O
+希	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+阿	O
+迪	O
+达	O
+斯	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+联	B-pp
+通	I-pp
+4	B-gg
+g	I-gg
+
+湿	O
+纸	B-cp
+巾	I-cp
+ 	O
+婴	O
+儿	O
+专	O
+用	O
+多	O
+少	O
+钱	O
+
+枇	O
+杷	O
+新	O
+鲜	O
+水	B-cp
+果	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+多	B-pp
+芬	I-pp
+卸	O
+妆	O
+水	O
+
+我	O
+要	O
+买	O
+海	O
+米	O
+干	B-cp
+货	I-cp
+
+自	O
+然	O
+堂	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+德	O
+运	O
+全	O
+脂	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+防	B-cp
+晒	I-cp
+霜	I-cp
+
+洗	B-cp
+发	I-cp
+水	I-cp
+沐	B-cp
+浴	I-cp
+露	I-cp
+套	B-cp
+装	I-cp
+男	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+充	B-cp
+电	I-cp
+宝	I-cp
+2	O
+0	O
+0	O
+0	O
+0	O
+毫	O
+安	O
+大	O
+容	O
+量	O
+
+我	O
+要	O
+买	O
+牙	B-cp
+刷	I-cp
+ 	O
+软	O
+毛	O
+成	O
+人	O
+ 	O
+小	O
+头	O
+
+我	O
+要	O
+买	O
+海	O
+飞	O
+丝	O
+洗	B-cp
+发	I-cp
+水	I-cp
+2	O
+0	O
+0	O
+m	O
+l	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+水	B-cp
+杯	I-cp
+带	O
+盖	O
+
+我	O
+要	O
+买	O
+咖	B-cp
+啡	I-cp
+ 	O
+罐	O
+装	O
+
+我	O
+要	O
+买	O
+产	O
+妇	O
+牙	B-cp
+刷	I-cp
+
+竹	O
+浆	O
+本	O
+色	O
+抽	B-cp
+纸	I-cp
+多	O
+少	O
+钱	O
+
+小	B-pp
+米	I-pp
+6	B-xh
+P	I-xh
+K	O
+努	O
+比	O
+亚	O
+1	O
+7	O
+
+洗	O
+水	B-cp
+果	I-cp
+洗	O
+洁	O
+精	O
+多	O
+少	O
+钱	O
+
+什	O
+么	O
+鬼	O
+。	O
+我	O
+看	O
+手	B-cp
+机	I-cp
+啊	O
+
+牙	B-cp
+刷	I-cp
+中	O
+毛	O
+成	O
+人	O
+多	O
+少	O
+钱	O
+
+苹	O
+果	O
+5	B-xh
+s	I-xh
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+炒	O
+货	O
+零	B-cp
+食	I-cp
+
+我	O
+要	O
+买	O
+奥	B-pp
+利	I-pp
+奥	I-pp
+碎	O
+
+我	O
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+今	O
+天	O
+会	O
+到	O
+我	O
+们	O
+这	O
+边	O
+吗	O
+
+我	O
+要	O
+买	O
+立	O
+白	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+袋	O
+装	O
+
+我	O
+要	O
+买	O
+伊	B-pp
+利	I-pp
+牛	B-cp
+奶	I-cp
+ 	O
+箱	O
+
+卫	B-cp
+生	I-cp
+巾	I-cp
+裤	O
+多	O
+少	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+液	I-cp
+4	O
+k	O
+g	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+捷	O
+森	O
+麦	B-cp
+片	I-cp
+
+菲	O
+比	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+m	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+尿	B-cp
+不	I-cp
+湿	I-cp
+x	B-gg
+l	I-gg
+ 	O
+超	O
+薄	O
+透	O
+气	O
+
+我	O
+要	O
+买	O
+立	O
+白	O
+天	O
+然	O
+皂	O
+液	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+我	O
+要	O
+买	O
+电	O
+池	O
+充	B-cp
+电	I-cp
+器	I-cp
+
+奥	B-pp
+妙	I-pp
+水	O
+清	O
+莲	O
+香	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+电	B-cp
+脑	I-cp
+桌	I-cp
+
+热	O
+水	B-cp
+壶	I-cp
+保	O
+温	O
+瓶	O
+多	O
+少	O
+钱	O
+
+女	B-cp
+装	I-cp
+夏	O
+装	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+多	O
+少	O
+钱	O
+
+白	B-cp
+酒	I-cp
+礼	B-cp
+盒	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+饼	B-cp
+干	I-cp
+
+我	O
+要	O
+买	O
+水	B-cp
+杯	I-cp
+ 	O
+玻	O
+璃	O
+ 	O
+泡	O
+茶	O
+
+海	O
+苔	O
+味	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+大	B-pp
+王	I-pp
+m	O
+
+我	O
+要	O
+买	O
+内	B-cp
+裤	I-cp
+女	O
+士	O
+
+我	O
+要	O
+买	O
+地	B-cp
+板	I-cp
+蜡	O
+ 	O
+实	O
+木	O
+
+抽	B-cp
+纸	I-cp
+ 	O
+整	O
+箱	O
+多	O
+少	O
+钱	O
+
+重	O
+力	O
+球	O
+吸	B-cp
+管	I-cp
+杯	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+奶	B-cp
+粉	I-cp
+孕	O
+妇	O
+
+我	O
+要	O
+买	O
+休	O
+闲	O
+短	B-cp
+裤	I-cp
+男	O
+
+我	O
+要	O
+买	O
+心	B-pp
+相	I-pp
+印	I-pp
+厨	O
+房	O
+湿	B-cp
+巾	I-cp
+
+马	O
+大	O
+姐	O
+手	O
+撕	O
+面	B-cp
+包	I-cp
+多	O
+少	O
+钱	O
+
+花	B-cp
+生	I-cp
+酱	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+卤	O
+蛋	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+
+猪	O
+皮	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+进	O
+口	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+儿	O
+童	O
+食	O
+品	O
+ 	O
+营	O
+养	O
+ 	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+低	O
+脂	O
+牛	B-cp
+奶	I-cp
+
+奥	B-pp
+妙	I-pp
+4	O
+0	O
+0	O
+多	O
+少	O
+钱	O
+
+零	B-cp
+食	I-cp
+大	O
+礼	O
+包	O
+送	O
+女	O
+友	O
+一	O
+箱	O
+整	O
+箱	O
+多	O
+少	O
+钱	O
+
+乐	B-pp
+高	I-pp
+
+乐	B-pp
+高	I-pp
+牛	O
+肉	O
+干	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+五	O
+丰	O
+大	B-cp
+米	I-cp
+
+我	O
+要	O
+买	O
+婴	O
+儿	O
+毛	B-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+中	O
+性	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+猫	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+ 	O
+男	O
+士	O
+无	O
+硅	O
+油	O
+
+凉	O
+水	B-cp
+壶	I-cp
+多	O
+少	O
+钱	O
+
+福	B-pp
+临	I-pp
+门	I-pp
+ 	O
+大	B-cp
+米	I-cp
+多	O
+少	O
+钱	O
+
+牙	B-cp
+刷	I-cp
+牙	B-cp
+膏	I-cp
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+内	B-cp
+衣	I-cp
+洗	O
+衣	O
+
+我	O
+要	O
+买	O
+牛	B-cp
+奶	I-cp
+1	O
+l	O
+ 	O
+脱	O
+脂	O
+
+我	O
+要	O
+买	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+盒	B-gg
+装	I-gg
+
+我	O
+要	O
+买	O
+隆	O
+力	O
+奇	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+的	O
+物	O
+流	O
+信	O
+息	O
+是	O
+怎	O
+样	O
+的	O
+
+德	O
+运	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+洗	B-cp
+面	I-cp
+奶	I-cp
+ 	O
+女	O
+士	O
+ 	O
+去	O
+黑	O
+头	O
+ 	O
+收	O
+缩	O
+毛	O
+孔	O
+ 	O
+控	O
+油	O
+多	O
+少	O
+钱	O
+
+奶	B-cp
+粉	I-cp
+ 	O
+4	O
+0	O
+0	O
+g	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+零	B-cp
+食	I-cp
+小	B-cp
+吃	I-cp
+辣	O
+四	O
+川	O
+特	O
+产	O
+
+我	O
+要	O
+买	O
+花	B-pp
+王	I-pp
+ 	O
+m	O
+
+我	O
+要	O
+买	O
+倍	O
+加	O
+洁	O
+牙	B-cp
+刷	I-cp
+
+托	O
+马	O
+斯	O
+小	O
+火	B-cp
+车	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+想	O
+买	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+ 	O
+x	B-gg
+l	I-gg
+
+空	O
+气	O
+清	O
+新	O
+剂	O
+喷	B-cp
+雾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+康	B-pp
+师	I-pp
+傅	I-pp
+干	O
+脆	O
+面	O
+
+我	O
+要	O
+买	O
+音	O
+乐	O
+玩	B-cp
+具	I-cp
+
+我	O
+要	O
+买	O
+纸	B-cp
+巾	I-cp
+ 	O
+维	B-pp
+达	I-pp
+
+超	O
+能	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+3	O
+ 	O
+5	O
+k	O
+g	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+优	O
+冠	O
+饼	B-cp
+干	I-cp
+
+沐	B-cp
+浴	I-cp
+露	I-cp
+澳	B-pp
+雪	I-pp
+多	O
+少	O
+钱	O
+
+三	B-pp
+全	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+五	B-pp
+羊	I-pp
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+椒	B-cp
+盐	I-cp
+饼	I-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+学	O
+生	O
+蚊	B-cp
+帐	I-cp
+
+我	O
+要	O
+买	O
+妈	B-pp
+咪	I-pp
+宝	I-pp
+贝	I-pp
+小	O
+内	B-cp
+裤	I-cp
+
+华	B-pp
+为	I-pp
+P	O
+1	O
+0	O
+
+金	B-pp
+龙	I-pp
+鱼	I-pp
+大	O
+豆	O
+油	O
+多	O
+少	O
+钱	O
+
+沐	B-cp
+浴	I-cp
+露	I-cp
+澎	O
+澎	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+移	B-pp
+动	I-pp
+电	O
+源	O
+
+伊	B-pp
+利	I-pp
+脱	O
+脂	O
+奶	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+巧	B-cp
+克	I-cp
+力	I-cp
+饼	O
+
+七	O
+度	O
+空	O
+间	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+迷	O
+你	O
+多	O
+少	O
+钱	O
+
+纳	O
+美	O
+小	O
+苏	O
+打	O
+牙	B-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+芒	B-cp
+果	I-cp
+干	O
+ 	O
+三	O
+只	O
+松	O
+鼠	O
+多	O
+少	O
+钱	O
+
+三	O
+洋	O
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+小	O
+包	O
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+丹	B-pp
+夫	I-pp
+多	O
+少	O
+钱	O
+
+粗	O
+粮	O
+ 	O
+五	O
+谷	O
+ 	O
+杂	O
+粮	O
+饼	B-cp
+干	I-cp
+早	O
+餐	O
+消	O
+化	O
+饼	O
+多	O
+少	O
+钱	O
+
+宽	O
+口	O
+径	O
+奶	B-cp
+瓶	I-cp
+多	O
+少	O
+钱	O
+
+男	O
+士	O
+运	B-cp
+动	I-cp
+鞋	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+ 	O
+儿	O
+童	O
+
+肥	O
+皂	O
+ 	O
+奥	B-pp
+妙	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+切	O
+水	B-cp
+果	I-cp
+
+o	B-pp
+p	I-pp
+p	I-pp
+o	I-pp
+好	O
+用	O
+还	O
+是	O
+苹	O
+果	O
+手	B-cp
+机	I-cp
+好	O
+用	O
+
+我	O
+要	O
+买	O
+纯	O
+棉	O
+内	B-cp
+裤	I-cp
+男	O
+
+我	O
+要	O
+买	O
+面	B-cp
+膜	I-cp
+泥	O
+
+我	O
+要	O
+买	O
+青	O
+岛	O
+啤	B-cp
+酒	I-cp
+奥	O
+古	O
+特	O
+
+多	B-pp
+芬	I-pp
+沐	O
+浴	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+大	O
+玻	O
+璃	O
+杯	O
+ 	O
+凉	O
+水	B-cp
+壶	I-cp
+
+我	O
+要	O
+买	O
+六	B-pp
+神	I-pp
+嗨	O
+
+电	O
+热	O
+水	B-cp
+壶	I-cp
+ 	O
+家	O
+用	O
+多	O
+少	O
+钱	O
+
+冰	B-cp
+箱	I-cp
+ 	O
+家	O
+用	O
+ 	O
+三	O
+门	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+芒	B-cp
+果	I-cp
+ 	O
+新	O
+鲜	O
+
+我	O
+要	O
+买	O
+优	O
+选	O
+卷	B-cp
+纸	I-cp
+
+刀	B-cp
+叉	I-cp
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+脆	O
+皮	O
+花	B-cp
+生	I-cp
+多	O
+少	O
+钱	O
+
+板	B-cp
+鞋	I-cp
+
+怡	O
+达	O
+果	B-cp
+丹	I-cp
+皮	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+大	O
+毛	B-cp
+巾	I-cp
+纯	O
+棉	O
+浴	O
+巾	O
+
+我	O
+要	O
+买	O
+爱	B-pp
+他	I-pp
+美	I-pp
+金	O
+装	O
+
+我	O
+要	O
+买	O
+尿	B-cp
+不	I-cp
+湿	I-cp
+花	B-pp
+王	I-pp
+
+无	O
+糖	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+买	O
+电	B-cp
+脑	I-cp
+
+我	O
+要	O
+买	O
+德	O
+运	O
+奶	B-cp
+粉	I-cp
+
+我	O
+要	O
+买	O
+门	O
+后	O
+挂	B-cp
+钩	I-cp
+
+我	O
+要	O
+买	O
+大	B-cp
+米	I-cp
+2	O
+.	O
+5	O
+k	O
+g	O
+
+二	O
+手	O
+自	B-cp
+行	I-cp
+车	I-cp
+
+我	O
+要	O
+买	O
+料	O
+酒	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+
+我	O
+要	O
+买	O
+内	B-cp
+衣	I-cp
+内	B-cp
+裤	I-cp
+
+我	O
+要	O
+买	O
+鸡	O
+腿	O
+零	B-cp
+食	I-cp
+
+魅	O
+蓝	O
+n	O
+o	O
+t	O
+e	B-xh
+5	I-xh
+
+0	O
+0	O
+后	O
+适	O
+合	O
+买	O
+什	O
+么	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+豆	O
+乳	O
+威	B-cp
+化	I-cp
+
+压	O
+榨	O
+花	B-cp
+生	I-cp
+油	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+爱	O
+护	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+我	O
+要	O
+买	O
+音	O
+响	O
+电	B-cp
+脑	I-cp
+音	O
+响	O
+台	O
+式	O
+
+我	O
+昨	O
+天	O
+买	O
+的	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+大	B-cp
+米	I-cp
+发	O
+货	O
+没	O
+
+麻	O
+辣	O
+零	B-cp
+食	I-cp
+大	O
+礼	O
+包	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+长	B-cp
+裙	I-cp
+
+绿	B-pp
+伞	I-pp
+洁	O
+厕	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+冷	O
+酸	O
+灵	O
+抗	O
+敏	O
+感	O
+牙	B-cp
+膏	I-cp
+
+我	O
+要	O
+买	O
+i	O
+p	O
+h	O
+o	O
+n	O
+e	O
+7	O
+手	B-cp
+机	I-cp
+壳	I-cp
+
+垃	B-cp
+圾	I-cp
+袋	I-cp
+ 	O
+背	O
+心	O
+多	O
+少	O
+钱	O
+
+防	B-cp
+晒	I-cp
+霜	I-cp
+5	O
+0	O
++	O
+多	O
+少	O
+钱	O
+
+大	O
+码	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+
+我	O
+要	O
+买	O
+滋	O
+源	O
+茶	O
+籽	O
+水	O
+润	O
+去	O
+屑	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+资	O
+生	O
+堂	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+
+蜂	B-cp
+蜜	I-cp
+进	O
+口	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+苹	O
+果	O
+耳	B-cp
+机	I-cp
+
+连	B-cp
+衣	I-cp
+裙	I-cp
+
+我	O
+要	O
+买	O
+屈	O
+臣	O
+氏	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+
+核	B-cp
+桃	I-cp
+早	O
+餐	O
+奶	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+来	O
+伊	O
+份	O
+休	O
+闲	O
+零	B-cp
+食	I-cp
+
+我	O
+要	O
+买	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+2	O
+0	O
+0	O
+m	O
+l	O
+
+我	O
+要	O
+买	O
+鲜	O
+牛	B-cp
+奶	I-cp
+配	O
+送	O
+
+筷	B-cp
+子	I-cp
+儿	O
+童	O
+多	O
+少	O
+钱	O
+
+牙	B-cp
+膏	I-cp
+小	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+日	O
+本	O
+啤	B-cp
+酒	I-cp
+
+我	O
+要	O
+买	O
+延	O
+时	O
+避	B-cp
+孕	I-cp
+套	I-cp
+
+我	O
+要	O
+买	O
+大	O
+盘	O
+纸	O
+卫	B-cp
+生	I-cp
+纸	I-cp
+大	O
+卷	B-cp
+纸	I-cp
+厕	O
+纸	O
+1	O
+2	O
+卷	O
+
+我	O
+要	O
+买	O
+好	O
+孩	O
+子	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+
+我	O
+要	O
+买	O
+好	B-pp
+奇	I-pp
+金	O
+装	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+x	B-gg
+l	I-gg
+
+推	O
+荐	O
+的	O
+是	O
+手	B-cp
+机	I-cp
+吗	O
+？	O
+
+我	O
+要	O
+买	O
+美	O
+式	O
+咖	B-cp
+啡	I-cp
+
+我	O
+要	O
+买	O
+娃	B-cp
+娃	I-cp
+
+麻	O
+烦	O
+问	O
+下	O
+迪	B-pp
+奥	I-pp
+的	O
+口	B-cp
+红	I-cp
+贵	O
+不	O
+贵	O
+好	O
+吗	O
+
+我	O
+要	O
+买	O
+指	O
+甲	O
+钳	O
+套	B-cp
+装	I-cp
+
+我	O
+要	O
+买	O
+燃	O
+气	O
+灶	O
+套	B-cp
+装	I-cp
+
+饼	B-cp
+干	I-cp
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+啤	B-cp
+酒	I-cp
+整	O
+箱	O
+5	B-gg
+0	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+
+陶	O
+瓷	O
+餐	B-cp
+具	I-cp
+多	O
+少	O
+钱	O
+
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+今	O
+天	O
+可	O
+以	O
+拿	O
+到	O
+吗	O
+
+嗳	O
+呵	O
+婴	O
+儿	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+三	O
+元	O
+ 	O
+冰	O
+岛	O
+式	O
+酸	B-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+清	O
+洁	O
+面	B-cp
+膜	I-cp
+
+古	O
+城	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+方	O
+毛	B-cp
+巾	I-cp
+
+杯	B-cp
+子	I-cp
+刷	O
+子	O
+清	O
+洁	O
+刷	O
+多	O
+少	O
+钱	O
+
+洗	B-cp
+面	I-cp
+奶	I-cp
+ 	O
+男	O
+士	O
+多	O
+少	O
+钱	O
+
+牛	B-cp
+奶	I-cp
+百	O
+利	O
+包	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+劲	O
+酒	O
+ 	O
+5	B-gg
+l	I-gg
+
+广	O
+式	O
+腊	B-cp
+肠	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+一	B-cp
+次	I-cp
+性	I-cp
+桌	I-cp
+布	I-cp
+塑	O
+料	O
+台	B-cp
+布	I-cp
+ 	O
+餐	O
+桌	O
+ 	O
+布	O
+加	O
+厚	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+沐	B-cp
+浴	I-cp
+露	I-cp
+套	B-cp
+装	I-cp
+
+我	O
+要	O
+买	O
+蓝	O
+莓	O
+酸	B-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+火	O
+腿	O
+肠	O
+小	O
+零	B-cp
+食	I-cp
+
+我	O
+要	O
+买	O
+燕	O
+麦	B-cp
+片	I-cp
+ 	O
+即	O
+食	O
+
+李	B-pp
+锦	I-pp
+记	I-pp
+香	O
+辣	O
+酱	O
+多	O
+少	O
+钱	O
+
+丝	O
+蕴	O
+无	O
+硅	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+牙	B-cp
+刷	I-cp
+ 	O
+电	O
+动	O
+
+我	O
+要	O
+买	O
+好	O
+爸	O
+爸	O
+洗	B-cp
+衣	I-cp
+粉	I-cp
+
+我	O
+要	O
+买	O
+伊	B-pp
+利	I-pp
+冰	O
+激	O
+凌	O
+
+英	O
+伦	O
+风	O
+女	B-cp
+鞋	I-cp
+
+牛	B-cp
+奶	I-cp
+现	O
+在	O
+便	O
+宜	O
+了	O
+吗	O
+
+我	O
+要	O
+买	O
+杯	B-cp
+子	I-cp
+ 	O
+塑	O
+料	O
+ 	O
+学	O
+生	O
+
+光	B-pp
+明	I-pp
+优	O
+倍	O
+鲜	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+骑	O
+士	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+淘	O
+淘	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+钱	B-cp
+包	I-cp
+男	O
+
+我	O
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+在	O
+什	O
+么	O
+地	O
+方	O
+了	O
+
+沐	B-cp
+浴	I-cp
+露	I-cp
+ 	O
+清	O
+爽	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+被	O
+子	O
+收	B-cp
+纳	I-cp
+袋	I-cp
+
+鞋	B-cp
+子	I-cp
+，	O
+儿	O
+童	O
+
+我	O
+要	O
+买	O
+厨	O
+房	O
+湿	O
+纸	B-cp
+巾	I-cp
+
+安	B-pp
+琪	I-pp
+酵	O
+母	O
+ 	O
+面	B-cp
+包	I-cp
+馒	O
+头	O
+包	O
+子	O
+发	O
+酵	O
+粉	O
+多	O
+少	O
+钱	O
+
+蒙	B-pp
+牛	I-pp
+ 	O
+真	O
+果	O
+粒	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+椰	B-cp
+蓉	I-cp
+球	I-cp
+
+丽	O
+邦	O
+卫	B-cp
+生	I-cp
+纸	I-cp
+多	O
+少	O
+钱	O
+
+纸	B-cp
+尿	I-cp
+裤	I-cp
+五	B-pp
+羊	I-pp
+多	O
+少	O
+钱	O
+
+女	B-cp
+装	I-cp
+夏	O
+季	O
+
+好	B-pp
+奇	I-pp
+铂	O
+金	O
+x	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+焦	O
+糖	O
+饼	B-cp
+干	I-cp
+
+清	O
+风	O
+纸	B-cp
+巾	I-cp
+抽	B-cp
+纸	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+牙	B-cp
+刷	I-cp
+ 	O
+舒	O
+客	O
+
+鱼	O
+皮	O
+花	B-cp
+生	I-cp
+豆	O
+多	O
+少	O
+钱	O
+
+海	O
+太	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+玩	B-cp
+具	I-cp
+收	O
+纳	O
+架	O
+多	O
+少	O
+钱	O
+
+圣	O
+牧	O
+有	O
+机	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+菲	O
+比	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+x	B-gg
+l	I-gg
+
+帮	O
+我	O
+看	O
+下	O
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+到	O
+哪	O
+了	O
+？	O
+
+电	O
+话	O
+手	B-cp
+机	I-cp
+多	O
+少	O
+钱	O
+
+女	O
+用	O
+避	B-cp
+孕	I-cp
+套	I-cp
+多	O
+少	O
+钱	O
+
+老	O
+人	O
+手	B-cp
+机	I-cp
+
+天	B-pp
+猫	I-pp
+盒	O
+魔	O
+盒	O
+多	O
+少	O
+钱	O
+
+山	O
+楂	O
+罐	B-cp
+头	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+身	B-cp
+体	I-cp
+乳	I-cp
+
+花	B-pp
+王	I-pp
+染	O
+发	O
+多	O
+少	O
+钱	O
+
+洗	B-cp
+衣	I-cp
+液	I-cp
+ 	O
+蓝	B-pp
+月	I-pp
+亮	I-pp
+机	O
+洗	O
+专	O
+用	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+植	O
+护	O
+抽	B-cp
+纸	I-cp
+
+我	O
+要	O
+买	O
+超	O
+能	O
+洗	B-cp
+衣	I-cp
+粉	I-cp
+
+我	O
+要	O
+买	O
+牛	B-cp
+奶	I-cp
+风	O
+行	O
+
+我	O
+要	O
+买	O
+六	B-pp
+神	I-pp
+限	O
+量	O
+
+我	O
+要	O
+买	O
+蛋	B-cp
+白	I-cp
+粉	I-cp
+增	O
+强	O
+免	O
+疫	O
+力	O
+中	O
+老	O
+年	O
+
+夏	O
+凉	B-cp
+席	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+球	O
+玩	B-cp
+具	I-cp
+
+艾	O
+美	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+护	B-cp
+肤	I-cp
+品	I-cp
+ 	O
+面	B-cp
+霜	I-cp
+
+我	O
+要	O
+买	O
+水	B-cp
+壶	I-cp
+儿	O
+童	O
+
+我	O
+要	O
+买	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+阿	O
+迪	O
+
+我	O
+要	O
+买	O
+卧	O
+式	O
+冰	B-cp
+柜	I-cp
+
+我	O
+要	O
+买	O
+零	B-cp
+食	I-cp
+买	O
+二	O
+免	O
+一	O
+
+香	O
+辣	O
+牛	B-cp
+肚	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+喜	O
+力	O
+啤	B-cp
+酒	I-cp
+3	B-gg
+3	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+
+我	O
+要	O
+买	O
+丘	B-pp
+比	I-pp
+沙	O
+拉	O
+汁	O
+
+舒	O
+洁	O
+卷	B-cp
+纸	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+香	B-cp
+肠	I-cp
+即	O
+食	O
+
+我	O
+要	O
+买	O
+凉	O
+水	B-cp
+壶	I-cp
+ 	O
+大	O
+容	O
+量	O
+
+玻	O
+璃	O
+水	B-cp
+壶	I-cp
+ 	O
+耐	O
+热	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+冰	B-cp
+箱	I-cp
+ 	O
+家	O
+用	O
+
+鸽	B-cp
+子	I-cp
+肉	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+去	O
+头	O
+屑	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+沙	B-cp
+发	I-cp
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+花	B-pp
+王	I-pp
+
+我	O
+要	O
+买	O
+日	O
+本	O
+咖	B-cp
+啡	I-cp
+
+我	O
+要	O
+买	O
+雀	B-pp
+巢	I-pp
+炼	O
+乳	O
+
+立	O
+白	B-cp
+茶	I-cp
+籽	O
+洗	O
+洁	O
+精	O
+多	O
+少	O
+钱	O
+
+婴	O
+儿	O
+棉	O
+麻	O
+衣	B-cp
+服	I-cp
+多	O
+少	O
+钱	O
+
+狗	O
+狗	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+衣	B-cp
+服	I-cp
+
+日	O
+本	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+饼	B-cp
+干	I-cp
+手	O
+指	O
+
+我	O
+要	O
+买	O
+丘	B-pp
+比	I-pp
+
+百	O
+事	O
+可	O
+乐	O
+5	B-gg
+0	I-gg
+0	I-gg
+m	I-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+机	B-cp
+械	I-cp
+键	I-cp
+盘	I-cp
+
+男	O
+士	O
+香	B-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+无	O
+荧	O
+光	O
+剂	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+我	O
+要	O
+买	O
+水	B-cp
+果	I-cp
+盆	O
+
+杯	B-cp
+子	I-cp
+ 	O
+带	O
+盖	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+ 	O
+去	O
+屑	O
+ 	O
+止	O
+痒	O
+ 	O
+控	O
+油	O
+女	O
+
+我	O
+要	O
+买	O
+方	B-cp
+便	I-cp
+面	I-cp
+ 	O
+进	O
+口	O
+
+我	O
+要	O
+买	O
+老	O
+襄	O
+阳	O
+手	O
+工	O
+锅	B-cp
+巴	I-cp
+
+我	O
+要	O
+买	O
+海	O
+飞	O
+丝	O
+套	B-cp
+装	I-cp
+
+我	O
+要	O
+买	O
+进	O
+口	O
+全	B-cp
+脂	I-cp
+牛	I-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+洁	O
+柔	O
+湿	B-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+被	B-cp
+芯	I-cp
+
+我	O
+要	O
+买	O
+收	B-cp
+纳	I-cp
+包	I-cp
+
+尤	O
+妮	O
+佳	O
+ 	O
+x	O
+x	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+睡	O
+眠	O
+面	B-cp
+膜	I-cp
+
+可	O
+么	O
+多	O
+么	O
+奶	B-cp
+嘴	I-cp
+多	O
+少	O
+钱	O
+
+防	B-cp
+晒	I-cp
+衣	I-cp
+
+我	O
+要	O
+买	O
+迷	O
+你	O
+垃	B-cp
+圾	I-cp
+袋	I-cp
+
+我	O
+要	O
+买	O
+原	O
+味	O
+花	B-cp
+生	I-cp
+
+我	O
+要	O
+买	O
+百	O
+岁	O
+山	O
+矿	B-cp
+泉	I-cp
+水	I-cp
+3	O
+4	O
+8	O
+m	O
+l	O
+
+维	B-pp
+达	I-pp
+超	O
+韧	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+百	O
+雀	O
+羚	O
+面	B-cp
+膜	I-cp
+
+上	B-cp
+衣	I-cp
+
+我	O
+要	O
+买	O
+酸	B-cp
+奶	I-cp
+饮	O
+品	O
+
+我	O
+要	O
+买	O
+韩	O
+国	O
+薯	B-cp
+片	I-cp
+
+我	O
+要	O
+买	O
+小	B-pp
+米	I-pp
+6	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+三	O
+只	O
+松	O
+鼠	O
+炭	O
+烧	O
+腰	B-cp
+果	I-cp
+
+福	B-pp
+临	I-pp
+门	I-pp
+东	O
+北	O
+优	O
+质	O
+大	B-cp
+米	I-cp
+多	O
+少	O
+钱	O
+
+内	B-cp
+衣	I-cp
+ 	O
+文	B-cp
+胸	I-cp
+无	O
+钢	O
+圈	O
+多	O
+少	O
+钱	O
+
+有	O
+什	O
+么	O
+面	B-cp
+膜	I-cp
+好	O
+用	O
+啊	O
+
+苹	O
+果	O
+5	B-xh
+s	I-xh
+手	B-cp
+机	I-cp
+多	O
+少	O
+钱	O
+
+婴	O
+儿	O
+奶	B-cp
+粉	I-cp
+2	O
+段	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+鱿	O
+鱼	B-cp
+仔	I-cp
+
+我	O
+想	O
+买	O
+诺	O
+基	O
+亚	O
+8	O
+8	O
+0	O
+0	O
+A	O
+手	B-cp
+机	I-cp
+
+罐	O
+装	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+真	O
+果	O
+粒	O
+蒙	B-pp
+牛	I-pp
+
+我	O
+要	O
+买	O
+卸	B-cp
+妆	I-cp
+棉	I-cp
+
+我	O
+要	O
+买	O
+雪	O
+梨	O
+水	B-cp
+果	I-cp
+
+我	O
+要	O
+买	O
+r	O
+i	O
+c	B-cp
+h	I-cp
+e	I-cp
+e	I-cp
+s	I-cp
+e	I-cp
+威	B-cp
+化	I-cp
+饼	I-cp
+
+我	O
+要	O
+买	O
+曼	B-pp
+秀	I-pp
+雷	I-pp
+敦	I-pp
+防	O
+晒	O
+喷	B-cp
+雾	I-cp
+
+我	O
+要	O
+买	O
+薇	O
+儿	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+
+三	O
+明	O
+治	O
+面	B-cp
+包	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+特	O
+级	O
+酱	B-cp
+油	I-cp
+
+我	O
+要	O
+买	O
+奶	B-cp
+粉	I-cp
+ 	O
+爱	B-pp
+他	I-pp
+美	I-pp
+
+尤	O
+妮	O
+佳	O
+x	O
+x	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+迪	B-pp
+奥	I-pp
+
+好	B-pp
+奇	I-pp
+银	O
+装	O
+n	O
+b	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+l	O
+女	O
+
+防	B-cp
+晒	I-cp
+霜	I-cp
+ 	O
+儿	O
+童	O
+多	O
+少	O
+钱	O
+
+麦	B-cp
+片	I-cp
+进	O
+口	O
+多	O
+少	O
+钱	O
+
+妮	B-pp
+飘	I-pp
+手	B-cp
+帕	I-cp
+纸	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+手	B-cp
+机	I-cp
+华	B-pp
+为	I-pp
+
+最	O
+新	O
+款	O
+的	O
+手	B-cp
+机	I-cp
+
+韩	O
+国	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+多	O
+少	O
+钱	O
+
+雕	B-pp
+牌	I-pp
+洗	O
+衣	O
+皂	O
+肥	O
+皂	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+牛	B-cp
+奶	I-cp
+低	O
+脂	O
+
+我	O
+要	O
+买	O
+吕	O
+洗	B-cp
+发	I-cp
+水	I-cp
+套	B-cp
+装	I-cp
+
+老	O
+醋	O
+花	B-cp
+生	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+菲	O
+比	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+
+蛇	O
+果	O
+苹	O
+果	O
+水	B-cp
+果	I-cp
+ 	O
+新	O
+鲜	O
+多	O
+少	O
+钱	O
+
+护	B-cp
+臀	I-cp
+膏	I-cp
+ 	O
+贝	B-pp
+亲	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+成	O
+人	O
+奶	B-cp
+粉	I-cp
+ 	O
+全	O
+脂	O
+ 	O
+高	O
+钙	O
+
+水	B-cp
+果	I-cp
+榴	O
+莲	O
+多	O
+少	O
+钱	O
+
+水	B-cp
+杯	I-cp
+ 	O
+玻	O
+璃	O
+杯	O
+女	O
+多	O
+少	O
+钱	O
+
+地	B-cp
+球	I-cp
+仪	I-cp
+多	O
+少	O
+钱	O
+
+水	O
+洗	O
+式	O
+面	B-cp
+膜	I-cp
+
+新	O
+西	O
+兰	O
+蜂	B-cp
+蜜	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+产	O
+妇	O
+一	O
+次	O
+性	O
+内	B-cp
+裤	I-cp
+
+自	B-cp
+行	I-cp
+车	I-cp
+
+我	O
+要	O
+买	O
+牙	B-cp
+刷	I-cp
+佳	O
+洁	O
+士	O
+
+我	O
+要	O
+买	O
+可	B-pp
+爱	I-pp
+多	I-pp
+湿	B-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+好	O
+吃	O
+的	O
+辣	O
+零	B-cp
+食	I-cp
+
+蓝	O
+莓	O
+水	B-cp
+果	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+卫	B-cp
+生	I-cp
+纸	I-cp
+ 	O
+平	O
+板	O
+
+我	O
+要	O
+买	O
+华	B-pp
+为	I-pp
+充	B-cp
+电	I-cp
+器	I-cp
+
+酸	B-cp
+奶	I-cp
+原	O
+味	O
+多	O
+少	O
+钱	O
+
+午	O
+餐	O
+肉	O
+ 	O
+梅	B-pp
+林	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+q	O
+q	O
+星	O
+儿	O
+童	O
+风	O
+味	O
+酸	B-cp
+奶	I-cp
+
+大	O
+理	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+抽	B-cp
+纸	I-cp
+整	O
+箱	O
+2	O
+4	O
+包	O
+2	O
+0	O
+0	O
+抽	O
+
+宝	O
+宝	O
+玩	B-cp
+具	I-cp
+1	O
+岁	O
+ 	O
+2	O
+岁	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+凌	O
+仕	O
+男	O
+士	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+我	O
+要	O
+买	O
+白	B-cp
+米	I-cp
+醋	I-cp
+
+我	O
+要	O
+买	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+女	O
+士	O
+
+我	O
+要	O
+买	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+ 	O
+超	O
+薄	O
+
+精	O
+酿	O
+啤	B-cp
+酒	I-cp
+多	O
+少	O
+钱	O
+
+女	O
+性	B-cp
+保	I-cp
+健	I-cp
+品	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+嘉	B-pp
+顿	I-pp
+ 	O
+香	O
+葱	O
+薄	B-cp
+饼	I-cp
+
+我	O
+要	O
+买	O
+蒙	B-pp
+牛	I-pp
+风	O
+味	O
+酸	B-cp
+奶	I-cp
+
+蒙	B-pp
+牛	I-pp
+高	O
+钙	O
+多	O
+少	O
+钱	O
+
+沐	B-cp
+浴	I-cp
+露	I-cp
+ 	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+维	B-pp
+达	I-pp
+卫	B-cp
+生	I-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+水	B-cp
+果	I-cp
+机	O
+ 	O
+榨	O
+汁	O
+机	O
+
+我	O
+要	O
+买	O
+小	O
+纸	B-cp
+巾	I-cp
+抽	B-cp
+纸	I-cp
+
+我	O
+想	O
+换	O
+手	B-cp
+机	I-cp
+，	O
+你	O
+帮	O
+我	O
+推	O
+荐	O
+的	O
+那	O
+款	O
+质	O
+量	O
+能	O
+保	O
+正	O
+吗	O
+
+舒	O
+耐	O
+爽	O
+身	O
+香	O
+体	O
+喷	B-cp
+雾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+蚊	B-cp
+帐	I-cp
+支	O
+架	O
+杆	O
+
+旺	O
+仔	O
+牛	B-cp
+奶	I-cp
+整	O
+箱	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+袋	O
+装	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+经	O
+典	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+包	B-cp
+包	I-cp
+ 	O
+男	O
+士	O
+出	O
+差	O
+旅	O
+行	O
+包	O
+
+介	O
+绍	O
+什	O
+么	O
+手	B-cp
+机	I-cp
+好	O
+
+女	O
+士	O
+斜	B-cp
+挎	I-cp
+包	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+避	B-cp
+孕	I-cp
+套	I-cp
+女	O
+用	O
+
+我	O
+要	O
+买	O
+卫	B-cp
+生	I-cp
+纸	I-cp
+心	B-pp
+相	I-pp
+印	I-pp
+
+我	O
+要	O
+买	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+ 	O
+泡	O
+沫	O
+
+毛	B-cp
+巾	I-cp
+纯	O
+棉	O
+ 	O
+洗	O
+脸	O
+ 	O
+家	O
+用	O
+成	O
+人	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+吾	O
+尚	O
+水	O
+微	O
+萌	O
+乳	B-cp
+酸	I-cp
+菌	I-cp
+
+啤	B-cp
+酒	I-cp
+ 	O
+3	O
+3	O
+0	O
+多	O
+少	O
+钱	O
+
+飞	B-pp
+利	I-pp
+浦	I-pp
+
+牛	B-cp
+奶	I-cp
+金	O
+典	O
+多	O
+少	O
+钱	O
+
+蛋	O
+糕	O
+面	B-cp
+包	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+乐	B-pp
+事	I-pp
+薯	B-cp
+片	I-cp
+原	O
+味	O
+
+希	O
+望	O
+宝	O
+宝	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+香	O
+辣	O
+鱼	B-cp
+仔	I-cp
+多	O
+少	O
+钱	O
+
+南	O
+街	O
+村	O
+拌	B-cp
+面	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+定	O
+型	O
+喷	B-cp
+雾	I-cp
+ 	O
+男	O
+士	O
+
+新	O
+家	O
+园	O
+烤	B-cp
+馍	I-cp
+片	I-cp
+多	O
+少	O
+钱	O
+
+闲	O
+趣	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+面	B-cp
+条	I-cp
+鲜	O
+
+我	O
+要	O
+买	O
+a	O
+b	O
+c	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+护	B-cp
+发	I-cp
+素	I-cp
+套	B-cp
+装	I-cp
+旅	O
+行	O
+装	O
+
+我	O
+要	O
+买	O
+毛	B-cp
+巾	I-cp
+浴	O
+巾	O
+套	B-cp
+装	I-cp
+
+我	O
+要	O
+买	O
+洗	B-cp
+衣	I-cp
+机	I-cp
+ 	O
+清	O
+洁	O
+
+安	O
+儿	O
+乐	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+你	O
+好	O
+！	O
+要	O
+求	O
+退	O
+贸	O
+，	O
+还	O
+需	O
+要	O
+到	O
+手	B-cp
+机	I-cp
+上	O
+注	O
+明	O
+吗	O
+
+银	O
+耳	O
+干	B-cp
+货	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+男	O
+士	O
+三	O
+角	O
+内	B-cp
+裤	I-cp
+
+我	O
+要	O
+买	O
+湿	B-cp
+巾	I-cp
+纸	O
+小	O
+包	O
+迷	O
+你	O
+
+三	B-cp
+件	I-cp
+套	I-cp
+ 	O
+床	O
+上	O
+ 	O
+用	O
+品	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+首	B-cp
+饰	I-cp
+盒	O
+
+涂	O
+层	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+硫	O
+磺	O
+香	B-cp
+皂	I-cp
+多	O
+少	O
+钱	O
+
+三	O
+牛	O
+苏	B-cp
+打	I-cp
+饼	I-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+水	O
+之	O
+密	O
+语	O
+套	B-cp
+装	I-cp
+
+我	O
+要	O
+买	O
+垃	B-cp
+圾	I-cp
+袋	I-cp
+ 	O
+中	O
+号	O
+大	O
+号	O
+ 	O
+加	O
+厚	O
+5	O
+0	O
+ 	O
+6	O
+0	O
+
+我	O
+想	O
+买	O
+东	O
+西	O
+手	B-cp
+机	I-cp
+没	O
+钱	O
+了	O
+
+我	O
+要	O
+买	O
+c	O
+o	O
+c	O
+o	O
+v	O
+e	O
+l	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+我	O
+要	O
+买	O
+果	O
+刀	O
+削	O
+皮	O
+器	O
+ 	O
+水	B-cp
+果	I-cp
+刨	O
+去	O
+皮	O
+器	O
+刮	O
+
+我	O
+要	O
+买	O
+长	B-cp
+裙	I-cp
+夏	O
+ 	O
+连	B-cp
+衣	I-cp
+裙	I-cp
+ 	O
+长	O
+款	O
+
+茶	O
+水	B-cp
+杯	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+多	O
+美	O
+滋	O
+奶	B-cp
+粉	I-cp
+
+我	O
+要	O
+买	O
+鸡	O
+蛋	O
+干	O
+良	B-pp
+品	I-pp
+铺	I-pp
+子	I-pp
+
+我	O
+要	O
+买	O
+可	O
+比	O
+可	O
+卡	O
+布	O
+奇	O
+诺	O
+咖	B-cp
+啡	I-cp
+
+我	O
+要	O
+买	O
+鱼	O
+排	O
+零	B-cp
+食	I-cp
+
+我	O
+想	O
+买	O
+保	B-cp
+温	I-cp
+杯	I-cp
+
+我	O
+要	O
+买	O
+无	O
+香	O
+纸	B-cp
+巾	I-cp
+小	O
+包	O
+
+大	B-pp
+王	I-pp
+ 	O
+维	O
+e	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+酸	B-cp
+奶	I-cp
+安	O
+慕	O
+希	O
+
+我	O
+要	O
+买	O
+内	B-cp
+裤	I-cp
+皂	O
+
+请	O
+问	O
+这	O
+个	O
+牛	B-cp
+奶	I-cp
+价	O
+格	O
+是	O
+多	O
+少	O
+
+牛	B-cp
+奶	I-cp
+ 	O
+儿	O
+童	O
+多	O
+少	O
+钱	O
+
+拉	B-cp
+拉	I-cp
+裤	I-cp
+大	B-pp
+王	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+伊	B-pp
+威	I-pp
+米	O
+粉	O
+
+全	O
+职	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+迷	O
+你	O
+可	B-pp
+爱	I-pp
+多	I-pp
+多	O
+少	O
+钱	O
+
+康	B-pp
+师	I-pp
+傅	I-pp
+粉	O
+丝	O
+多	O
+少	O
+钱	O
+
+小	B-pp
+米	I-pp
+6	O
+标	O
+题	O
+价	O
+格	O
+是	O
+2	O
+4	O
+9	O
+9	O
+购	O
+买	O
+却	O
+要	O
+2	O
+0	O
+9	O
+9	O
+
+矿	B-cp
+泉	I-cp
+水	I-cp
+桶	O
+装	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+零	B-cp
+食	I-cp
+组	O
+合	O
+
+儿	O
+童	O
+ 	O
+牙	B-cp
+刷	I-cp
+多	O
+少	O
+钱	O
+
+饼	B-cp
+干	I-cp
+礼	B-cp
+盒	I-cp
+多	O
+少	O
+钱	O
+
+沐	B-cp
+浴	I-cp
+露	I-cp
+ 	O
+清	O
+凉	O
+多	O
+少	O
+钱	O
+
+新	O
+养	O
+道	O
+ 	O
+零	B-cp
+乳	I-cp
+糖	I-cp
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+西	O
+瓜	O
+霜	O
+ 	O
+牙	B-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+汰	O
+渍	O
+薰	O
+衣	O
+草	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+多	O
+少	O
+钱	O
+
+黄	O
+桃	O
+罐	B-cp
+头	I-cp
+良	B-pp
+品	I-pp
+铺	I-pp
+子	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+彩	B-pp
+虹	I-pp
+蚊	O
+香	O
+片	O
+
+气	B-cp
+垫	I-cp
+
+玻	O
+璃	O
+瓶	O
+矿	B-cp
+泉	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+内	B-cp
+裤	I-cp
+
+我	O
+要	O
+买	O
+杯	B-cp
+子	I-cp
+ 	O
+玻	O
+璃	O
+办	B-cp
+公	I-cp
+室	I-cp
+
+婴	O
+儿	O
+湿	B-cp
+巾	I-cp
+屁	O
+屁	O
+专	O
+用	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+青	O
+芒	B-cp
+果	I-cp
+
+我	O
+要	O
+买	O
+好	B-pp
+奇	I-pp
+s	O
+
+吸	O
+果	B-cp
+冻	I-cp
+多	O
+少	O
+钱	O
+
+内	B-cp
+衣	I-cp
+无	O
+钢	O
+圈	O
+
+洗	O
+发	O
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+寿	O
+司	O
+帘	O
+竹	B-cp
+帘	I-cp
+多	O
+少	O
+钱	O
+
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+衣	I-cp
+粉	I-cp
+3	O
+k	O
+g	O
+
+书	B-cp
+包	I-cp
+ 	O
+女	O
+生	O
+多	O
+少	O
+钱	O
+
+加	O
+加	O
+酱	B-cp
+油	I-cp
+多	O
+少	O
+钱	O
+
+女	B-cp
+装	I-cp
+
+垃	B-cp
+圾	I-cp
+袋	I-cp
+大	O
+号	O
+多	O
+少	O
+钱	O
+
+迪	B-pp
+奥	I-pp
+口	B-cp
+红	I-cp
+在	O
+专	O
+柜	O
+怎	O
+么	O
+卖	O
+呀	O
+
+良	B-pp
+品	I-pp
+铺	I-pp
+子	I-pp
+鱼	O
+豆	O
+腐	O
+多	O
+少	O
+钱	O
+
+收	B-cp
+纳	I-cp
+袋	I-cp
+ 	O
+布	O
+艺	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+男	O
+装	O
+休	B-cp
+闲	I-cp
+裤	I-cp
+
+我	O
+要	O
+买	O
+多	B-pp
+芬	I-pp
+
+我	O
+要	O
+买	O
+肉	O
+干	O
+零	B-cp
+食	I-cp
+
+华	B-pp
+为	I-pp
+m	O
+a	O
+t	O
+e	O
+8	O
+手	B-cp
+机	I-cp
+壳	I-cp
+
+我	O
+要	O
+买	O
+6	O
+s	O
+钢	B-cp
+化	I-cp
+膜	I-cp
+
+我	O
+要	O
+买	O
+压	O
+缩	O
+饼	B-cp
+干	I-cp
+ 	O
+户	O
+外	O
+
+我	O
+要	O
+买	O
+花	B-pp
+王	I-pp
+ 	O
+护	B-cp
+垫	I-cp
+
+咖	B-cp
+啡	I-cp
+伴	O
+侣	O
+ 	O
+方	O
+糖	O
+多	O
+少	O
+钱	O
+
+康	O
+贝	O
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+内	B-cp
+衣	I-cp
+专	O
+用	O
+
+我	O
+要	O
+买	O
+老	O
+人	O
+零	B-cp
+食	I-cp
+
+护	O
+舒	O
+宝	O
+护	B-cp
+垫	I-cp
+多	O
+少	O
+钱	O
+
+纯	B-cp
+牛	I-cp
+奶	I-cp
+全	O
+脂	O
+多	O
+少	O
+钱	O
+
+t	O
+c	O
+蔓	O
+越	O
+莓	O
+曲	O
+奇	O
+饼	B-cp
+干	I-cp
+手	O
+提	O
+兔	O
+子	O
+铁	O
+礼	B-cp
+盒	I-cp
+多	O
+少	O
+钱	O
+
+水	B-cp
+果	I-cp
+冻	O
+多	O
+少	O
+钱	O
+
+滚	O
+筒	O
+洗	B-cp
+衣	I-cp
+机	I-cp
+清	O
+洗	O
+剂	O
+多	O
+少	O
+钱	O
+
+欢	O
+乐	O
+颂	O
+矿	B-cp
+泉	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+心	B-pp
+相	I-pp
+印	I-pp
+ 	O
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+烘	O
+焙	O
+原	O
+料	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+多	O
+少	O
+钱	O
+
+花	B-pp
+王	I-pp
+ 	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+妙	B-pp
+洁	I-pp
+保	O
+鲜	O
+膜	O
+
+我	O
+要	O
+买	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+ 	O
+好	B-pp
+奇	I-pp
+
+我	O
+要	O
+买	O
+卫	B-pp
+龙	I-pp
+辣	O
+条	O
+亲	O
+嘴	O
+烧	O
+
+尿	B-cp
+不	I-cp
+湿	I-cp
+ 	O
+大	B-pp
+王	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+妈	B-pp
+咪	I-pp
+宝	I-pp
+贝	I-pp
+拉	B-cp
+拉	I-cp
+裤	I-cp
+l	O
+女	O
+
+我	O
+要	O
+买	O
+迷	O
+你	O
+可	B-pp
+爱	I-pp
+多	I-pp
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+杯	B-cp
+子	I-cp
+
+童	B-cp
+鞋	I-cp
+多	O
+少	O
+钱	O
+
+吸	O
+盘	O
+置	B-cp
+物	I-cp
+架	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+大	O
+容	O
+量	O
+水	B-cp
+杯	I-cp
+2	O
+0	O
+0	O
+0	O
+m	O
+l	O
+
+旺	O
+旺	O
+芝	B-cp
+士	I-cp
+仙	I-cp
+贝	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+黄	B-cp
+芪	I-cp
+片	O
+
+我	O
+想	O
+买	O
+一	O
+款	O
+手	B-cp
+机	I-cp
+2	O
+7	O
+9	O
+8	O
+但	O
+是	O
+提	O
+示	O
+什	O
+么	O
+额	O
+度	O
+不	O
+够	O
+是	O
+什	O
+么	O
+意	O
+思	O
+，	O
+，	O
+，	O
+不	O
+能	O
+买	O
+吗	O
+？	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+花	B-pp
+王	I-pp
+乐	B-cp
+而	I-cp
+雅	I-cp
+透	O
+气	O
+护	B-cp
+垫	I-cp
+
+为	O
+什	O
+么	O
+买	O
+手	B-cp
+机	I-cp
+显	O
+示	O
+买	O
+不	O
+了	O
+
+我	O
+要	O
+买	O
+啤	B-cp
+酒	I-cp
+进	O
+口	O
+
+我	O
+要	O
+买	O
+美	O
+赞	O
+臣	O
+孕	O
+妇	O
+奶	B-cp
+粉	I-cp
+
+我	O
+要	O
+买	O
+面	B-cp
+霜	I-cp
+
+我	O
+想	O
+买	O
+个	O
+二	O
+手	O
+手	B-cp
+机	I-cp
+
+酸	B-cp
+奶	I-cp
+红	O
+枣	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+韩	O
+束	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+
+盒	B-gg
+装	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+护	B-cp
+臀	I-cp
+膏	I-cp
+
+我	O
+要	O
+买	O
+地	B-cp
+板	I-cp
+蜡	O
+
+我	O
+要	O
+买	O
+脆	B-cp
+虾	I-cp
+
+我	O
+要	O
+买	O
+咖	B-cp
+啡	I-cp
+星	O
+巴	O
+克	O
+
+男	O
+ 	O
+内	B-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+长	O
+粒	O
+大	B-cp
+米	I-cp
+多	O
+少	O
+钱	O
+
+电	O
+信	O
+4	B-gg
+G	I-gg
+
+卷	B-cp
+纸	I-cp
+ 	O
+1	B-gg
+8	I-gg
+0	I-gg
+g	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+白	O
+糖	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+
+花	B-cp
+生	I-cp
+糖	O
+花	B-cp
+生	I-cp
+酥	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+袜	B-cp
+子	I-cp
+男	O
+夏	O
+季	O
+短	B-cp
+袜	I-cp
+
+我	O
+要	O
+买	O
+儿	O
+童	O
+筷	B-cp
+子	I-cp
+ 	O
+训	O
+练	O
+筷	O
+
+我	O
+要	O
+买	O
+优	O
+选	O
+抽	B-cp
+纸	I-cp
+
+蚊	O
+虫	O
+喷	B-cp
+雾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+男	O
+短	B-cp
+袖	I-cp
+
+夹	O
+心	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+香	O
+醋	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+
+我	O
+要	O
+买	O
+护	B-cp
+垫	I-cp
+高	O
+洁	O
+丝	O
+
+大	O
+童	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+统	O
+一	O
+老	O
+坛	O
+酸	O
+菜	O
+方	B-cp
+便	I-cp
+面	I-cp
+袋	O
+装	O
+
+日	O
+用	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+塑	O
+料	O
+夹	B-cp
+子	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+大	B-pp
+王	I-pp
+拉	B-cp
+拉	I-cp
+裤	I-cp
+x	O
+x	B-gg
+l	I-gg
+
+压	O
+缩	O
+饼	B-cp
+干	I-cp
+ 	O
+干	O
+粮	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+粮	O
+悦	O
+大	B-pp
+吃	I-pp
+兄	I-pp
+
+洗	B-cp
+发	I-cp
+水	I-cp
+ 	O
+潘	B-pp
+婷	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+内	B-cp
+衣	I-cp
+ 	O
+文	B-cp
+胸	I-cp
+无	O
+钢	O
+圈	O
+
+我	O
+要	O
+买	O
+伊	B-pp
+利	I-pp
+纯	O
+奶	O
+
+我	O
+要	O
+买	O
+洗	O
+澡	O
+毛	B-cp
+巾	I-cp
+
+长	B-cp
+裙	I-cp
+
+康	B-pp
+师	I-pp
+傅	I-pp
+方	B-cp
+便	I-cp
+面	I-cp
+一	O
+箱	O
+多	O
+少	O
+钱	O
+
+金	O
+领	O
+冠	O
+3	O
+段	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+面	B-cp
+包	I-cp
+无	O
+糖	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+强	B-pp
+生	I-pp
+婴	O
+儿	O
+爽	O
+身	O
+粉	O
+
+我	O
+要	O
+买	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+包	O
+
+我	O
+要	O
+知	O
+道	O
+迪	B-pp
+奥	I-pp
+口	B-cp
+红	I-cp
+贵	O
+吗	O
+
+纸	B-cp
+巾	I-cp
+卷	B-cp
+纸	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+雪	B-pp
+完	I-pp
+美	I-pp
+
+我	O
+要	O
+买	O
+保	O
+宁	O
+婴	O
+儿	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+
+我	O
+要	O
+买	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+多	B-pp
+芬	I-pp
+
+西	O
+餐	O
+餐	B-cp
+具	I-cp
+套	B-cp
+装	I-cp
+多	O
+少	O
+钱	O
+
+牙	B-cp
+膏	I-cp
+二	O
+免	O
+一	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+旺	O
+旺	O
+牛	B-cp
+奶	I-cp
+
+牙	B-cp
+刷	I-cp
+ 	O
+佳	O
+洁	O
+士	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+去	O
+油	O
+洗	B-cp
+发	I-cp
+水	I-cp
+女	O
+士	O
+
+特	O
+价	O
+纸	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+休	O
+闲	O
+零	B-cp
+食	I-cp
+小	B-cp
+吃	I-cp
+多	O
+少	O
+钱	O
+
+休	B-cp
+闲	I-cp
+鞋	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+牛	B-cp
+奶	I-cp
+ 	O
+枕	O
+
+我	O
+要	O
+买	O
+盼	O
+盼	O
+法	O
+式	O
+小	O
+面	B-cp
+包	I-cp
+
+卫	B-pp
+龙	I-pp
+辣	O
+条	O
+经	O
+典	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+纸	B-cp
+巾	I-cp
+手	O
+帕	O
+
+杀	O
+蚊	O
+剂	O
+ 	O
+喷	B-cp
+雾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+8	O
+6	O
+牙	B-cp
+膏	I-cp
+
+魅	O
+蓝	O
+手	B-cp
+机	I-cp
+
+洗	O
+洗	B-cp
+衣	I-cp
+机	I-cp
+多	O
+少	O
+钱	O
+
+可	B-pp
+爱	I-pp
+多	I-pp
+冰	B-cp
+淇	I-cp
+淋	I-cp
+多	O
+少	O
+钱	O
+
+沙	B-pp
+宣	I-pp
+发	O
+膜	O
+多	O
+少	O
+钱	O
+
+红	B-cp
+豆	I-cp
+多	O
+少	O
+钱	O
+
+洗	O
+发	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+2	O
+合	O
+1	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+我	O
+要	O
+买	O
+花	B-pp
+王	I-pp
+拉	B-cp
+拉	I-cp
+裤	I-cp
+m	O
+
+拖	B-cp
+把	I-cp
+桶	I-cp
+ 	O
+单	O
+桶	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+眼	B-cp
+霜	I-cp
+去	O
+细	O
+纹	O
+紧	O
+致	O
+提	O
+拉	O
+抗	O
+皱	O
+
+卫	B-cp
+生	I-cp
+巾	I-cp
+2	O
+8	O
+0	O
+多	O
+少	O
+钱	O
+
+金	B-pp
+龙	I-pp
+鱼	I-pp
+玉	O
+米	O
+油	O
+多	O
+少	O
+钱	O
+
+百	O
+草	O
+味	O
+核	B-cp
+桃	I-cp
+多	O
+少	O
+钱	O
+
+男	O
+士	O
+手	B-cp
+包	I-cp
+多	O
+少	O
+钱	O
+
+科	O
+迪	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+裤	B-cp
+子	I-cp
+
+6	O
+.	O
+0	O
+寸	O
+手	B-cp
+机	I-cp
+
+纽	O
+瑞	O
+滋	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+男	O
+童	O
+袜	B-cp
+子	I-cp
+夏	O
+季	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+香	B-cp
+皂	I-cp
+儿	O
+童	O
+
+无	O
+香	O
+纸	B-cp
+巾	I-cp
+小	O
+包	O
+多	O
+少	O
+钱	O
+
+维	B-pp
+达	I-pp
+湿	O
+纸	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+好	B-pp
+奇	I-pp
+纸	B-cp
+尿	I-cp
+裤	I-cp
+铂	B-xh
+金	I-xh
+装	I-xh
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+统	O
+一	O
+拌	B-cp
+面	I-cp
+
+我	O
+要	O
+买	O
+多	O
+力	O
+甾	O
+醇	O
+玉	O
+米	O
+油	O
+5	B-gg
+l	I-gg
+
+我	O
+要	O
+买	O
+御	B-cp
+香	I-cp
+龙	I-cp
+品	I-cp
+
+我	O
+要	O
+买	O
+牙	B-cp
+刷	I-cp
+中	O
+毛	O
+成	O
+人	O
+
+百	O
+富	O
+帝	O
+凉	B-cp
+席	I-cp
+多	O
+少	O
+钱	O
+
+农	O
+夫	O
+山	O
+泉	O
+矿	B-cp
+泉	I-cp
+水	I-cp
+2	O
+4	O
+瓶	O
+多	O
+少	O
+钱	O
+
+乐	B-pp
+高	I-pp
+积	B-cp
+木	I-cp
+拼	B-cp
+装	I-cp
+玩	I-cp
+具	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+d	O
+o	O
+v	O
+e	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+
+电	O
+饭	O
+煲	O
+5	B-gg
+l	I-gg
+ 	O
+6	O
+l	O
+大	O
+容	O
+量	O
+多	O
+少	O
+钱	O
+
+康	B-pp
+师	I-pp
+傅	I-pp
+蛋	O
+酥	O
+卷	O
+多	O
+少	O
+钱	O
+
+康	B-pp
+师	I-pp
+傅	I-pp
+方	B-cp
+便	I-cp
+面	I-cp
+箱	O
+装	O
+多	O
+少	O
+钱	O
+
+东	O
+古	O
+酱	B-cp
+油	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+想	O
+买	O
+凉	B-cp
+鞋	I-cp
+
+白	B-cp
+酒	I-cp
+
+我	O
+要	O
+买	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+1	O
+l	O
+ 	O
+1	O
+2	O
+盒	O
+ 	O
+箱	O
+
+欧	B-pp
+莱	I-pp
+雅	I-pp
+洗	O
+发	O
+多	O
+少	O
+钱	O
+
+毛	O
+孔	O
+堵	O
+塞	O
+了	O
+用	O
+什	O
+么	O
+面	B-cp
+膜	I-cp
+好	O
+呢	O
+
+生	B-cp
+鲜	I-cp
+食	O
+品	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+女	O
+上	B-cp
+衣	I-cp
+
+休	B-cp
+闲	I-cp
+食	I-cp
+品	I-cp
+小	B-cp
+吃	I-cp
+办	B-cp
+公	I-cp
+室	I-cp
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+细	O
+面	B-cp
+条	I-cp
+
+我	O
+要	O
+买	O
+面	B-cp
+条	I-cp
+
+我	O
+要	O
+买	O
+低	O
+热	O
+量	O
+饼	B-cp
+干	I-cp
+
+女	O
+士	O
+牛	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+天	B-pp
+猫	I-pp
+中	O
+年	O
+女	B-cp
+装	I-cp
+
+短	B-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+强	B-pp
+生	I-pp
+婴	O
+儿	O
+爽	O
+身	O
+粉	O
+1	O
+4	O
+0	O
+g	O
+
+纸	B-cp
+尿	I-cp
+裤	I-cp
+花	B-pp
+王	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+乐	B-pp
+事	I-pp
+薯	B-cp
+片	I-cp
+芝	O
+士	O
+
+进	O
+口	O
+零	B-cp
+食	I-cp
+薯	B-cp
+片	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+大	B-pp
+王	I-pp
+x	O
+x	B-gg
+l	I-gg
+
+我	O
+要	O
+买	O
+益	O
+生	O
+菌	O
+酸	B-cp
+奶	I-cp
+发	O
+酵	O
+剂	O
+
+特	O
+产	O
+小	B-cp
+吃	I-cp
+零	B-cp
+食	I-cp
+四	O
+川	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+雪	B-pp
+花	I-pp
+纯	O
+生	O
+啤	B-cp
+酒	I-cp
+
+华	B-pp
+为	I-pp
+m	O
+a	O
+t	O
+e	O
+9	O
+
+我	O
+要	O
+买	O
+拉	O
+芳	O
+无	O
+硅	O
+油	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+女	O
+式	O
+凉	B-cp
+鞋	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+止	O
+汗	O
+露	O
+走	B-cp
+珠	I-cp
+ 	O
+男	O
+士	O
+
+男	O
+士	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+
+x	O
+x	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+气	B-cp
+垫	I-cp
+粉	B-cp
+扑	I-cp
+多	O
+少	O
+钱	O
+
+运	B-cp
+动	I-cp
+鞋	I-cp
+
+华	O
+素	O
+愈	O
+创	O
+牙	B-cp
+膏	I-cp
+多	O
+少	O
+钱	O
+
+金	B-pp
+龙	I-pp
+鱼	I-pp
+大	B-cp
+米	I-cp
+多	O
+少	O
+钱	O
+
+日	O
+式	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+金	B-pp
+龙	I-pp
+鱼	I-pp
+外	O
+婆	O
+乡	O
+小	O
+榨	O
+菜	B-cp
+籽	I-cp
+油	I-cp
+
+维	B-pp
+达	I-pp
+婴	O
+儿	O
+纸	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+妈	B-pp
+咪	I-pp
+宝	I-pp
+贝	I-pp
+m	O
+
+我	O
+要	O
+买	O
+明	O
+治	O
+酸	B-cp
+奶	I-cp
+
+我	O
+要	O
+买	O
+德	B-pp
+芙	I-pp
+散	O
+装	O
+
+数	O
+字	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+李	O
+医	O
+生	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+
+奶	B-cp
+粉	I-cp
+
+酸	B-cp
+奶	I-cp
+发	O
+酵	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+罗	O
+曼	O
+诺	O
+洗	B-cp
+发	I-cp
+水	I-cp
+
+我	O
+要	O
+买	O
+蒙	B-pp
+牛	I-pp
+纯	B-cp
+牛	I-cp
+奶	I-cp
+
+组	O
+装	O
+电	B-cp
+脑	I-cp
+
+杯	B-cp
+子	I-cp
+ 	O
+创	O
+意	O
+简	O
+约	O
+多	O
+少	O
+钱	O
+
+水	O
+解	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+女	O
+孩	O
+玩	B-cp
+具	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+蓝	B-pp
+月	I-pp
+亮	I-pp
+洁	O
+厕	O
+宝	O
+
+模	B-cp
+具	I-cp
+雪	O
+糕	O
+多	O
+少	O
+钱	O
+
+小	O
+头	O
+软	O
+毛	O
+牙	B-cp
+刷	I-cp
+成	O
+人	O
+多	O
+少	O
+钱	O
+
+茵	O
+茵	O
+拉	B-cp
+拉	I-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+海	O
+飞	O
+丝	O
+去	O
+屑	O
+洗	B-cp
+发	I-cp
+水	I-cp
+怡	O
+神	O
+冰	O
+凉	O
+型	O
+7	O
+5	O
+0	O
+m	O
+l	O
+
+我	O
+要	O
+买	O
+夹	O
+心	O
+饼	B-cp
+干	I-cp
+进	O
+口	O
+
+江	O
+西	O
+特	O
+产	O
+零	B-cp
+食	I-cp
+小	B-cp
+吃	I-cp
+多	O
+少	O
+钱	O
+
+植	O
+护	O
+原	O
+木	O
+抽	B-cp
+纸	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+越	O
+南	O
+特	O
+产	O
+进	O
+口	O
+食	O
+品	O
+ 	O
+零	B-cp
+食	I-cp
+
+卷	B-cp
+纸	I-cp
+1	O
+8	O
+0	O
+克	O
+多	O
+少	O
+钱	O
+
+蒙	B-pp
+牛	I-pp
+脱	B-cp
+脂	I-cp
+牛	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+牙	B-cp
+膏	I-cp
+狮	O
+王	O
+多	O
+少	O
+钱	O
+
+健	O
+能	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+光	B-pp
+明	I-pp
+风	O
+味	O
+酸	B-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+牡	B-cp
+蛎	I-cp
+干	O
+
+欧	B-pp
+莱	I-pp
+雅	I-pp
+男	O
+士	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+苏	O
+菲	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+护	B-cp
+垫	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+蒙	B-pp
+牛	I-pp
+风	O
+味	O
+酸	O
+牛	B-cp
+奶	I-cp
+
+风	B-cp
+扇	I-cp
+落	O
+地	O
+多	O
+少	O
+钱	O
+
+榴	O
+莲	O
+咖	B-cp
+啡	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+低	O
+脂	O
+奶	B-cp
+粉	I-cp
+
+迪	O
+士	O
+尼	O
+水	B-cp
+杯	I-cp
+多	O
+少	O
+钱	O
+
+儿	O
+童	O
+袜	B-cp
+子	I-cp
+ 	O
+男	O
+童	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+笑	O
+爽	O
+
+燕	O
+京	O
+纯	O
+生	O
+啤	B-cp
+酒	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+厨	O
+房	O
+用	O
+纸	O
+吸	O
+油	B-cp
+纸	I-cp
+
+我	O
+要	O
+买	O
+杀	O
+蚊	O
+子	O
+喷	B-cp
+雾	I-cp
+剂	O
+
+六	B-pp
+神	I-pp
+宝	O
+宝	O
+驱	O
+蚊	O
+花	O
+露	O
+水	O
+多	O
+少	O
+钱	O
+
+甜	O
+粽	B-cp
+子	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+罐	B-cp
+头	I-cp
+食	O
+品	O
+
+好	B-pp
+奇	I-pp
+x	O
+x	B-gg
+l	I-gg
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+毛	B-cp
+巾	I-cp
+纯	O
+棉	O
+ 	O
+洗	O
+脸	O
+
+我	O
+要	O
+买	O
+欧	B-pp
+莱	I-pp
+雅	I-pp
+洗	B-cp
+发	I-cp
+水	I-cp
+护	B-cp
+发	I-cp
+素	I-cp
+套	B-cp
+装	I-cp
+
+男	O
+士	O
+衣	B-cp
+服	I-cp
+
+贝	B-pp
+亲	I-pp
+痱	O
+子	O
+多	O
+少	O
+钱	O
+
+湿	B-cp
+巾	I-cp
+ 	O
+婴	O
+儿	O
+多	O
+少	O
+钱	O
+
+酸	O
+牛	B-cp
+奶	I-cp
+天	B-pp
+猫	I-pp
+超	O
+市	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+洗	B-cp
+发	I-cp
+水	I-cp
+ 	O
+控	O
+油	O
+
+女	O
+袜	B-cp
+子	I-cp
+纯	O
+棉	O
+ 	O
+短	B-cp
+袜	I-cp
+夏	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+布	O
+尿	B-cp
+裤	I-cp
+
+宝	O
+宝	O
+玩	B-cp
+具	I-cp
+多	O
+少	O
+钱	O
+
+日	O
+本	O
+咖	B-cp
+啡	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+牛	B-cp
+奶	I-cp
+1	O
+2	O
+盒	O
+ 	O
+箱	O
+
+香	B-cp
+皂	I-cp
+洗	O
+澡	O
+多	O
+少	O
+钱	O
+
+资	O
+生	O
+堂	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+多	O
+少	O
+钱	O
+
+农	O
+夫	O
+山	O
+泉	O
+天	O
+然	O
+矿	B-cp
+泉	I-cp
+水	I-cp
+5	O
+3	O
+5	O
+m	O
+l	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+贝	B-pp
+亲	I-pp
+宽	O
+口	O
+径	O
+玻	O
+璃	O
+奶	B-cp
+瓶	I-cp
+
+心	O
+心	B-pp
+相	I-pp
+印	I-pp
+婴	O
+儿	O
+多	O
+少	O
+钱	O
+
+迷	O
+你	O
+垃	B-cp
+圾	I-cp
+袋	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+饼	B-cp
+干	I-cp
+散	O
+装	O
+
+兰	O
+花	O
+酱	B-cp
+油	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+长	O
+寿	O
+花	O
+葵	B-cp
+花	I-cp
+籽	I-cp
+油	I-cp
+
+我	O
+要	O
+买	O
+水	B-cp
+杯	I-cp
+ 	O
+学	O
+生	O
+
+我	O
+要	O
+买	O
+裤	O
+夹	B-cp
+子	I-cp
+
+我	O
+要	O
+买	O
+小	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+
+卫	O
+宝	O
+ 	O
+先	O
+进	O
+除	O
+菌	O
+香	B-cp
+皂	I-cp
+多	O
+少	O
+钱	O
+
+牙	B-cp
+刷	I-cp
+硬	O
+毛	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+沙	B-cp
+发	I-cp
+凉	B-cp
+席	I-cp
+靠	O
+垫	O
+
+我	O
+要	O
+买	O
+酸	B-cp
+奶	I-cp
+片	O
+
+泡	B-cp
+面	I-cp
+ 	O
+进	O
+口	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+泰	O
+国	O
+泡	B-cp
+面	I-cp
+
+我	O
+要	O
+买	O
+水	O
+之	O
+密	O
+语	O
+洗	O
+护	O
+套	B-cp
+装	I-cp
+
+美	O
+素	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+卷	B-cp
+纸	I-cp
+ 	O
+无	O
+芯	O
+ 	O
+箱	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+黑	O
+咖	B-cp
+啡	I-cp
+纯	O
+咖	B-cp
+啡	I-cp
+无	O
+糖	O
+
+我	O
+要	O
+买	O
+蜡	O
+笔	O
+小	B-xh
+新	I-xh
+
+洗	B-cp
+发	I-cp
+水	I-cp
+家	O
+庭	O
+装	O
+多	O
+少	O
+钱	O
+
+麦	B-cp
+片	I-cp
+早	O
+餐	O
+ 	O
+冲	O
+饮	O
+ 	O
+瘦	O
+身	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+中	B-cp
+老	I-cp
+年	I-cp
+麦	I-cp
+片	I-cp
+
+我	O
+要	O
+买	O
+蓝	B-pp
+月	I-pp
+亮	I-pp
+消	O
+毒	O
+液	O
+
+尿	B-cp
+不	I-cp
+湿	I-cp
+薄	O
+多	O
+少	O
+钱	O
+
+欧	B-pp
+莱	I-pp
+雅	I-pp
+爽	B-cp
+肤	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+良	B-pp
+品	I-pp
+铺	I-pp
+子	I-pp
+兰	O
+花	O
+豆	O
+
+婴	O
+儿	O
+ 	O
+洗	B-cp
+衣	I-cp
+液	I-cp
+多	O
+少	O
+钱	O
+
+方	B-cp
+便	I-cp
+面	I-cp
+ 	O
+杯	O
+装	O
+多	O
+少	O
+钱	O
+
+私	O
+处	O
+湿	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+妈	B-pp
+咪	I-pp
+宝	I-pp
+贝	I-pp
+拉	B-cp
+拉	I-cp
+裤	I-cp
+x	O
+x	B-gg
+l	I-gg
+
+我	O
+要	O
+买	O
+液	O
+体	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+夜	O
+用	O
+
+我	O
+要	O
+买	O
+洁	B-cp
+面	I-cp
+乳	I-cp
+
+我	O
+要	O
+买	O
+烤	B-cp
+馍	I-cp
+片	I-cp
+
+t	O
+i	O
+p	O
+o	O
+面	B-cp
+包	I-cp
+干	O
+多	O
+少	O
+钱	O
+
+散	O
+称	O
+零	B-cp
+食	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+零	B-cp
+食	I-cp
+辣	O
+条	O
+
+我	O
+要	O
+买	O
+充	B-cp
+电	I-cp
+器	I-cp
+苹	O
+果	O
+
+床	O
+单	O
+被	O
+套	O
+三	B-cp
+件	I-cp
+套	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+良	B-pp
+品	I-pp
+铺	I-pp
+子	I-pp
+沙	B-cp
+拉	I-cp
+薯	I-cp
+条	I-cp
+
+我	O
+要	O
+买	O
+董	O
+小	O
+姐	O
+烤	O
+薯	B-cp
+片	I-cp
+
+昨	O
+天	O
+买	O
+的	O
+牛	B-cp
+奶	I-cp
+到	O
+了	O
+么	O
+
+旅	O
+行	O
+牙	B-cp
+刷	I-cp
+盒	O
+多	O
+少	O
+钱	O
+
+4	O
+段	O
+奶	B-cp
+粉	I-cp
+多	O
+少	O
+钱	O
+
+伊	B-pp
+利	I-pp
+ 	O
+纯	B-cp
+牛	I-cp
+奶	I-cp
+ 	O
+箱	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+ 	O
+n	O
+b	O
+
+我	O
+要	O
+买	O
+火	O
+腿	O
+肠	O
+ 	O
+天	B-pp
+猫	I-pp
+超	O
+市	O
+
+我	O
+要	O
+买	O
+泡	B-cp
+面	I-cp
+碗	O
+
+可	O
+以	O
+告	O
+诉	O
+我	O
+最	O
+近	O
+牛	B-cp
+奶	I-cp
+的	O
+价	O
+格	O
+不	O
+
+我	O
+要	O
+买	O
+口	O
+水	O
+娃	O
+零	B-cp
+食	I-cp
+大	O
+礼	O
+包	O
+
+我	O
+要	O
+买	O
+小	B-pp
+米	I-pp
+手	B-cp
+机	I-cp
+6	O
+
+五	B-pp
+羊	I-pp
+拉	B-cp
+拉	I-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+要	O
+温	O
+和	O
+不	O
+刺	O
+激	O
+皮	O
+肤	O
+的	O
+补	O
+水	O
+面	B-cp
+膜	I-cp
+皮	O
+肤	O
+特	O
+敏	O
+感	O
+
+我	O
+要	O
+买	O
+卫	B-pp
+龙	I-pp
+亲	O
+嘴	O
+烧	O
+4	O
+0	O
+0	O
+g	O
+
+良	B-pp
+品	I-pp
+铺	I-pp
+子	I-pp
+辣	O
+条	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+香	O
+葱	O
+饼	B-cp
+干	I-cp
+
+我	O
+要	O
+买	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+1	O
+0	O
+0	O
+m	O
+l	O
+
+桃	O
+罐	B-cp
+头	I-cp
+多	O
+少	O
+钱	O
+
+苏	O
+菲	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+日	O
+本	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+r	O
+i	O
+c	B-cp
+h	I-cp
+e	I-cp
+e	I-cp
+s	I-cp
+e	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+挂	B-cp
+钩	I-cp
+
+小	O
+纸	B-cp
+巾	I-cp
+多	O
+少	O
+钱	O
+
+散	O
+称	O
+饼	B-cp
+干	I-cp
+多	O
+少	O
+钱	O
+
+笨	B-cp
+笨	I-cp
+狗	I-cp
+ 	O
+夹	O
+心	O
+米	O
+果	O
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+三	O
+千	O
+五	O
+以	O
+下	O
+的	O
+手	B-cp
+机	I-cp
+
+我	O
+要	O
+买	O
+洁	O
+婷	O
+卫	B-cp
+生	I-cp
+巾	I-cp
+夜	O
+用	O
+
+小	O
+洋	O
+人	O
+乳	B-cp
+酸	I-cp
+菌	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+李	O
+子	O
+水	B-cp
+果	I-cp
+
+查	O
+牛	B-cp
+奶	I-cp
+价	O
+格	O
+
+我	O
+要	O
+买	O
+沐	B-cp
+浴	I-cp
+露	I-cp
+男	O
+女	O
+
+我	O
+要	O
+买	O
+鸡	B-cp
+蛋	I-cp
+面	I-cp
+ 	O
+箱	O
+
+北	O
+京	O
+麻	O
+辣	O
+方	B-cp
+便	I-cp
+面	I-cp
+多	O
+少	O
+钱	O
+
+玉	O
+兰	O
+油	O
+洗	B-cp
+面	I-cp
+奶	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+纸	B-cp
+尿	I-cp
+裤	I-cp
+
+纯	O
+净	O
+水	B-cp
+瓶	I-cp
+装	O
+多	O
+少	O
+钱	O
+
+洗	O
+发	O
+露	O
+欧	B-pp
+莱	I-pp
+雅	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+收	B-cp
+纳	I-cp
+袋	I-cp
+真	O
+空	O
+压	O
+缩	O
+袋	O
+ 	O
+被	O
+子	O
+大	O
+号	O
+
+脱	O
+脂	O
+奶	B-cp
+粉	I-cp
+成	O
+人	O
+ 	O
+女	O
+多	O
+少	O
+钱	O
+
+洗	B-cp
+发	I-cp
+水	I-cp
+ 	O
+无	O
+硅	O
+油	O
+多	O
+少	O
+钱	O
+
+美	B-pp
+图	I-pp
+T	O
+8	O
+
+我	O
+要	O
+买	O
+电	O
+热	O
+水	B-cp
+壶	I-cp
+ 	O
+家	O
+用	O
+
+我	O
+要	O
+买	O
+烧	O
+水	B-cp
+壶	I-cp
+ 	O
+煤	O
+气	O
+
+席	O
+子	O
+凉	B-cp
+席	I-cp
+多	O
+少	O
+钱	O
+
+小	O
+风	B-cp
+扇	I-cp
+ 	O
+迷	O
+你	O
+多	O
+少	O
+钱	O
+
+福	B-pp
+临	I-pp
+门	I-pp
+稻	O
+花	O
+香	O
+多	O
+少	O
+钱	O
+
+买	O
+衣	B-cp
+服	I-cp
+
+我	O
+要	O
+买	O
+森	O
+田	O
+玻	O
+尿	O
+酸	O
+面	B-cp
+膜	I-cp
+
+我	O
+要	O
+买	O
+牛	B-cp
+奶	I-cp
+2	O
+4	O
+盒	O
+
+全	O
+自	O
+动	O
+洗	B-cp
+衣	I-cp
+机	I-cp
+多	O
+少	O
+钱	O
+
+眉	B-cp
+笔	I-cp
+防	O
+水	O
+多	O
+少	O
+钱	O
+
+女	B-cp
+鞋	I-cp
+拖	O
+多	O
+少	O
+钱	O
+
+手	B-cp
+机	I-cp
+钢	B-cp
+化	I-cp
+膜	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+卫	O
+宝	O
+ 	O
+先	O
+进	O
+除	O
+菌	O
+香	B-cp
+皂	I-cp
+
+我	O
+要	O
+买	O
+黄	O
+飞	O
+红	O
+麻	O
+辣	O
+花	B-cp
+生	I-cp
+
+我	O
+要	O
+买	O
+妈	B-pp
+咪	I-pp
+宝	I-pp
+贝	I-pp
+ 	O
+x	B-gg
+l	I-gg
+
+麦	B-cp
+片	I-cp
+燕	O
+麦	O
+多	O
+少	O
+钱	O
+
+天	O
+方	O
+方	B-cp
+便	I-cp
+面	I-cp
+多	O
+少	O
+钱	O
+
+a	O
+b	O
+内	B-cp
+裤	I-cp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+福	B-pp
+临	I-pp
+门	I-pp
+ 	O
+稻	O
+花	O
+香	O
+
+伊	B-pp
+利	I-pp
+多	O
+少	O
+钱	O
+
+我	O
+要	O
+买	O
+6	B-xh
+s	I-xh
+p	I-xh
+l	O
+u	O
+s	O
+手	B-cp
+机	I-cp
+套	O
+
+菲	O
+诗	O
+小	O
+铺	O
+洗	B-cp
+发	I-cp
+水	I-cp
+多	O
+少	O
+钱	O
+
+挂	B-cp
+面	I-cp
+ 	O
+细	O
+面	B-cp
+条	I-cp
+多	O
+少	O
+钱	O
+
+洁	O
+成	O
+垃	B-cp
+圾	I-cp
+袋	I-cp
+多	O
+少	O
+钱	O
+
+睡	B-cp
+衣	I-cp
+女	O
+
+无	O
+叶	O
+风	B-cp
+扇	I-cp
+多	O
+少	O
+钱	O
+

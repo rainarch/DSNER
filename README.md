@@ -1,11 +1,10 @@
 # DSNER
-Codes and Dataset for COLING2018 paper ‘‘Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning’’.
 
-## Cite
+DSNER = Distantly Supervised NER
 
-If you use the codes or dataset, please cite the following paper:
+This project include the code and data for our paper ‘‘Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning’’.
 
-[Yang et al., 2018] Yaosheng Yang, Wenliang Chen, Zhenghua Li, Zhengqiu He, Min Zhang. Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning. In Proceedings of COLING.
+
 
 ## Codes
 
@@ -22,7 +21,7 @@ Other public functions are defined in the utils.py
 
 ## Resource
 
-You can store your resources such as mapping-dict, pre-trained embeddings or saved_models in the folder Resource for reloading, as long as the path has been correctly set in the paramater file.
+You can store your resources such as mapping-dict, pre-trained embeddings or saved_models in the folder Resource. And then set the paths in the configure file=Config.py.
 
 ## Dataset
 
@@ -76,3 +75,8 @@ python train_DSNER_Model.py
 
 The test results in the process of training will be saved in folder 'tmp'.
 
+## Cite
+
+If you use the code or data, please cite the following paper:
+
+[Yang et al., 2018] Yaosheng Yang, Wenliang Chen, Zhenghua Li, Zhengqiu He, Min Zhang. Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning. In Proceedings of COLING.

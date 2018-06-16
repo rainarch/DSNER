@@ -57,7 +57,9 @@ And as mentioned in our paper, we can use these distantly matched data as superv
 面   B-cp
 膜   I-cp
 ```
+## Pre-trained Embeddings
 
+The pre-trained embeddings are trained by tool word2vec on one million sentences which are the user-generated text from Internet. We set the embedding dimension as 100, the minimum frequency of occurrence as 5, and the window size of 5. The embeddings file is available at .\resource\embedding\.
 
 ## Train
 

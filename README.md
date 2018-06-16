@@ -2,7 +2,7 @@
 
 DSNER = Distantly Supervised NER
 
-This project include the code and data for our paper ‘‘Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning’’.
+This project includes the code and data for our paper ‘‘Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning’’ at COLING-2108.
 
 
 

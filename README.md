@@ -78,9 +78,9 @@ python train_DSNER_Model.py
 The test results in the process of training will be saved in folder 'tmp'.
 
 ## Extensions
-
-[//]: <> DSNER-pytorch (by Farhad @nooralahzadeh): It is a Pytorch version of our code. Please note that we have not tested this version yet. The project can be found at https://github.com/nooralahzadeh/DSNER-pytorch. Thank Farhad!  
-
+<!---
+[DSNER-pytorch (by Farhad @nooralahzadeh): It is a Pytorch version of our code. Please note that we have not tested this version yet. The project can be found at https://github.com/nooralahzadeh/DSNER-pytorch. Thank Farhad!  ]
+-->
 
 ## Cite
 
